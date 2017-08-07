@@ -2,73 +2,24 @@
 
 Michael Buchler, Florida State University
 
-We aren’t generally afforded much time to introduce twentieth- and
-twenty-first-century music to our undergraduates. So when we arrive at
-the unit (or, if we’re fortunate, the semester) on “new” music, we need
-to be efficient with our time and should keep our eyes and ears on the
-ultimate prize: leaving students so enamored with at least part of the
-atonal repertoire that they want to perform it and study it further. Of
-course, some students take to Webern and Mamlok like ducks to water, but
-others need to be gently guided and shown that they can come to terms
-with this diverse repertoire in ways that comport with their other
-music-analytical experiences. For both eager and skeptical students,
-form, motive, timbre, and pitch focus can all provide effective entry
-points to appreciating atonal music. In this essay, I argue that
+We aren’t generally afforded much time to introduce twentieth- and twenty-first-century music to our undergraduates. So when we arrive at the unit (or, if we’re fortunate, the semester) on “new” music, we need to be efficient with our time and should keep our eyes and ears on the
+ultimate prize: leaving students so enamored with at least part of the atonal repertoire that they want to perform it and study it further. Of course, some students take to Webern and Mamlok like ducks to water, but others need to be gently guided and shown that they can come to terms  with this diverse repertoire in ways that comport with their other music-analytical experiences. For both eager and skeptical students, form, motive, timbre, and pitch focus can all provide effective entry  points to appreciating atonal music. In this essay, I argue that
 set-class analysis might not.
 
-By “set class” (henceforth SC), I mean the usual pitch-class set classes
-that presume octave equivalence as well as
-[*transpositional*](http://openmusictheory.com/transposition.html) and
-[*inversional*](http://openmusictheory.com/inversion.html) (T*n*/T*n*I)
-equivalence and an insouciance to order. They are most often labeled
-according to their [*prime
-form*](http://openmusictheory.com/setClassAndPrimeForm1.html). We all
-know that those three (or, with order, four) equivalence categories are
-part and parcel of SC analysis: indeed, they are implicitly built into
-the prime-form algorithms we teach and which we now find in every core
-undergraduate theory textbook that extends beyond common-practice music.
+By “set class” (henceforth SC), I mean the usual pitch-class set classes that presume octave equivalence as well as [*transpositional*](http://openmusictheory.com/transposition.html) and [*inversional*](http://openmusictheory.com/inversion.html) (T*n*/T*n*I) equivalence and an insouciance to order. They are most often labeled according to their [*prime form*](http://openmusictheory.com/setClassAndPrimeForm1.html). We all know that those three (or, with order, four) equivalence categories are part and parcel of SC analysis: indeed, they are implicitly built into the prime-form algorithms we teach and which we now find in every core undergraduate theory textbook that extends beyond common-practice music. 
 
-I spent the first part of my career conducting pcset theory research,
-especially in trying to figure out ways to relate non-equivalent SCs to
-one another. I’ve taught SC analysis more times than I can readily
-count. (One might imagine that I have conditioned myself to count only
-up to twelve.) While I still enjoy plumbing the boundaries of our closed
-universe of 4,096 (2^12^) pcsets and 223 SCs, I have, over time, devoted
-fewer and fewer classes to introducing the joys of sets to our
-undergraduates.
+I spent the first part of my career conducting pcset theory research,especially in trying to figure out ways to relate non-equivalent SCs to one another. I’ve taught SC analysis more times than I can readily count. (One might imagine that I have conditioned myself to count only up to twelve.) While I still enjoy plumbing the boundaries of our closed universe of 4,096 (2^12^) pcsets and 223 SCs, I have, over time, devoted fewer and fewer classes to introducing the joys of sets to our undergraduates.
 
-Many of my students enjoy calculating prime form. There’s something
-satisfying about arriving at unquestionably correct answers in a subject
-as potentially relativistic as music analysis. And as heuristics go,
-those clock faces seem far better than the piano keyboards beginning
-theory students often draw on their papers to help them calculate
-intervals. My reasons for lessening or eliminating prime form and SCs
-from my undergraduate classes have nothing to do with student ability or
-interest and everything to do with the time it takes to contextualize
-this tool and encourage its critical and non-reflexive application.
+Many of my students enjoy calculating prime form. There’s something satisfying about arriving at unquestionably correct answers in a subject as potentially relativistic as music analysis. And as heuristics go, those clock faces seem far better than the piano keyboards beginning
+theory students often draw on their papers to help them calculate intervals. My reasons for lessening or eliminating prime form and SCs from my undergraduate classes have nothing to do with student ability or interest and everything to do with the time it takes to contextualize
+this tool and encourage its critical and non-reflexive application. 
 
-A central problem with introducing SC analysis to beginning atonal
-analysts has to do with that old adage about everything appearing to be
-a nail when the only tool in your toolbox is a hammer. Prime-form
-pedagogy might be democratizing
-([*Schuijer*](https://openlibrary.org/works/OL11999910W/Analyzing_atonal_music)
-(277) made this case), and it might well be true that rendering prime
-forms is either the only technique or simply the most memorable or most
-replicable atonal technique students learn, but the problem with handing
-this powerfully reductive apparatus to our young analysts is that it is
-tough to convey its intellectual pitfalls without tipping the curricular
-balance from analysis to theory. I do not want this tool to be
-brandished by students who haven’t thoughtfully considered both its
-entailments and its necessity. I also don’t want to spend so much time
-on SC entailments that I cover fewer compositions. That seems too high a
-price to pay for methodological clarity.
+A central problem with introducing SC analysis to beginning atonal analysts has to do with that old adage about everything appearing to be a nail when the only tool in your toolbox is a hammer. Prime-form pedagogy might be democratizing ([*Schuijer*](https://openlibrary.org/works/OL11999910W/Analyzing_atonal_music) (277) made this case), and it might well be true that rendering prime forms is either the only technique or simply the most memorable or most replicable atonal technique students learn, but the problem with handing this powerfully reductive apparatus to our young analysts is that it is
+tough to convey its intellectual pitfalls without tipping the curricular balance from analysis to theory. I do not want this tool to be brandished by students who haven’t thoughtfully considered both its entailments and its necessity. I also don’t want to spend so much time
+on SC entailments that I cover fewer compositions. That seems too high a price to pay for methodological clarity. 
 
-My concerns about SCs in undergraduate analysis courses fall into three
-central categories: (1) that they can numb students to other musical
-features; (2) that they feed organicist narratives (in practice, if not
-inherently); and (3) that they bias and limit our choices of repertoire.
-I will briefly outline these claims below and then discuss them a bit
-more (and a bit more anecdotally).
+My concerns about SCs in undergraduate analysis courses fall into three central categories: (1) that they can numb students to other musical features; (2) that they feed organicist narratives (in practice, if not inherently); and (3) that they bias and limit our choices of repertoire.
+I will briefly outline these claims below and then discuss them a bit more (and a bit more anecdotally).
 
 1.  Prime forms represent the most abstract motivic or harmonic label
     > most of us are willing to apply. (Only theorists who routinely
@@ -121,11 +72,7 @@ more (and a bit more anecdotally).
     > our pedagogy?
 
 With regard to the first of my three claims: I have often used
-Schoenberg’s song “Nacht,” from [**Pierrot
-Lunaire**](http://ks.petruccimusiclibrary.org/files/imglnks/usimg/c/c8/IMSLP03959-Pierrot_LunaireOp21.pdf)[*,
-op.
-21*](http://ks.petruccimusiclibrary.org/files/imglnks/usimg/c/c8/IMSLP03959-Pierrot_LunaireOp21.pdf),
-as my introduction to set classes in our semester-long undergraduate
+Schoenberg’s song “Nacht,” from [**Pierrot Lunaire**](http://ks.petruccimusiclibrary.org/files/imglnks/usimg/c/c8/IMSLP03959-Pierrot_LunaireOp21.pdf)[*, op. 21*](http://ks.petruccimusiclibrary.org/files/imglnks/usimg/c/c8/IMSLP03959-Pierrot_LunaireOp21.pdf), as my introduction to set classes in our semester-long undergraduate
 course on modern music at FSU. Before talking about the famous song in
 class and before introducing SCs, I give an assignment in which I ask
 students to find at least twenty-five instances of the \<+3, -4\>
