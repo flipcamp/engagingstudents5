@@ -490,3 +490,51 @@ Yamamoto, Kevin. 2008.[
 Laptops in the Classroom: Is it Worth the
 Hassles?”*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1078740)
 *Journal of Legal Education* 57: 1-44.
+
+Bain, Ken. 2014. “[*How to Learn Deeply and Foster Deep Learning in
+Others*](http://ctl.uga.edu/pages/archive/how-to-learn-deeply-and-foster-deep-learning-in-others).”
+Accessed June 25, 2017.
+
+diBenedetti, Gil. [**Contextual
+Listening**](http://gmajormusictheory.org/Listening/Listeningindex.html).[
+](http://gmajormusictheory.org/Listening/Listeningindex.html)[*http://gmajormusictheory.org/Listening/Listeningindex.*](http://gmajormusictheory.org/Listening/Listeningindex.html)[*html*](http://gmajormusictheory.org/Listening/Listeningindex.html).
+Accessed June 25, 2017.
+
+Feichas, Heloisa. 2010. “[*Bridging the Gap: Informal Learning Practices
+as a Pedagogy of
+Integration*](https://www.cambridge.org/core/journals/british-journal-of-music-education/article/bridging-the-gap-informal-learning-practices-as-a-pedagogy-of-integration/51C386256F156707531FD57E9DDE2B44/core-reader).”
+British Journal of Music Education 27/1: 47–58. Accessed July 5, 2017.
+
+Karpinski, Gary. 2000. [**Aural Skills
+Acquisition**](https://openlibrary.org/books/OL26354764M/Aural_Skills_Acquisition).
+New York: Oxford University Press.
+
+Levitin, Daniel. 2008. [**This Is Your Brain on
+Music**](https://openlibrary.org/works/OL7952954W/This_Is_Your_Brain_on_Music).
+New York: Dutton Penguin.
+
+The Lumineers. 2012.[ ](https://youtu.be/zvCBSSwgtg4)[**Ho
+**](https://youtu.be/zvCBSSwgtg4)[**Hey**](https://youtu.be/zvCBSSwgtg4).
+Dualtone Music Group. Accessed June 25, 2017.
+
+Murphy, Paul, Joel Phillips, Elizabeth West Marvin, Jane Piper
+Clendinning. 2016. [**The Musician’s Guide to Aural Skills: Ear
+Training**](https://openlibrary.org/works/OL17756489W/The_Musician's_Guide_to_Aural_Skills),
+3rd edition. New York: W.W. Norton. Accessed July 5, 2017.
+
+Musition 5.[
+](https://www.risingsoftware.com/musition/topics/)[*https://www.risingsoftware.com/musition/*](https://www.risingsoftware.com/musition/topics/)[*topics/*](https://www.risingsoftware.com/musition/topics/).
+Accessed June 25, 2017.
+
+James M. Renwick and Gary E. McPherson. 2002. “[*Interest and Choice:
+Student-Selected Repertoire and Its Effect on Practising
+Behaviour*](http://www.academia.edu/30238508/Renwick_and_McPherson_2002_BJME.pdf).”
+*British Journal of Music Education* 19/2: 173–88.
+
+Root, Jena. 2014. [**Applied Music Fundamentals: Writing, Singing, and
+Listening**](https://openlibrary.org/works/OL17756487W/Applied_Music_Fundamentals).
+New York: Oxford University Press.
+
+Santa, Matthew. 2017. [**Hearing
+Form**](https://openlibrary.org/works/OL17756488W/Hearing_Form_Musical_Analysis_with_and_Without_the_Score_2nd_edition),
+2nd edition. New York: Routledge.
