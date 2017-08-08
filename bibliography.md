@@ -131,3 +131,78 @@ Wikipedia contributors.
 Wikipedia contributors. [*“Sinfonia
 (Berio).”*](https://en.wikipedia.org/wiki/Sinfonia_(Berio)) *Wikipedia,
 The Free Encyclopedia*. Accessed June 26, 2017.
+
+Bathgate, Meghan, Sims-Knight, Judith & Schunn, Christian (2012).
+[*“Thoughts on Thinking: Engaging Novice Music Students in
+Metacognition.”*](http://onlinelibrary.wiley.com/doi/10.1002/acp.1842/abstract)
+*Applied Cognitive Psychology* 26, 403-409.
+
+Benton, Carol W. (2013). [*“Promoting Metacognition in Music
+Classes.”*](https://eric.ed.gov/?q=%E2%80%9CThoughts+on+Thinking%3a+Engaging+Novice+Music+Students+in+Metacognition%E2%80%9D&id=EJ1020135)
+*Music Educators Journal* 100(2), 52-59.
+
+Benton, Carol W. (2014). [**Thinking about Thinking. Metacognition for
+Music
+Learning**](https://books.google.ca/books/about/Thinking_about_Thinking.html?id=dT_oAgAAQBAJ&redir_esc=y)*.*
+Lanham, MD: Rowman & Littlefield Education.
+
+Caplin, William E. (2013). [**Analyzing Classical Form. An Approach for
+the
+Classroom**](https://openlibrary.org/search?q=Analyzing+classical+form)[*.*](https://openlibrary.org/search?q=Analyzing+classical+form)
+New York: Oxford University Press.
+
+Clendinning, Jane Piper & Marvin, Elizabeth West (2016). [**The
+Musician’s Guide to Theory and
+Analysis**](http://books.wwnorton.com/books/webad.aspx?id=4294990317).
+Third edition. New York: W.W. Norton & Company, Inc.
+
+Dunlosky, John & Metcalfe, Janet (2009).
+[**Metacognition**](https://books.google.ca/books?id=xHtJADBpp-IC&source=gbs_similarbooks).
+Los Angeles: Sage.
+
+Flavell, John H. (1976). “Metacognitive Aspects of Problem Solving.” In
+Lauren B. Resnick (ed.), [**The Nature of
+Intelligence**](https://books.google.ca/books?id=xfmKPQAACAAJ&dq=The+nature+of+intelligence&hl=en&sa=X&ved=0ahUKEwj5rfWN0efUAhWCND4KHfB5AHcQ6AEIRTAF).
+Hillsdale, NJ: Lawrence Erlbaum Associates, 231-235.
+
+Hacker, Douglas J., Dunlosky, John & Graesser, Arthur C. (1998).
+[**Metacognition in Educational Theory and
+Practice**](https://books.google.ca/books/about/Metacognition_in_Educational_Theory_and.html?id=OUCNcfrljhQC&redir_esc=y).
+Mahwah, NJ: Lawrence Erlbaum Associates.
+
+Kaplan, Matthew, Silver, Naomi, LaVaque-Manty, Danielle & Meizlish,
+Deborah (2013). [**Using Reflection and Metacognition to Improve Student
+Learning**](https://www.amazon.ca/Reflection-Metacognition-Improve-Student-Learning/dp/1579228259).
+Sterling, VA: Stylus.
+
+Kostka, Stefan, Payne, Dorothy & Almen, Byron (2018). [**Tonal Harmony
+with an Introduction to Post-Tonal
+Music**](http://www.mheducation.com/highered/product/M125944709X.html).
+8^th^ Edition. New York: McGraw-Hill Education.
+
+Laitz, Steven G. (2016). [**The Complete Musician. An Integrated
+Approach to Theory, Analysis, and
+Listening**](https://global.oup.com/ushe/product/the-complete-musician-9780199347094?cc=ca&lang=en&).
+Fourth edition. New York: Oxford University Press.
+
+Murphy, Paul, Phillips, Joel, Marvin, Elizabeth West & Clendinning, Jane
+Piper (2016). [**The Musician’s Guide to Aural Skills: Ear
+Training**](http://books.wwnorton.com/books/webad.aspx?id=4294990442)
+and [**The Musician’s Guide to Aural Skills:
+Sight-Singing**](http://books.wwnorton.com/books/webad.aspx?id=4294990441).
+Third edition. New York: W.W. Norton & Company, Inc.
+
+Parncutt, Richard & McPherson, Gary (2002). [**The Science and
+Psychology of Music Performance: Creative Strategies for Teaching and
+Learning**](https://books.google.ca/books/about/The_Science_and_Psychology_of_Music_Perf.html?id=l5unYHW80csC).
+New York: Oxford University Press.
+
+Pogonowski, Lenore (1989). “Metacognition: A Dimension of Musical
+Thinking.” In Eunice Boardman (ed.), [**Dimensions of Musical
+Thinking**](https://books.google.ca/books/about/Dimensions_of_Musical_Thinking.html?id=tNlxL2_VkkkC&redir_esc=y).
+Reston, VA: Music Educators National Conference, 9-32.
+
+Rogers, Michael R. (2004). [**Teaching Approaches in Music Theory. An
+overview of Pedagogical
+Philosophies**](https://openlibrary.org/works/OL5595277W/Teaching_approaches_in_music_theory).
+Second edition. Carbondale: Southern Illinois University Press.
