@@ -390,3 +390,103 @@ William and Flora Hewlett Foundation.[
 Educational
 Resources.”*](http://www.hewlett.org/strategy/open-educational-resources/)
 Accessed May 30, 2017.
+
+Brown, Leann. 2013.[
+](http://oaklandpostonline.com/4563/life/student-stress-high-at-ou/)[*“Student
+Stress High at
+OU.”*](http://oaklandpostonline.com/4563/life/student-stress-high-at-ou/)
+*Oakland Post Online*. Accessed June 24, 2017.
+http://oaklandpostonline.com/4563/life/student-stress-high-at-ou/
+
+Doubek, James. 2016.[
+](http://www.npr.org/2016/04/17/474525392/attention-students-put-your-laptops-away)[*“Attention,
+Students: Put Your Laptops
+Away.”*](http://www.npr.org/2016/04/17/474525392/attention-students-put-your-laptops-away)
+Transcription of *Weekend Edition Sunday* broadcast. Accessed June 14,
+2017.
+http://www.npr.org/2016/04/17/474525392/attention-students-put-your-laptops-away
+
+[*“First-Year
+Seminar.”*](https://www.dickinson.edu/homepage/99/first_year_seminars)
+*Dickinson College website.* Accessed August 2, 2017.
+https://www.dickinson.edu/homepage/99/first\_year\_seminars
+
+[*“First Year
+Seminar.”*](http://msb.georgetown.edu/programs/undergraduate/academics/first-year-seminar)
+*Georgetown University website.* Accessed June 14, 2017.
+http://msb.georgetown.edu/programs/undergraduate/academics/first-year-seminar
+
+[*“First-Year
+Seminars.”*](https://www.gettysburg.edu/academics/firstyear_seminars/)
+*Gettysburg College website.* Accessed June 14, 2017.
+https://www.gettysburg.edu/academics/firstyear\_seminars/
+
+[*“First Year
+Seminars.”*](http://www.highpoint.edu/firstyearprograms/firstyearseminars/)
+*High Point University website*. Accessed June 14, 2017.
+http://www.highpoint.edu/firstyearprograms/firstyearseminars/
+
+[*“First-Year Seminars &
+Experiences.”*](http://www.ucdenver.edu/student-services/resources/ue/early-alert/Documents/FYS%20for%20UES.pdf)
+*University of Colorado-Denver Student Services website.* Accessed June
+14, 2017.
+http://www.ucdenver.edu/student-services/resources/ue/early-alert/Documents/FYS%20for%20UES.pdf
+
+Goodman, Kathleen, and Ernest T. Pascarella.[
+](https://www.aacu.org/publications-research/periodicals/first-year-seminars-increase-persistence-and-retention-summary)[*“First-Year
+Seminars Increase Persistence and Retention: A Summary of the Evidence
+from How College Affects
+Students.”*](https://www.aacu.org/publications-research/periodicals/first-year-seminars-increase-persistence-and-retention-summary)
+*Association of American Colleges & Universities website*. Accessed June
+27, 2017.
+https://www.aacu.org/publications-research/periodicals/first-year-seminars-increase-persistence-and-retention-summary
+
+Hoag, Melissa E. 2012.[
+](https://drive.google.com/file/d/0B0ZI8di-pEDvV0FqLW10cmNpckE/view)[*“Seven
+Strategies for Enabling Student Success in the First-Year Music Theory
+Sequence.”*](https://drive.google.com/file/d/0B0ZI8di-pEDvV0FqLW10cmNpckE/view)
+*Music Theory Pedagogy Online* 1.
+
+Jaijairam, Paul. 2016.[
+](http://files.eric.ed.gov/fulltext/EJ1092432.pdf)[*“First-Year Seminar
+(FYS)—The Advantages That This Course
+Offers.”*](http://files.eric.ed.gov/fulltext/EJ1092432.pdf) *Journal of
+Education and Learning* 5 (2): 15-23.
+
+Macan, Therese H., Comila Shahani, Robert L. Dipboye, Amanda P.
+Phillips. 1990.[ ](https://eric.ed.gov/?id=EJ440473)[*“College students'
+time management: Correlations with academic performance and
+stress.”*](https://eric.ed.gov/?id=EJ440473) *Journal of Educational
+Psychology* 82 (4): 760-68.
+
+May, Cindi. 2014.[
+](https://www.scientificamerican.com/article/a-learning-secret-don-t-take-notes-with-a-laptop/)[*“A
+Learning Secret: Don’t Take Notes with a
+Laptop.”*](https://www.scientificamerican.com/article/a-learning-secret-don-t-take-notes-with-a-laptop/)
+*Scientific American*. Accessed June 24, 2017.
+https://www.scientificamerican.com/article/a-learning-secret-don-t-take-notes-with-a-laptop/
+
+McKean, Michelle, and Ranjita Misra. 2000.[
+](http://www.biomedsearch.com/article/College-students-academic-stress-its/65640245.html)[*“College
+Students’ Academic Stress and its Relation to their Anxiety, Time
+Management, and Leisure
+Satisfaction.”*](http://www.biomedsearch.com/article/College-students-academic-stress-its/65640245.html)
+*American Journal of Health Studies* 16 (1): 41-51.
+
+Mueller, Pam A., and Daniel M. Oppenheimer. 2014.[
+](http://journals.sagepub.com/doi/abs/10.1177/0956797614524581)[*“The
+Pen Is Mightier Than the Keyboard: Advantages of Longhand Over Laptop
+Note
+Taking.”*](http://journals.sagepub.com/doi/abs/10.1177/0956797614524581)
+*Psychological Science* 25 (6): 1159-1168.
+
+[*Oxford Music Online
+homepage*](http://www.oxfordmusiconline.com/public/;jsessionid=89504868BAAADF6DFF8C4CB1A75AF200).
+Accessed June 30, 2017.
+http://www.oxfordmusiconline.com/public/;jsessionid=89504868BAAADF6DFF8C4CB1A75AF200.
+
+Yamamoto, Kevin. 2008.[
+](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1078740)[*“Banning
+Laptops in the Classroom: Is it Worth the
+Hassles?”*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1078740)
+*Journal of Legal Education* 57: 1-44.
