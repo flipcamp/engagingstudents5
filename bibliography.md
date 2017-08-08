@@ -206,3 +206,81 @@ Rogers, Michael R. (2004). [**Teaching Approaches in Music Theory. An
 overview of Pedagogical
 Philosophies**](https://openlibrary.org/works/OL5595277W/Teaching_approaches_in_music_theory).
 Second edition. Carbondale: Southern Illinois University Press.
+
+Bandura, Albert, and Dale H. Schunk. 1981. “Cultivating Competence,
+Self-efficacy, and Intrinsic Interest through Proximal Self-Motivation.”
+*Journal of Personality and Social Psychology* 41(3): 586-598.
+
+Bicknell-Holmes, Tracy, and Paul Seth Hoffman. 2000. “Elicit, Engage,
+Experience, Explore: Discovery Learning in Library Instruction.”
+*Reference Services Review* 28(4): 313-322. Accessed June 29, 2017. doi:
+https://doi.org/10.1108/00907320010359632.
+
+Carlson, Scott. 2005. “The Net Generation Goes to College.” *The
+Chronicle of Higher Education,* October 7. Accessed June 29, 2017.
+
+Eckleberry-Hunt, Jodie, and Jennifer Tucciarone. 2011. “The Challenges
+and Opportunities of Teaching ‘Generation Y.’” *Journal of Graduate
+Medical Education* 3(4): 458-61. Accessed June 29, 2017. doi:
+10.4300/JGME-03-04-15.
+
+Electronic Music Wiki. 2017. “Filter.” Accessed June 29.
+http://electronicmusic.wikia.com/wiki/Filter.
+
+Encyclopedia Britannica. 2017. “Musique Concrète.” Accessed June 29.
+https://www.britannica.com/art/musique-concrete.
+
+Faust, Jennifer L., and Donald R. Paulson. 1998. “Active Learning in the
+College Classroom.” *Journal on Excellence in College Teaching* 9(2):
+3-24.
+
+Gorham, Joan, and Diane M. Millette. 2007. “A Comparative Analysis of
+Teacher and Student Perceptions of Sources of Motivation and
+Demotivation in College Classes.” *Communication Education* 46: 245-261.
+
+Guthrie, John T., and Allan Wigfield. “Engagement and Motivation in
+Reading.” In *Handbook of Reading Research Volume III,* edited by
+[Michael L.
+Kamil](https://www.routledgehandbooks.com/author/Michael%20L._Kamil;jsessionid=LVhUeg4TLJdXpJnthvCLfKpu),
+[Peter B.
+Mosenthal](https://www.routledgehandbooks.com/author/Peter%20B._Mosenthal;jsessionid=LVhUeg4TLJdXpJnthvCLfKpu),
+[P. David
+Pearson](https://www.routledgehandbooks.com/author/P.%20David_Pearson;jsessionid=LVhUeg4TLJdXpJnthvCLfKpu),
+and [Rebecca
+Barr](https://www.routledgehandbooks.com/author/Rebecca_Barr;jsessionid=LVhUeg4TLJdXpJnthvCLfKpu),
+403-422. New York: Taylor and Francis.
+
+McCombs, Barbara, and Lynda Miller. 2007. Learner-Centered Classroom
+Practices and Assessments: Maximizing Student Motivation, Learning, and
+Achievement. Newbury Park: Corwin.
+
+McLeod, Kembrew. 2001. “Genres, Subgenres, Sub-Subgenres and More:
+Musical and Social Differentiation Within Electronic/Dance Music
+Communities.” *Journal of Popular Music Studies 13(1): 59-75.*
+
+Nevid, Jeff. 2011. “Teaching the Millennials.” *Observer Magazine*, May
+4. Accessed June 29, 2017.
+https://www.psychologicalscience.org/observer/teaching-the-millennials\#.WVO072U0VOq.
+
+Novotney, Amy. 2010. “Engaging the Millennial Learner.” *Monitor on
+Psychology* 104(3): 60.
+
+Oldfather, Penny. 1993. “What Students Say about Motivating Experiences
+in a Whole Language Classroom.” *The Reading Teacher* 46(8): 672-681.
+
+Pedersen, Susan, and Doug Williams. 2003. “A Comparison of Assessment
+Practices and Their Effects on Learning in a Student-Centered Learning
+Environment.” *Proceedings of EdMedia: World Conference on Educational
+Media and Technology,* 2171-2175.
+
+Schunk, Dale. 1991. “Self-Efficacy and Academic Motivation.”
+*Educational Psychologist* 26: 207-31.
+
+Wendy Carlos. 2017. “Switched on Bach.” Accessed June 29.
+
+http://www.wendycarlos.com/+sob.html.
+
+Youtube. 2007. “Pierre Schaeffer’s *Étude Aux Chemins de Fer.*” Accessed
+June 29, 2017.
+
+https://www.youtube.com/watch?v=N9pOq8u6-bA.
