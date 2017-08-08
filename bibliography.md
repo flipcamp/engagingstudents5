@@ -284,3 +284,109 @@ Youtube. 2007. “Pierre Schaeffer’s *Étude Aux Chemins de Fer.*” Accessed
 June 29, 2017.
 
 https://www.youtube.com/watch?v=N9pOq8u6-bA.
+
+Achieving the Dream.[
+](http://achievingthedream.org/resources/initiatives/open-educational-resources-oer-degree-initiative)[*“Open
+Educational Resources (OER) Degree
+Initiative*](http://achievingthedream.org/resources/initiatives/open-educational-resources-oer-degree-initiative).”
+Accessed May 30, 2017.
+
+Affordable Learning Georgia.[
+](http://www.affordablelearninggeorgia.org/about/textbook_transformation_grants)[*“Textbook
+Transformation
+Grants.”*](http://www.affordablelearninggeorgia.org/about/textbook_transformation_grants)
+Accessed May 30, 2017.
+
+Allen, Nicole. 2017.[
+](https://www.insidehighered.com/digital-learning/article/2017/04/19/new-yorks-decision-spend-8-million-oer-turning-point)[*“Turning
+Point for OER
+Use?”*](https://www.insidehighered.com/digital-learning/article/2017/04/19/new-yorks-decision-spend-8-million-oer-turning-point)
+Jean Dimeo, article author. *Inside Higher Ed*., April 19. Accessed May
+30, 2017.
+
+Babson Survey Research Group. 2016.[
+](https://www.onlinelearningsurvey.com/oer.html)[**Opening the Textbook:
+Open Education Resources in U.S. Higher Education,
+2015-16.**](https://www.onlinelearningsurvey.com/oer.html) Accessed May
+30, 2017.
+
+Bureau of Labor Statistics, U.S. Department of Labor. 2016. [*“College
+tuition and fees increase 63 percent since January
+2006.”*](https://www.bls.gov/opub/ted/2016/college-tuition-and-fees-increase-63-percent-since-january-2006.htm)
+*The Economics Daily*. Accessed May 30, 2017.
+
+Catherine Schmidt-Jones. 2013. [*Understanding Basic Music
+Theory.*](http://cnx.org/contents/2ad74b7b-a72f-42a9-a31b-7e75542e54bd@3.74)
+OpenStax CNX. Accessed July 11, 2017.
+
+Census Bureau, U.S. Department of Commerce.[
+](https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-poverty-people.html)[*“Table
+6. People Below 125 Percent of Poverty Level and the Near
+Poor.”*](https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-poverty-people.html)
+*Historical Poverty Tables: People and Families - 1959 to 2015*.
+Modified September 1, 2016. Accessed May 30, 2017.
+
+College Board. [*“Average Net Price over Time for Full-Time Students, by
+Sector.”*](https://trends.collegeboard.org/college-pricing/figures-tables/average-net-price-over-time-full-time-students-sector)
+*Annual Survey of Colleges; Trends in Student Aid 2016*. Accessed May
+30, 2017.
+
+Gullings, Kyle.[
+](https://drive.google.com/open?id=0B0laoIMCvmzxbjlnNzFCbDNla2c)[*“Music
+Theory II Course Outlines, Spring 2015 and
+2016.”*](https://drive.google.com/open?id=0B0laoIMCvmzxbjlnNzFCbDNla2c)
+The University of Texas at Tyler.
+
+Gullings, Kyle.[
+](https://drive.google.com/file/d/0B0laoIMCvmzxRnJfUHQ4d0M4NVU/view?usp=sharing)[*“Music
+Theory IV Course Outline, Spring
+2017.”*](https://drive.google.com/file/d/0B0laoIMCvmzxRnJfUHQ4d0M4NVU/view?usp=sharing)
+The University of Texas at Tyler.
+
+Hilton III, John.[
+](https://link.springer.com/article/10.1007/s11423-016-9434-9)[*“Open
+educational resources and college textbook choices: a review of research
+on efficacy and
+perceptions.”*](https://link.springer.com/article/10.1007/s11423-016-9434-9)
+*Educational Technology Research and Development* (2016) 64: 573.
+doi:10.1007/s11423-016-9434-9.
+
+[*OER Commons.*](https://www.oercommons.org/) Accessed May 30, 2017.
+
+[*OpenStax.*](https://openstax.org/) Accessed May 30, 2017.
+
+Scholarly Publishing and Academic Resources Coalition (SPARC). [*“List
+of North American OER Policies &
+Projects.”*](https://sparcopen.org/our-work/list-of-oer-policies-projects/)
+Accessed July 13, 2017.
+
+Shaffer, Kris, Bryn Hughes, and Brian Moseley. Kris Shaffer and Robin
+Wharton, eds.[ ](http://openmusictheory.com)[*Open Music
+Theory.*](http://openmusictheory.com) Hybrid Pedagogy Publishing.
+Accessed May 30, 2017.
+
+UMass Amherst Libraries.[
+](https://www.library.umass.edu/services/teaching-and-learning/oer/open-education-initiative/)[*UMass
+Library Open Education
+Initiative.*](https://www.library.umass.edu/services/teaching-and-learning/oer/open-education-initiative/)
+Accessed May 30, 2017.
+
+United Nations General Assembly. [**Universal Declaration of Human
+Rights.**](http://www.un.org/en/universal-declaration-human-rights/)
+Paris, 1948.
+
+University of Minnesota Center for Open Education.[
+](https://open.umn.edu/opentextbooks/)[*Open Textbook
+Library.*](https://open.umn.edu/opentextbooks/) Accessed May 30, 2017.
+
+WICHE Cooperative for Educational Technologies (WCET).[
+](https://wcetfrontiers.org/2016/08/23/north-dakota-open-educational-resources-initiative-a-system-wide-success-story/)[*“North
+Dakota Open Educational Resources Initiative: A System-wide Success
+Story.”*](https://wcetfrontiers.org/2016/08/23/north-dakota-open-educational-resources-initiative-a-system-wide-success-story/)
+Accessed May 30, 2017.
+
+William and Flora Hewlett Foundation.[
+](http://www.hewlett.org/strategy/open-educational-resources/)[*“Open
+Educational
+Resources.”*](http://www.hewlett.org/strategy/open-educational-resources/)
+Accessed May 30, 2017.
