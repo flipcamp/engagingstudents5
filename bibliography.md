@@ -60,3 +60,74 @@ Rochester, NY: University of Rochester Press.
 Straus, Joseph N. 2005. [*“Voice Leading in Set-Class Space.”
 *](http://www.jstor.org/stable/27639391)Journal of Music Theory 49/1:
 45-108.
+
+Bakker, Sara, and Timothy Chenette. 2014. [*“Writing Across the Music
+Theory
+Curriculum.”*](http://flipcamp.org/engagingstudents2/essays/bakkerchenette.html)
+*Engaging Students: Essays in Music Pedagogy* 2.
+
+[*“Community -
+Definitions.”*](http://www.usf.edu/engagement/community/definitions.aspx)
+Office of Community Engagement and Partnerships, University of South
+Florida. Accessed June 26, 2017.
+
+Eckert, Stefan. 2005. [*““So, you want to write a Minuet?” - Historical
+Perspectives in Teaching
+Theory.”*](http://www.mtosmt.org/issues/mto.05.11.2/mto.05.11.2.eckert_frames.html)
+*Music Theory Online* 11 (2). Accessed June 26, 2017.
+
+Eyler, Janet, Dwight Giles Jr., Christine Stenson, and Charlene Gray.
+2001. [*“At a Glance: What we Know about the Effects of Service-Learning
+on College Students, Faculty, Institutions and Communities, 1993-2000:
+Third
+Edition.”*](http://www.compact.org/wp-content/uploads/resources/downloads/aag.pdf)
+Campus Compact, Vanderbilt University. Accessed June 26, 2017.
+
+Gjerdingen, Robert. 2007. [*Music in the Galant
+Style.*](https://openlibrary.org/books/OL18014958M/Music_in_the_galant_style)
+New York: Oxford University Press.
+
+Hein, Ethan. [*“Against Music
+Theory.”*](http://www.ethanhein.com/wp/2013/against-music-theory/) *The
+Ethan Hein Blog*, October 10, 2013. Accessed June 26, 2017.
+
+Miyake, Jan. 2014. [*“Weekly (or more) Writing in the Music Theory
+Classroom.”*](http://flipcamp.org/engagingstudents2/essays/miyake2.html)
+*Engaging Students: Essays in Music Pedagogy* 2.
+
+Moely, Barbara, Megan McFarland, Devi Miron, Sterett Mercer, and Vincent
+Ilustre. 2002. [*“Changes in College Students’ Attitudes and Intentions
+for Civic Involvement as a Function of Service-Learning
+Experiences.”*](http://quod.lib.umich.edu/m/mjcsl/3239521.0009.102/1/--changes-in-college-students-attitudes-and-intentions-for?rgn=full+text;view=image)
+*Michigan Journal of Community Service Learning* 9 (1): 18-26.
+
+Rifkin, Deborah. 2014. [*“Cultivating Creativity in the Music Theory
+Classroom: Telling Tales with Texture and
+Timbre.”*](http://flipcamp.org/engagingstudents2/essays/rifkin.html)
+*Engaging Students: Essays in Music Pedagogy* 2.
+
+Rogers, Nancy. 2013. [*“Modernizing the Minuet Composition
+Project.”*](https://drive.google.com/file/d/0B0ZI8di-pEDvSU5vRG9nbVg3ZFk/view)
+*Journal of Music Theory Pedagogy* 27: 71-110.
+
+Shaffer, Kris. [*“Writing Assignments for Semester 4 Theory (MUSC
+2111).”*](http://courses.shaffermusic.com/mt4-writing.html) Course
+Material: Theory & Aural Skills, CU-Boulder College of Music. Accessed
+June 26, 2017.
+
+[*“What is Community-Engaged
+Learning?”*](https://www.binghamton.edu/cce/faculty/engaged-teaching/course-development/index.html)
+Center for Civic Engagement, Binghamton University, The State University
+of New York. Accessed June 26, 2017.
+
+[*“What is Service Learning or Community
+Engagement?”*](https://cft.vanderbilt.edu/guides-sub-pages/teaching-through-community-engagement/)
+Center for Teaching, Vanderbilt University. Accessed June 26, 2017.
+
+Wikipedia contributors.
+[*“Help:Editing.”*](https://en.wikipedia.org/wiki/Help:Editing)
+*Wikipedia, The Free Encyclopedia*. Accessed June 26, 2017.
+
+Wikipedia contributors. [*“Sinfonia
+(Berio).”*](https://en.wikipedia.org/wiki/Sinfonia_(Berio)) *Wikipedia,
+The Free Encyclopedia*. Accessed June 26, 2017.
