@@ -1,29 +1,16 @@
-Scott M. Strovas, Ph.D.
+---
+layout: post
+title: "The Undergraduate Student-Faculty Colloquy: Cultivating Disciplinary
+Authenticity through Formative Oral Examination
+"
+author: Scott M. Strovas and Ann B. Stutes, Wayland Baptist University
+---
 
-Assistant Professor of Music History
 
-Wayland Baptist University
+<!--[*stutesa@wbu.edu*](mailto:stutesa@wbu.edu)
 
-*scott.strovas@wbu.edu*
+[*stutesa@gmail.com*](mailto:stutesa@gmail.com) -->
 
-*scottstrovas@gmail.com*
-
-Ann B. Stutes, Ph.D.
-
-Shaw Professor of Music
-
-Dean - School of Music
-
-Wayland Baptist University
-
-[*stutesa@wbu.edu*](mailto:stutesa@wbu.edu)
-
-[*stutesa@gmail.com*](mailto:stutesa@gmail.com)
-
-The Undergraduate Student-Faculty Colloquy: Cultivating Disciplinary
-Authenticity
-
-through Formative Oral Examination
 
 *The Colloquy: Introduction and Philosophy*
 
@@ -426,7 +413,7 @@ This work is copyright ⓒ2017 Scott M. Strovas and Ann B. Stutes and
 licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported
 License.
 
-Asklund, Ulf, and Lars Gotfred Bendix. 2003. “[*Oral vs. Written
+<!-- Asklund, Ulf, and Lars Gotfred Bendix. 2003. “[*Oral vs. Written
 Evaluation of
 Students.*](http://vbn.aau.dk/en/publications/oral-vs-written-evaluation-of-students(1b034770-9c2e-11db-8ed6-000ea68e967b).html)”
 Proceedings of the Pedagogisk inspirationskonferens, Lund, Sweden, May
@@ -500,4 +487,4 @@ Integrity and Oral Examination: An Arabian Gulf
 Perspective.*](http://dx.doi.org/10.1080/14703297.2013.796724)”
 *Innovations in Education and Teaching International* 51 (5): 533-543.
 
-[](http://scholar.google.com/scholar?q=%22author:Simpson%20author:A.%22)
+[](http://scholar.google.com/scholar?q=%22author:Simpson%20author:A.%22) -->

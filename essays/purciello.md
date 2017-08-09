@@ -1,6 +1,8 @@
-**Reconnecting with History:**
-
-**Problem-Based Learning (PBL) in the Music History Classroom**
+---
+layout: post
+title: "Reconnecting with History: Problem-Based Learning (PBL) in the Music History Classroom"
+author: XXXX Purciello, INSTITUTION
+---
 
 Like many music majors, my undergraduate experience with music history
 was largely composed of a required two-semester survey and select

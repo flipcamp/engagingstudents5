@@ -2,7 +2,7 @@
 layout: post
 title: "Outside the Classroom: Community-Engaged Learning Projects in Music
 Theory"
-author: Janet Bourne, INSTITUTION
+author: Janet Bourne, University of California, Santa Barbara
 ---
 
 {{ page.title }}

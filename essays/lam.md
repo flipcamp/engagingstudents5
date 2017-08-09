@@ -1,7 +1,9 @@
-**Engaging Everyone: Musical Analysis in the General Education
-Classroom**
-
-George Lam, York College CUNY
+---
+layout: post
+title: Engaging Everyone: Musical Analysis in the General Education
+Classroom
+author: George Lam, York College, City University of New York
+---
 
 In many campuses across the country, music departments offer courses for
 non-music majors as electives. These courses often take the form of

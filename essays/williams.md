@@ -1,8 +1,8 @@
-**MELODY MAKERS:** Connecting student composers with the community
-
-**Dr. Natalie Williams**
-
-School of Music, Australian National University (Canberra)
+---
+layout: post
+title: "Melody Makers: Connecting Student Composers with the Community"
+author: Natalie Williams, Australian National University (Canberra)
+---
 
 **CONTEXT**
 

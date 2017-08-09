@@ -1,11 +1,8 @@
 ---
-subtitle: |
-    <span id="_j35j8ibvwk97" class="anchor"></span>Timothy A. Johnson,
-    Ithaca College
-title: |
-    <span id="_f70mimyh3yk9" class="anchor"></span>The Music of *Hamilton*
-    and Its Historical, Cultural, Social, and Political Contexts
-...
+layout: post
+title: The Music of *Hamilton* and Its Historical, Cultural, Social, and Political Contexts
+author: Timothy A. Johnson, Ithaca College
+---
 
 Teaching [**Hamilton: An American
 Musical**](http://www.hamiltonbroadway.com/) from a musically rich
@@ -330,7 +327,7 @@ to the process.*
 This work is copyright ⓒ2017 Timothy A. Johnson and licensed under a
 Creative Commons Attribution-ShareAlike 3.0 Unported License.
 
-Bibliography
+<!-- Bibliography
 ============
 
 Abbott, Michaela. 2017. “[*Hamilton’s Revolution Enters the
@@ -409,4 +406,4 @@ The New York Times Style Magazine. July 8.
 
 Williams, Justin A., ed. 2015. [**The Cambridge Companion to
 Hip-Hop**](http://www.cambridge.org/gb/academic/subjects/music/twentieth-century-and-contemporary-music/cambridge-companion-hip-hop?format=PB#9whxVwK36f49ieQO.97).
-Cambridge, UK: Cambridge University Press.
+Cambridge, UK: Cambridge University Press. -->

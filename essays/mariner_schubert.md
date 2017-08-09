@@ -1,8 +1,9 @@
-**New Frontiers in SmartMusicianship**
-
-**Justin Mariner and Peter Schubert,**
-
-**Schulich School of Music, McGill University**
+---
+layout: post
+<!-- Is this title correct???? -->
+title: New Frontiers in SmartMusicianship 
+author: Justin Mariner and Peter Schubert, Schulich School of Music, McGill University
+---
 
 The philosophy of our new aural skills program at McGill is pretty well
 summed up in this *New Yorker*[
@@ -274,9 +275,9 @@ students which activity was the most fun, which the most useful, and
 which they thought they were best at. Answers were, respectively:
 improvisation, sight singing, and SmartMusic.
 
-**Bibliography**
+<!-- **Bibliography** -->
 
-Callahan, Michael R. 2015. [*“Teaching and Learning Undergraduate Music
+<!-- Callahan, Michael R. 2015. [*“Teaching and Learning Undergraduate Music
 Theory at the Keyboard: Challenges, Solutions, and
 Impacts.”*](http://www.mtosmt.org/issues/mto.15.21.3/mto.15.21.3.callahan.html)
 *Music Theory Online* 21, 3.
@@ -321,7 +322,7 @@ edited by Massimiliano Guido, 175-184. New York: Routledge.
 
 Shaffer, Kris and Bryn Hughes. 2013. [*“Flipping the Classroom: Three
 Methods.”*](http://flipcamp.org/engagingstudents/shafferintro.html)
-*Engaging Students: Essays in Music Pedagogy* 1.
+*Engaging Students: Essays in Music Pedagogy* 1. -->
 
 **Copyright Notice**
 

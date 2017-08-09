@@ -1,4 +1,8 @@
-Drawing Students In: Using Doodling to Support Engaged Listening
+---
+layout: post
+title: "Drawing Students In: Using Doodling to Support Engaged Listening"
+author: XXXXX Ofcarcik, INSTITUION
+---
 
 *Introduction*
 
@@ -262,7 +266,7 @@ theory students to think more creatively about how musical and visual
 activities can be combined, and led to continued comments about
 connections between music and art for the rest of the semester.
 
-*Bibliography*
+<!--*Bibliography*
 
 Andrade, Jackie. “What does doodling do?” *Applied Cognitive Psychology*
 24 (2009): 100–106.
@@ -288,4 +292,4 @@ http://www.health.harvard.edu/blog/the-thinking-benefits-of-doodling-20161215108
 
 This work is copyright ⓒ2017 J. Judith Ofcarcik and licensed under a
 [Creative Commons Attribution-ShareAlike 3.0 Unported
-License](http://creativecommons.org/licenses/by-sa/3.0/).
+License](http://creativecommons.org/licenses/by-sa/3.0/). -->

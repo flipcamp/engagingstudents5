@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Engaging Community in a Twentieth-Century Analysis Class"
+author: Crystal Peebles, Ithaca College
+---
+
 While music performances and teaching internships have obvious
 applications with community engagement, what about aural skills and
 academic music courses? There are few published models of how one could

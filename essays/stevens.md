@@ -1,6 +1,9 @@
-***Inverting Dictation***
+---
+layout: post
+title: "Inverting Dictation"
+author: Daniel B. Stevens, INSTITUTION
+---
 
-Daniel B. Stevens
 
 “Creation is...a species of perception” David Lewin
 
@@ -382,9 +385,9 @@ This work is copyright ⓒ2017 Daniel B. Stevens and licensed under a
 [Creative Commons Attribution-ShareAlike 3.0 Unported
 License](http://creativecommons.org/licenses/by-sa/3.0/).
 
-***Bibliography***
+<!-- ***Bibliography*** -->
 
-Armstrong, Patricia. “Bloom’s Taxonomy” Vanderbilt University Center for
+<!--Armstrong, Patricia. “Bloom’s Taxonomy” Vanderbilt University Center for
 Teaching. Accessed July 20, 2017.
 [*https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/*](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/).
 
@@ -473,4 +476,4 @@ June 11, 2015.
 ———. 2012d. [“‘See what an ass I am’ Improvisation
 \#3.”](https://www.youtube.com/watch?v=-trkrMWbjGA)YouTube. Accessed
 June 11, 2015.
-[*https://www.youtube.com/watch?v=-trkrMWbjGA*](https://www.youtube.com/watch?v=-trkrMWbjGA).
+[*https://www.youtube.com/watch?v=-trkrMWbjGA*](https://www.youtube.com/watch?v=-trkrMWbjGA). -->
