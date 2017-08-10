@@ -538,3 +538,81 @@ New York: Oxford University Press.
 Santa, Matthew. 2017. [**Hearing
 Form**](https://openlibrary.org/works/OL17756488W/Hearing_Form_Musical_Analysis_with_and_Without_the_Score_2nd_edition),
 2nd edition. New York: Routledge.
+
+Abbott, Michaela. 2017. “[Hamilton’s Revolution Enters the
+Classroom](http://www.icchronicle.org/2017/03/17/hamiltons-revolution-enters-classroom/).”
+The Ithaca College Chronicle (March 17). Accessed April 27, 2017.
+
+Adams, Kyle. 2008. “[Aspects of the Music/Text Relationship in
+Rap](http://www.mtosmt.org/issues/mto.08.14.2/mto.08.14.2.adams.html).”
+*Music Theory Online*. 14 (2).
+
+———. 2009. “[On the Metrical Techniques of Flow in Rap
+Music](http://www.mtosmt.org/issues/mto.09.15.5/mto.09.15.5.adams.html).”
+*Music Theory Online*. 15 (2).
+
+Chernow, Ron. 2004. [Alexander
+Hamilton](https://openlibrary.org/works/OL2665176W/Alexander_Hamilton).
+New York: Penguin Books.
+
+Drucker, Mike, and Travon Free. 2016-present. [*The Rooms Where It’s
+Happening: A Hamilton Fan
+Podcast*](http://www.earwolf.com/show/the-room-where-its-happening/)*.*
+Earwolf.
+
+Forman, Murray, and Mark Anthony Neal, eds. 2004. [*That’s the Joint!
+The Hip-Hop Studies
+Reader*](https://openlibrary.org/works/OL15936899W/That's_the_joint!).
+New York: Routledge.
+
+Habeck, Holly. 2017. “[Music Professor Takes a Shot on
+‘Hamilton](http://www.ithaca.edu/news/releases/music-professor-takes-a-shot-on-hamilton-43506/#.WQH-XvkrLGg).’”
+IC News. Ithaca College (February 9). Accessed April 27, 2017.
+
+[*Hamilton’s America: A Documentary
+Film*](http://www.pbs.org/wnet/gperf/episodes/hamiltons-america/).
+2016. Directed by Alex Horwitz. Public Broadcasting Service (PBS): Great
+Performances.
+
+Kasinitz, Philip. 2016. “[*Hamilton:
+*](http://www.brooklyn.cuny.edu/web/academics/centers/hitchcock/publications/amr/v46-1/kasinitz.php)[Diverse
+America and the Second Generation
+Advantage](http://www.brooklyn.cuny.edu/web/academics/centers/hitchcock/publications/amr/v46-1/kasinitz.php).”
+*American Music Review* 46/1 (Fall).
+
+Krims, Adam. 2000. [*Rap Music and the Poetics of
+Identity*](https://openlibrary.org/books/OL42732M/Rap_music_and_the_poetics_of_identity).
+New York: Cambridge University Press.
+
+Mead, Rebecca. 2015. “[All About the
+Hamiltons](http://www.newyorker.com/magazine/2015/02/09/hamiltons).”
+*The New Yorker.* February 9. Accessed May 16, 2017.
+
+Miranda, Lin-Manuel. 2015a. [Twitter post,
+@Lin\_Manuel](#MrowbackMonday In 2008 I bought Chernow's Hamilton bio to read on vacation. @HamiltonMusical rehearsal starts today.).
+Jun 15. Accessed May 16, 2017.
+
+———. 2015b. [Hamilton (Original Broadway Cast
+Recording)](https://genius.com/albums/Lin-manuel-miranda/Hamilton-original-broadway-cast-recording).
+Genius.com. Accessed April 27, 2017.
+
+Miranda, Lin-Manuel, and Jeremy McCarter. 2016. [Hamilton: The
+Revolution](https://openlibrary.org/works/OL17366209W/Hamilton). New
+York: Grand Central Publishing.
+
+Nalepinski, Kate. 2017. “[Q&A: IC professor starts a revolution with
+‘Hamilton’
+course](https://theithacan.org/life-culture/qa-ic-professor-starts-a-revolution-with-hamilton-course/).”
+The Ithacan (February 21). Accessed April 27, 2017.
+
+Orejuela, Fernando. 2015. [*Rap and Hip Hop
+Culture*](https://global.oup.com/ushe/product/rap-and-hip-hop-culture-9780199987733?cc=us&lang=en&).
+New York: Oxford University Press.
+
+Rosen, Jody. 2015. “[The American
+Revolutionary](https://www.nytimes.com/interactive/2015/07/08/t-magazine/hamilton-lin-manuel-miranda-roots-sondheim.html).”
+The New York Times Style Magazine. July 8.
+
+Williams, Justin A., ed. 2015. [*The Cambridge Companion to
+Hip-Hop*](http://www.cambridge.org/gb/academic/subjects/music/twentieth-century-and-contemporary-music/cambridge-companion-hip-hop?format=PB#9whxVwK36f49ieQO.97).
+Cambridge, UK: Cambridge University Press. -->
