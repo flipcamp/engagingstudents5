@@ -69,6 +69,4 @@ Essays in Music Pedagogy, vol. 1*. Accessed July 18, 2017.
 Silverman, Marissa. 2009. “Rethinking Music ‘Appreciation’.” *Visions of
 Research in Music Education* 13.
 
-This work is copyright ⓒ 2017 George Lam and licensed under a [Creative
-Commons Attribution-ShareAlike 3.0 Unported
-License](https://creativecommons.org/licenses/by-sa/3.0/).
+This work is copyright ⓒ 2017 George Lam and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/).
