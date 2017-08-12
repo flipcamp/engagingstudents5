@@ -16,8 +16,8 @@ undergraduate student composers with the musical communities around
 them, engaging with school-level music students and performing ensembles
 outside the university.
 
-Modeled on the “[*Kids
-Compose*](http://music.indiana.edu/departments/academic/composition/student-activity/kids-compose.shtml)”
+Modeled on the “[\*Kids
+Compose\*](http://music.indiana.edu/departments/academic/composition/student-activity/kids-compose.shtml)”
 program run at my alma mater, the Jacobs School of Music at Indiana
 University (and with their blessing), I developed a new project entitled
 “Melody Makers” for composition students at the Australian National
@@ -29,9 +29,9 @@ a major concert hall. Witnessing the creative and educational benefits
 of the Jacobs School program, my aim for this new project was to connect
 undergraduate composers with a musical community outside the university.
 I partnered with[
-](http://musicforcanberra.org.au/event/melody-makers-anu-school-of-music-and-canberra-youth-orchestra/)[*Music
+](http://musicforcanberra.org.au/event/melody-makers-anu-school-of-music-and-canberra-youth-orchestra/)[\*Music
 for
-Canberra*](http://musicforcanberra.org.au/event/melody-makers-anu-school-of-music-and-canberra-youth-orchestra/),
+Canberra\*](http://musicforcanberra.org.au/event/melody-makers-anu-school-of-music-and-canberra-youth-orchestra/),
 a not-for-profit community music organisation and the home of the
 Canberra Youth Orchestra. “Melody Makers” therefore involved creative
 and collaborative input from musicians at three different educational
@@ -42,7 +42,7 @@ years.
 
 **PROJECT**
 
-“[*Melody Makers*](https://music.anu.edu.au/events/melody-makers)”
+“[*Melody Makers*][1]”
 
 The ANU School of Music is home to the Music Engagement Program (MEP), a
 community outreach unit specializing in pedagogical relationships with
@@ -160,7 +160,7 @@ aesthetic responsibilities associated with their work, particularly
 exploring the intersection of musical ideas with emotional concerns and
 public perception. In one school workshop, the class generated a slow,
 languid C-minor melody featuring stepwise descending motion, rising
-minor 6ths and frequent sospiro figures; the young class then struggled
+minor 6ths and frequent *sospiro* figures; the young class then struggled
 with a title for such a melancholic piece. “Deep Waters of Thought”,
 “Tears of Death”, and “Luca’s Funeral” were initially offered as
 potential titles(Luca was the main kid-composer). However, when the
@@ -189,35 +189,27 @@ step of this project. For the kid-composers the benefits included:
 
 -   Experiencing complete creative freedom in musical tasks
 
--   Collaboration with a class, creating melodic material as a group in
-    > small steps
+-   Collaboration with a class, creating melodic material as a group in small steps
 
 -   Engaging their emotional responses to music
 
 -   Transcribing their creations
 
--   Creating music for a specific purpose (public performance and
-    > enjoyment), encouraging an aesthetic responsibility towards their
-    > material and an awareness of its future life
+-   Creating music for a specific purpose (public performance and enjoyment), encouraging an aesthetic responsibility towards their material and an awareness of its future life
 
--   Enhancing aural and theoretical skills, led by teacher mentors, as
-    > the new melodies were created and transcribed
+-   Enhancing aural and theoretical skills, led by teacher mentors, as the new melodies were created and transcribed
 
 The undergraduate composers were also challenged by this project, using
 their developing musical skills for a high-level public performance.
 They faced professional questions of:
 
--   Using compositional devices to create a three- to five-minute work
-    > from a short eight-bar melody
+-   Using compositional devices to create a three- to five-minute work from a short eight-bar melody
 
--   Re-interpreting pitch and rhythmic values to enhance syntax, where
-    > these may be incomplete or disjunct in the melody received
+-   Re-interpreting pitch and rhythmic values to enhance syntax, where these may be incomplete or disjunct in the melody received
 
--   Considering orchestration techniques and properties of the string
-    > instruments
+-   Considering orchestration techniques and properties of the string instruments
 
--   Creating a new piece in their own musical style, considering the
-    > influence of the source melodic material
+-   Creating a new piece in their own musical style, considering the influence of the source melodic material
 
 **COMMUNITY ENGAGEMENT**
 
@@ -225,7 +217,7 @@ After the public performance on 29 April, 2017 in Llewellyn Hall at the
 Australian National University, the community networking benefits became
 increasingly clear. This project enabled the creation of a multi-layered
 musical community, strengthened by interaction in a collaborative,
-creative endeavour.
+creative endeavor.
 
 The kid-composers increased their musical skills, developed community
 connections, and grew in cultural awareness and ability. Music teachers
@@ -286,8 +278,12 @@ and hope that it inspires other communities to engage in similarly
 rewarding endeavors.
 
 This work is copyright ⓒ2017 Natalie Williams and licensed under a[
-](http://creativecommons.org/licenses/by-sa/3.0/)[*Creative Commons
+](http://creativecommons.org/licenses/by-sa/3.0/)[\*Creative Commons
 Attribution-ShareAlike 3.0 Unported
-License*](http://creativecommons.org/licenses/by-sa/3.0/).
+License\*](http://creativecommons.org/licenses/by-sa/3.0/).
 
-![](media/image2.jpg)
+![][image-1]
+
+[1]:	https://music.anu.edu.au/events/melody-makers
+
+[image-1]:	media/image2.jpg

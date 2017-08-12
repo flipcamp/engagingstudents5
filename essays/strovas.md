@@ -20,25 +20,25 @@ form of assessment. While instructors are undoubtedly familiar with oral
 examination, or *viva voce*, their experience with it is likely limited
 to the qualifying and defense processes with which graduate studies
 culminate. Application of oral examination within undergraduate
-curricula is much less common ([*Symonds
-2008*](https://doi.org/10.1386/jwcp.1.3.227_1);[
-](http://dx.doi.org/10.1080/02602938.2010.515012)[*Huxham, Campbell, and
-Westwood 2012*](http://dx.doi.org/10.1080/02602938.2010.515012)). Still,
+curricula is much less common ([\*Symonds
+2008\*](https://doi.org/10.1386/jwcp.1.3.227\_1);[
+](http://dx.doi.org/10.1080/02602938.2010.515012)[\*Huxham, Campbell, and
+Westwood 2012\*](http://dx.doi.org/10.1080/02602938.2010.515012)). Still,
 a number of recent pedagogy studies demonstrate the feasibility and
 educational benefits of oral examination in undergraduate programs
-([*Asklund and Bendix
-2003*](http://vbn.aau.dk/en/publications/oral-vs-written-evaluation-of-students(1b034770-9c2e-11db-8ed6-000ea68e967b).html);
-[*Cantley-Smith*](http://www.austlii.edu.au/au/journals/JCULawRw/2006/3.html)
-*2006*; [*Clouder and Toms
+([\*Asklund and Bendix
+2003\*](http://vbn.aau.dk/en/publications/oral-vs-written-evaluation-of-students(1b034770-9c2e-11db-8ed6-000ea68e967b).html);
+[*Cantley-Smith*][1]
+*2006*; [\*Clouder and Toms
 2008*](http://dx.doi.org/10.1080/09593980701378157); [*Huxham, Campbell,
-and Westwood 2012*](http://dx.doi.org/10.1080/02602938.2010.515012);[
-](http://dx.doi.org/10.1080/09593980701378157)[*Iannone and Simpson
-2012*](https://doi.org/10.1093/teamat/hrs012);[
-](https://link.springer.com/article/10.1007%2Fs11213-010-9184-2)[*Singh
-2011*](https://link.springer.com/article/10.1007%2Fs11213-010-9184-2);[
-](http://vbn.aau.dk/en/publications/oral-vs-written-evaluation-of-students(1b034770-9c2e-11db-8ed6-000ea68e967b).html)[*Thomas,
+and Westwood 2012\*](http://dx.doi.org/10.1080/02602938.2010.515012);[
+](http://dx.doi.org/10.1080/09593980701378157)[\*Iannone and Simpson
+2012\*](https://doi.org/10.1093/teamat/hrs012);[
+](https://link.springer.com/article/10.1007%2Fs11213-010-9184-2)[\*Singh
+2011\*](https://link.springer.com/article/10.1007%2Fs11213-010-9184-2);[
+](http://vbn.aau.dk/en/publications/oral-vs-written-evaluation-of-students(1b034770-9c2e-11db-8ed6-000ea68e967b).html)[\*Thomas,
 Raynor, and McKinnon
-2014*](http://dx.doi.org/10.1080/14703297.2013.796724)).
+2014\*](http://dx.doi.org/10.1080/14703297.2013.796724)).
 
 In 2015, we implemented oral unit exams as part of a wholesale revision
 of our four-semester undergraduate music theory sequence intended to
@@ -60,14 +60,14 @@ Put simply, the exams invite students to discuss scores with two
 experienced music professionals—their instructors. As mentors, we seek
 to alleviate the potential anxiety students might feel over reading
 “Oral Examination 1” in the syllabus and instead adopt the word
-*colloquy*, which [*Oxford English Dictionary*](http://www.oed.com/)
+*colloquy*, which the [*Oxford English Dictionary*][2]
 describes modestly as “a talking together” or a “conversation.” Students
 must also sing, count, and conduct passages of the repertoire, thereby
 demonstrating the synthesis of concept and craft required of the
 professional to present an informed performance. We thus consider the
 colloquy, as a roundtable simulating professional discourse and
 activity, to be an apt replacement for written exams. As[
-](https://link.springer.com/article/10.1007%2Fs11213-010-9184-2)[*Singh*](https://link.springer.com/article/10.1007%2Fs11213-010-9184-2)
+](https://link.springer.com/article/10.1007%2Fs11213-010-9184-2)[*Singh*][3]
 comments, “in the real world, graduates are not just expected to write
 down all their responses or interactions” (248). Indeed, it is difficult
 to imagine a written exam which allows instructors both to assess and to
@@ -82,32 +82,32 @@ ear-training/listening lab, completing analysis projects, and meeting
 with singing teams, to those students not directly involved in
 colloquies on a particular day. We also occasionally hold group
 colloquies, which both[
-](http://www.austlii.edu.au/au/journals/JCULawRw/2006/3.html)[*facilitate
+](http://www.austlii.edu.au/au/journals/JCULawRw/2006/3.html)[\*facilitate
 efficient
-assessment*](http://www.austlii.edu.au/au/journals/JCULawRw/2006/3.html)
+assessment\*](http://www.austlii.edu.au/au/journals/JCULawRw/2006/3.html)
 and[
-](https://link.springer.com/article/10.1007%2Fs11213-010-9184-2)[*foster
+](https://link.springer.com/article/10.1007%2Fs11213-010-9184-2)[\*foster
 collective
-understanding*](https://link.springer.com/article/10.1007%2Fs11213-010-9184-2).
+understanding\*](https://link.springer.com/article/10.1007%2Fs11213-010-9184-2).
 Understandably, doubts about the feasibility of administering oral
 assessment will come from instructors at programs serving large student
 populations and involving full-time faculty, part-time faculty, and
 graduate assistants across several sections. Still, we believe oral
 assessment to be worth pursuing and direct these readers to models
-comprising [*288 undergraduate environmental health students and 10
-examiners*](https://link.springer.com/article/10.1007%2Fs11213-010-9184-2),
-[*108 first-year math students and 4 examiners including 2 graduate
+comprising [\*288 undergraduate environmental health students and 10
+examiners\*](https://link.springer.com/article/10.1007%2Fs11213-010-9184-2),
+[\*108 first-year math students and 4 examiners including 2 graduate
 student tutors*](https://doi.org/10.1093/teamat/hrs012), [*99 first-year
 biology students with an unspecified number of
 examiners*](http://dx.doi.org/10.1080/02602938.2010.515012), [*75
 undergraduate introductory psychology students and 2
-examiners*](http://dx.doi.org/10.1080/14703297.2013.796724), and
-specific to music, [*5-7 sections of first-semester music theory
+examiners\*](http://dx.doi.org/10.1080/14703297.2013.796724), and
+specific to music, [\*5-7 sections of first-semester music theory
 students instructed mostly by graduate teaching
-associates*](http://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.duker_gawboy_hughes_shaffer.html)
+associates\*](http://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.duker\_gawboy\_hughes\_shaffer.html)
 (see Anna Gawboy’s discussion in Section 6 of the linked paper, as well
-as her [*appendixed interview
-prompt*](http://www.mtosmt.org/issues/mto.15.21.1/duker_gawboy_hughes_shaffer_appendix1d_3.pdf)).
+as her [\*appendixed interview
+prompt\*](http://www.mtosmt.org/issues/mto.15.21.1/duker\_gawboy\_hughes\_shaffer\_appendix1d\_3.pdf)).
 
 Our colloquy is not designed to be a platform for on-the-spot
 comprehensive formal or harmonic analysis; rather, it is through the
@@ -116,7 +116,7 @@ each student applies the analytical tools presented in class to
 pre-assigned literature, repertoire from their applied studios and
 ensembles, or scores presented for discussion at sight during the
 colloquy. As[
-](http://www.austlii.edu.au/au/journals/JCULawRw/2006/3.html)[*Cantley-Smith*](http://www.austlii.edu.au/au/journals/JCULawRw/2006/3.html)
+](http://www.austlii.edu.au/au/journals/JCULawRw/2006/3.html)[*Cantley-Smith*][4]
 notes, “oral examinations may enable an examiner to ascertain, in a
 comparatively short space of time, what a student knows as well as the
 depth of this understanding” (42). Since we are not confined to a preset
@@ -125,8 +125,8 @@ student. The end result is an authentic direct assessment of what each
 student is able to identify, explain, and perform. Moreover, the
 colloquy has formative educational benefits, in that it “emphasizes
 process more than product” and “is used to provide feedback to pupils
-and teachers to promote further learning” ([*Atjonen 2014,
-240*](http://dx.doi.org/10.1080/09585176.2013.874952)). During the
+and teachers to promote further learning” ([\*Atjonen 2014,
+240\*](http://dx.doi.org/10.1080/09585176.2013.874952)). During the
 colloquy, instructors observe instantly whether a student engages the
 music using the processes modeled in class. For students performing
 poorly, the colloquy becomes a vivid learning moment during which we
@@ -153,28 +153,28 @@ which deepens student learning and accelerates the rate at which
 students progress through the curriculum.
 
 These anecdotal assertions reflect benefits of oral assessment promoted
-in the secondary literature. [*Huxham, Campbell, and
-Westwood*](http://dx.doi.org/10.1080/02602938.2010.515012) link oral
+in the secondary literature. [\*Huxham, Campbell, and
+Westwood\*](http://dx.doi.org/10.1080/02602938.2010.515012) link oral
 examination quantifiably to improved academic performance, and
 qualitative studies involving student surveys repeatedly tie improved
 student engagement to the perception of validity and authenticity of
-oral assessment as related to professional relevancy ([*Clouder and Toms
+oral assessment as related to professional relevancy ([\*Clouder and Toms
 2008*](http://dx.doi.org/10.1080/09593980701378157); [*Iannone and
-Simpson 2013*](http://dx.doi.org/10.1080/14794802.2012.756634);
-[*Joughin 2007*](http://dx.doi.org/10.1080/03075070701346873); [*Simper
-2010*](http://www.academicjournals.org/article/article1379621654_Simper.pdf);
-[*Singh
-2011*](https://link.springer.com/article/10.1007%2Fs11213-010-9184-2);
-[*Thomas, Raynor, and McKinnon
-2014*](http://dx.doi.org/10.1080/14703297.2013.796724)). In these
+Simpson 2013\*](http://dx.doi.org/10.1080/14794802.2012.756634);
+[*Joughin 2007*][5]; [\*Simper
+2010\*](http://www.academicjournals.org/article/article1379621654\_Simper.pdf);
+[\*Singh
+2011\*](https://link.springer.com/article/10.1007%2Fs11213-010-9184-2);
+[\*Thomas, Raynor, and McKinnon
+2014\*](http://dx.doi.org/10.1080/14703297.2013.796724)). In these
 surveys, students consistently view oral examination to be an assessment
-tool fostering deeper learning, affirming what [*proponents of
-experiential learning*](http://www.aee.org/what-is-ee) advocate: dynamic
+tool fostering deeper learning, affirming what [\*proponents of
+experiential learning\*](http://www.aee.org/what-is-ee) advocate: dynamic
 learning experiences which are “structured to require the learner to
 take initiative, make decisions and be accountable for results.” Indeed,
-as [*Joughin*](http://dx.doi.org/10.1080/03075070701346873)[
+as [*Joughin*][6][
 ](http://dx.doi.org/10.1080/03075070701346873)and
-[*Cantley-Smith*](http://www.austlii.edu.au/au/journals/JCULawRw/2006/3.html)
+[*Cantley-Smith*][7]
 summarize, students approach academic tasks according to how they
 perceive the task will benefit them; thus, if students perceive oral
 assessment to be more professionally relevant, they are more likely to
@@ -209,10 +209,7 @@ answers. For example, if a student found German-language vocal text
 paired with piano scoring to hint at Romantic-era *Lieder*, we then
 expected the student to affirm their assumption by addressing the
 specific musical concepts at work in the music which more precisely
-suggested this period and genre. In the case of the particular
-[**Lied**](http://ks.imslp.net/files/imglnks/usimg/d/db/IMSLP16227-SchubertD595b_Thekla_2nd_setting_2nd_version.pdf)
-used for the colloquy—of which we excerpted the final page—we sought
-confirmation that the student could identify the key, point out periodic
+suggested this period and genre. In the case of the particular[*Lied*][8] used for the colloquy—of which we excerpted the final page—we sought confirmation that the student could identify the key, point out periodic
 phrasing and cycle-of-functions progressions, track modulations to
 distantly-related keys, and observe the mode mixture, augmented-sixth
 chords, and other chromatic materials which so distinguish much of
@@ -231,10 +228,8 @@ must you consider?”, etc.) transforms the learning environment from
 passive to active and compels students to consider context as equally
 important to content. For example, Colloquy 1 tasks students with
 engaging melody and phrasing within some exemplar of Classical-era
-musical clarity, something like Mozart’s aria duet, “[*La ci darem la
-mano*](http://www.dlib.indiana.edu/variations/scores/bhq9391/large/sco10064.html)”
-from *Don Giovanni*. Students should derive that the key is A major not
-simply by considering the key signature, but also by offering notated
+musical clarity, something like Mozart’s aria duet, “[\*La ci darem la
+mano\*](http://www.dlib.indiana.edu/variations/scores/bhq9391/large/sco10064.html)” from *Don Giovanni*. Students should derive that the key is A major not simply by considering the key signature, but also by offering notated
 musical evidence: namely, that Mozart employs the note ‘A’ as a
 structurally foundational pillar from which and to which the vocals
 consistently depart and return, and on which they conclude in octaves
@@ -258,85 +253,57 @@ conversation.
 
 **Table 1.** Colloquy Adaptations
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---- 
   **Semester.Unit**   **Content Focus**                       **Format**                                               **Description**
-  ------------------- --------------------------------------- -------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---- 
   **1.2**             Minor mode                              10 minutes                                               Students bring repertoire from their ensembles or applied studios prepared to discuss and perform. Repertoire must be in minor mode.
-                                                                                                                       
-                      Compound meter                          \_\_\_\_\_\_\_\_\_\_\_\_\_                               Instructors provide repertoire in compound meter for students to discuss and perform at-sight.
-                                                                                                                       
-                                                              1 student                                                
-                                                                                                                       
-                                                              2 instructors                                            
-                                                                                                                       
-                                                              \_\_\_\_\_\_\_\_\_\_\_\_\_                               
-                                                                                                                       
-                                                              Prepared literature and at-sight analysis/ performance   
+	                  Compound meter                          \_\_\_\_\_\_\_\_\_\_\_\_\_                               Instructors provide repertoire in compound meter for students to discuss and perform at-sight.
+	
+	                                                          1 student                                                
+	                                                          2 instructors                                            
+	                                                          \_\_\_\_\_\_\_\_\_\_\_\_\_                               
+	                                                          Prepared literature and at-sight analysis/ performance   
 
   **2.1**             Species counterpoint                    10 minutes                                               Students discuss contrapuntal relationships between voices and identify types of NCTs, implied harmonies, and cadence types.
-                                                                                                                       
-                      Voice-leading                           \_\_\_\_\_\_\_\_\_\_\_\_\_                               Students also sing, count, and conduct individual voices at-sight.
-                                                                                                                       
-                      Consonance                              1 student                                                
-                                                                                                                       
-                      Dissonance/NCTs                         2 instructors                                            
-                                                                                                                       
-                      Harmonic implications                   \_\_\_\_\_\_\_\_\_\_\_\_\_                               
-                                                                                                                       
-                      Cadence identification                  At-sight analysis/                                       
-                                                                                                                       
-                                                              performance                                              
+	                  Voice-leading                           \_\_\_\_\_\_\_\_\_\_\_\_\_                               Students also sing, count, and conduct individual voices at-sight.
+	
+	                  Consonance                              1 student                                                
+	                  Dissonance/NCTs                         2 instructors                                            
+	                  Harmonic implications                   \_\_\_\_\_\_\_\_\_\_\_\_\_                               
+	                  Cadence identification                  At-sight analysis/                                       
+	                                                          performance                                              
 
   **2.3**             Small forms                             20 minutes                                               Two students receive the same literature selection and determine essential content collaboratively, practice the conversation, and share critiques, but complete the colloquy independently.
-                                                                                                                       
-                      Diatonic harmony                        \_\_\_\_\_\_\_\_\_\_\_\_\_                               
-                                                                                                                       
-                      Secondary function                      1 student                                                
-                                                                                                                       
-                                                              2 instructors                                            
-                                                                                                                       
-                                                              \_\_\_\_\_\_\_\_\_\_\_\_\_                               
-                                                                                                                       
-                                                              Prepared literature                                      
+	                  Diatonic harmony                        \_\_\_\_\_\_\_\_\_\_\_\_\_                               
+	                  Secondary function                      1 student                                                
+	                                                          2 instructors                                            
+	                                                          \_\_\_\_\_\_\_\_\_\_\_\_\_                               
+	                                                          Prepared literature                                      
 
   **3.2**             Multi-movement works                    20 minutes                                               Student are placed into small groups and assigned a complete four-movement Mozart symphony. Students must prepare a joint, comprehensive discussion of the sonata-allegro first movement to open the colloquy. Instructors ask students individually to discuss the form and formal sections of the remaining movements.
-                                                                                                                       
-                      Sonata-allegro form                     \_\_\_\_\_\_\_\_\_\_\_\_\_                               
-                                                                                                                       
-                      Compound ternary                        3-4 students                                             
-                                                                                                                       
-                      Sectional variations                    2 instructors                                            
-                                                                                                                       
-                      Rondo                                   \_\_\_\_\_\_\_\_\_\_\_\_\_                               
-                                                                                                                       
-                      Sonata rondo                            Prepared literature                                      
+	                  Sonata-allegro form                     \_\_\_\_\_\_\_\_\_\_\_\_\_                               
+	                  Compound ternary                        3-4 students                                             
+	                  Sectional variations                    2 instructors                                            
+	                  Rondo                                   \_\_\_\_\_\_\_\_\_\_\_\_\_                               
+	                  Sonata rondo                            Prepared literature                                      
 
   **3.3**             Chromaticism                            10 minutes                                               All students receive the same literature in advance: a Bach fugue, a first movement of a Mozart piano sonata, and a Chopin nocturne. Students must prepare a discussion of the chromatic content of each, focusing specifically on the development of chromatic resources in the Common-Practice period.
-                                                                                                                       
-                                                              \_\_\_\_\_\_\_\_\_\_\_\_\_                               Students are encouraged to determine essential content collaboratively, practice the conversation, and share critiques, but complete the colloquy independently.
-                                                                                                                       
-                                                              1 student                                                
-                                                                                                                       
-                                                              2 instructors                                            
-                                                                                                                       
-                                                              \_\_\_\_\_\_\_\_\_\_\_\_\_                               
-                                                                                                                       
-                                                              Prepared literature                                      
+	                                                          \_\_\_\_\_\_\_\_\_\_\_\_\_                               Students are encouraged to determine essential content collaboratively, practice the conversation, and share critiques, but complete the colloquy independently.
+	
+	                                                          1 student                                                
+	                                                          2 instructors                                            
+	                                                          \_\_\_\_\_\_\_\_\_\_\_\_\_                               
+	                                                          Prepared literature                                      
 
   **4.2**             Twentieth-Century/ Contemporary Music   30 minutes                                               Student groups work with instructors to select one twentieth-century or contemporary work on which to present a public colloquy. Because of the public format, students are expected to address conceptual musical principals using whatever verbal and nonverbal means the group believes will facilitate understanding among lay music aficionados.
-                                                                                                                       
-                                                              \_\_\_\_\_\_\_\_\_\_\_\_\_                               
-                                                                                                                       
-                                                              3-4 students                                             
-                                                                                                                       
-                                                              2 instructors                                            
-                                                                                                                       
-                                                              Invited guests                                           
-                                                                                                                       
-                                                              \_\_\_\_\_\_\_\_\_\_\_\_\_                               
-                                                                                                                       
-                                                              Prepared literature                                      
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	                                                          \_\_\_\_\_\_\_\_\_\_\_\_\_                               
+	                                                          3-4 students                                             
+	                                                          2 instructors                                            
+	                                                          Invited guests                                           
+	                                                          \_\_\_\_\_\_\_\_\_\_\_\_\_                               
+	                                                          Prepared literature                                      
+---- 
 
 Students prepare for their colloquies in various ways. Most
 significantly, the day-to-day instructor-led and small-group discussion
@@ -360,8 +327,8 @@ practice the discussion, receive feedback, and build confidence in the
 process.
 
 Three unit colloquies account for approximately one-third of the final
-semester average. Each colloquy uses a standardized [*three-column
-rubric*](https://drive.google.com/file/d/0BzABv_4a8RckWXlFblBUQlVYSlk/view?usp=sharing)
+semester average. Each colloquy uses a standardized [\*three-column
+rubric\*](https://drive.google.com/file/d/0BzABv\_4a8RckWXlFblBUQlVYSlk/view?usp=sharing)
 measuring 1) Content, 2) Delivery, and 3) Performance Craft. Column 1
 measures conceptual understanding (“How do you know”), and includes both
 new material introduced within a unit and previously mastered concepts.
@@ -372,8 +339,8 @@ through those aspects of the colloquy measured in Column 2: Delivery.
 Delivery encompasses appropriate preparation, efficient communication,
 confident exchanges, attire, and interpersonal demeanor, all of which
 are generally considered universal[
-](https://bemycareercoach.com/soft-skills/list-soft-skills.html)[*soft
-skills*](https://bemycareercoach.com/soft-skills/list-soft-skills.html)
+](https://bemycareercoach.com/soft-skills/list-soft-skills.html)[\*soft
+skills\*](https://bemycareercoach.com/soft-skills/list-soft-skills.html)
 beneficial to success in any profession. The openness of the rubric
 provides opportunities for personalized assessment. In addition to
 immediate oral feedback from each instructor within the colloquy,
@@ -387,15 +354,15 @@ transference into other courses, applied lessons, and ensembles.
 *Concluding Thoughts*
 
 Additional benefits of oral examination include[
-](http://dx.doi.org/10.1080/14703297.2013.796724)[*facilitating academic
-integrity*](http://dx.doi.org/10.1080/14703297.2013.796724), serving
-diverse student populations ([*Singh
-2011*](https://link.springer.com/article/10.1007%2Fs11213-010-9184-2);
-[*Symonds 2008*](https://doi.org/10.1386/jwcp.1.3.227_1)), and
-[*promoting the
+](http://dx.doi.org/10.1080/14703297.2013.796724)[\*facilitating academic
+integrity\*](http://dx.doi.org/10.1080/14703297.2013.796724), serving
+diverse student populations ([\*Singh
+2011\*](https://link.springer.com/article/10.1007%2Fs11213-010-9184-2);
+[*Symonds 2008*][9]), and
+[\*promoting the
 *](http://vbn.aau.dk/en/publications/oral-vs-written-evaluation-of-students(1b034770-9c2e-11db-8ed6-000ea68e967b).html)[*upper
 three strata of Bloom’s
-taxonomy*](http://vbn.aau.dk/en/publications/oral-vs-written-evaluation-of-students(1b034770-9c2e-11db-8ed6-000ea68e967b).html).
+taxonomy\*](http://vbn.aau.dk/en/publications/oral-vs-written-evaluation-of-students(1b034770-9c2e-11db-8ed6-000ea68e967b).html).
 Still, the colloquy is greater than a test. We perceive that consistent,
 face-to-face evaluation coupled with immediate, honest feedback promotes
 positive and enduring student-mentor cultures. The colloquy is a vehicle
@@ -488,3 +455,13 @@ Perspective.*](http://dx.doi.org/10.1080/14703297.2013.796724)”
 *Innovations in Education and Teaching International* 51 (5): 533-543.
 
 [](http://scholar.google.com/scholar?q=%22author:Simpson%20author:A.%22) -->
+
+[1]:	http://www.austlii.edu.au/au/journals/JCULawRw/2006/3.html
+[2]:	http://www.oed.com/
+[3]:	https://link.springer.com/article/10.1007/s11213-010-9184-2
+[4]:	http://www.austlii.edu.au/au/journals/JCULawRw/2006/3.html
+[5]:	http://dx.doi.org/10.1080/03075070701346873
+[6]:	http://dx.doi.org/10.1080/03075070701346873
+[7]:	http://www.austlii.edu.au/au/journals/JCULawRw/2006/3.html
+[8]:	http://ks.imslp.net/files/imglnks/usimg/d/db/IMSLP16227-SchubertD595b_Thekla_2nd_setting_2nd_version.pdf
+[9]:	https://doi.org/10.1386/jwcp.1.3.227_1
