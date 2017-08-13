@@ -9,9 +9,6 @@ author: Rebecca Jemain, University of Louisville
 
 **{{ page.author }}**
 
-<a href="https://twitter.com/share" class="twitter-share-button" data-via="FlipCampMT">Tweet</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-
 Contextual listening is a frequent component of undergraduate theory classes, giving students a chance to demonstrate their understanding of theory topics by identifying various features in a particular piece of music. Typically, the professor controls this exercise, choosing both the repertoire and the questions that are asked.
 
 Contextual listening exercises often focus primarily on the topics studied at that point of the course, perhaps reviewing earlier material. For instance, in the first few weeks of a freshman course, students may listen for meter type and mode; later in the term they listen for phrase length, cadence types and motives. Subsequent courses might address form, chromatic harmony (such as secondary dominants or mixture), harmonic rhythm, melodic construction, text-music relations or hypermeter. All of these topics are worthy candidates for aural perception, and a studied approach of developing expertise with them is time-tested and successful. Some textbooks (such as those by [Root](https://openlibrary.org/books/OL26354399M/Applied_Music_Fundamentals_Writing_Singing_and_Listening), [Santa](https://openlibrary.org/works/OL17756488W/Hearing_Form_Musical_Analysis_with_and_Without_the_Score_2nd_edition), and [Murphy/Phillips/Marvin/Clendinning](https://openlibrary.org/works/OL17756489W/The_Musician's_Guide_to_Aural_Skills)) include contextual listening exercises in their pedagogical approach. At least one app ([Contextual Listening from G Major Music Theory](http://gmajormusictheory.org/Listening/Listeningindex.html)) and some software programs (such as [Musition](https://www.risingsoftware.com/musition/topics/)) also present this activity.
@@ -26,7 +23,20 @@ In order to give students more control over their learning, the professor may ha
 
 The framework that I have developed for contextual listening activities offers students a choice in repertoire while preserving a set of core questions. Over the course of the semester, I schedule ten 25-minute contextual listening sessions, and I introduce the activity by leading the class through a 2-3 minute piece or excerpt. The repertoire suggestions are made by groups of students, individual students, and me. Students are randomly divided into four groups, and each group selects two pieces drawn from their choice of genres (such as classical, pop, jazz, musical theater, country, bluegrass, world, etc.). From these eight pieces, the entire class selects one piece from each of the four groups. Individuals also nominate pieces; the class chooses two from this group and I choose one, as well as the remaining two pieces. I also determine the order in which the pieces are discussed; one possible schedule is shown below. The group choices begin midway through the course. This allows time for the class to move forward with topics of the semester, get a sense of contextual listening exercises, and develop as a community of learners.
 
-  SESSION      REPERTOIRE selected by        QUESTIONS created by
+| Session | Repertoire selected by | Questions created by |
+| :-: | :-: | :-: |
+| Session 1 | Professor | Professor |
+| Session 2 | Individual/class choice | Professor |
+| Session 3 | Individual/class choice | Professor |
+| Session 4 | Group A | Group A |
+| Session 5 | Group B | Group B |
+| Session 6 | Professor | Professor |
+| Session 7 | Group C | Group C |
+| Session 8 | Group D | Group D |
+| Session 9 | Individual/professor choice | Professor |
+| Session 10 | Professor | Professor |
+
+<!--  SESSION      REPERTOIRE selected by        QUESTIONS created by
   ------------ ----------------------------- ----------------------
   Session 1    Professor                     Professor
   Session 2    Individual/class choice       Professor
@@ -37,7 +47,7 @@ The framework that I have developed for contextual listening activities offers s
   Session 7    Group C                       Group C
   Session 8    Group D                       Group D
   Session 9    Individual/professor choice   Professor
-  Session 10   Professor                     Professor
+  Session 10   Professor                     Professor -->
 
 Three main questions drive this student-centered approach to contextual listening:
 
