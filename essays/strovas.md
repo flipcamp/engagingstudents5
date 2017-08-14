@@ -43,8 +43,7 @@ Table 1. Colloquy Adaptations.
 | Semester.Unit | Content Focus | Format | Description |
 | :-: | :-: | :-: | :-: |
 | 1.2 | Minor mode, Compound meter | 10 minutes; 1 student, 2 instructors; Prepared literature and at-sight analysis/performance | Students bring repertoire from their ensembles or applied studios prepared to discuss and perform. Repertoire must be in minor mode. Instructors provide repertoire in compound meter for students to discuss and perform at-sight. |
-| 2.1 | Species counterpoint | 10 minutes; Students discuss contrapuntal relationships between voices and identify types of NCTs, implied harmonies, and cadence types. |
-
+| 2.1 | Species counterpoint | 10 minutes; Students discuss contrapuntal relationships between voices and identify types of NCTs, implied harmonies, and cadence types. | Voice-leading; Students also sing, count, and conduct individual voices at-sight.  Consonance, dissonance/NCTS; 1 student                         																		 
  
 <!--  
   **2.1**             Species counterpoint                    10 minutes                                               Students discuss contrapuntal relationships between voices and identify types of NCTs, implied harmonies, and cadence types.
