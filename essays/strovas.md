@@ -40,6 +40,10 @@ Colloquies assume a variety of formats beyond the initial and the culminating as
 
 Table 1. Colloquy Adaptations.
 
+| Semester.Unit | Content Focus | Format | Description |
+| :-: | :-: | :-: | :-: |
+Table 1. Colloquy Adaptations.
+
 | Semester.Unit | Content Focus                                                                                              | Format                                                                                                                                                                                                    | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                
 | 1.2           | Minor mode Compound meter                                                                                  |  10 minutes
 1 student 
