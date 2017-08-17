@@ -389,7 +389,7 @@ Zlotkowski, Edward and Donna Duffy. 2010. “Two Decades of
 Community-Based Learning.” *New Directions for Teaching and Learning*
 2010/123: 33-43.
 
-
+Gullings, Kyle. “[OER for Undergraduate Music Theory - www.kylegullings.com](http://www.kylegullings.com./).” Link to a publicly-viewable Google Drive folder with 109 documents.
 
 
 
