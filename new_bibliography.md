@@ -7,75 +7,6 @@ title: Bibliography
 {{ page.title }}
 ================
 
-
-Armstrong, Patricia. “Bloom’s Taxonomy” Vanderbilt University Center for
-Teaching. Accessed July 20, 2017.
-[*https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/*](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/).
-
-Duker, Philip, Kris Shafer, and Daniel Stevens. 2014. “Problem-Based
-Learning in Music: A Guide for Instructors.” *Engaging Students: Essays
-in Music Pedagogy*. Accessed July 23, 2017.
-[*http://flipcamp.org/engagingstudents2/essays/dukerShafferStevens.html*](http://flipcamp.org/engagingstudents2/essays/dukerShafferStevens.html).
-
-[Duker](http://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.duker_gawboy_hughes_shaffer.html#AUTHORNOTE1),
-Philip, [Anna
-Gawboy](http://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.duker_gawboy_hughes_shaffer.html#AUTHORNOTE2),
-[Bryn
-Hughes](http://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.duker_gawboy_hughes_shaffer.html#AUTHORNOTE3),
-and [Kris P.
-Shaffer](http://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.duker_gawboy_hughes_shaffer.html#AUTHORNOTE4).
-2015. “Hacking the Music Theory Classroom: Standards-Based Grading,
-Just-in-Time Teaching, and the Inverted Class.” *Music Theory Online*
-21, no. 1. Accessed July 20, 2017.
-[*http://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.duker\_gawboy\_hughes\_shaffer.html*](http://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.duker_gawboy_hughes_shaffer.html).
-
-Duker, Philip, and Daniel Stevens. 2017. “Scaling to Real Music:
-Rebuilding Aural Skills Pedagogy from the Ground Up.” Poster presented
-at Pedagogy Into Practice Conference. Lee University, Cleveland, TN.
-Accessed June, 30, 2017.
-[*http://tinyurl.com/ScalingToRealMusicFolder*](http://tinyurl.com/ScalingToRealMusicFolder).
-
-Lewin, David. 1986. “Music Theory, Phenomenology, and Modes of
-Perception.” *Music Perception: An Interdisciplinary Journal* 3, no. 4.
-
-Michaelsen, Garrett. (2014) “Improvising to Learn/Learning to Improvise:
-Designing Scaffolded Group Improvisations for the Music Theory
-Classroom.” *Engaging Students: Essays in Music Pedagogy* 2. Accessed
-March 29, 2015.[
-](http://www.flipcamp.org/engagingstudents2/essays/michaelsen.html)[*http://www.flipcamp.org/engagingstudents2/essays/michaelsen.html*](http://www.flipcamp.org/engagingstudents2/essays/michaelsen.html).
-
-Ottman, Robert, and Nancy Rogers. 2013 *Music for Sight Singing.* 9th
-ed. Upper Saddle River: Pearson Prentice Hall.
-
-Rahn, Jay, and James R. McKay. 1988. “The Guide-Tone Method: An Approach
-to Harmonic Dictation.” *Journal of Music Theory Pedagogy* 2: 101–111.
-
-Rogers, Nancy. 2008. “How Structured Improvisation Can Improve Sight
-Singing Performance (and More).” In *Teaching Sight Singing*, 49–58. New
-York: The College Board, 2008. Accessed April 7, 2015.[
-](http://apcentral.collegeboard.com/apc/public/repository/Music_Teaching_Sight_Singing_SF.pdf)[*http://apcentral.collegeboard.com/apc/public/repository/Music\_Teaching\_Sight\_Singing\_SF.pdf*](http://apcentral.collegeboard.com/apc/public/repository/Music_Teaching_Sight_Singing_SF.pdf).
-
-Root, Jena. 2016. “The Chromatic Sing Along.” *Music Theory Pedagogy
-Online*. Accessed June 27, 2017.
-[*https://music.appstate.edu/about/jmtp/chromatic-sing-along*](https://music.appstate.edu/about/jmtp/chromatic-sing-along).
-
-Shafer, Kris, and Bryn Hughes. 2013. “Flipping the Classroom: Three
-Methods.” *Engaging Students: Essays in Music Pedagogy* 1.
-
-Stevens, Daniel B. 2013. [“Symphonic Hearing: Listening as Active
-Participation.”](https://docs.google.com/file/d/0B3FeJtVLAolpWFBQbnhfWnNuWG8/edit)
-Paper presented at the annual meeting of Music Theory Midwest, Norman,
-Oklahoma, April 26–27. Accessed June 27, 2017.
-[*https://docs.google.com/file/d/0B3FeJtVLAolpWFBQbnhfWnNuWG8/edit*](https://docs.google.com/file/d/0B3FeJtVLAolpWFBQbnhfWnNuWG8/edit).
-
-Stevens, Daniel. 2015. “Inverting Analysis.” *Engaging Students: Essays
-in Music Pedagogy* 3.
-
-Stevens, Daniel. 2016a. “The Do/Ti Test Handouts.” Music Theory Pedagogy
-Online. Access June 27, 2017.
-[*https://music.appstate.edu/about/jmtp/doti-test-handouts*](https://music.appstate.edu/about/jmtp/doti-test-handouts).
-
-
 **Works Cited**
 
 Abbott, Michaela. 2017. “[*Hamilton’s Revolution Enters the
@@ -97,6 +28,10 @@ Jossey-Bass.
 
 Andrade, Jackie. “What does doodling do?” *Applied Cognitive Psychology*
 24 (2009): 100–106.
+
+Armstrong, Patricia. “Bloom’s Taxonomy” Vanderbilt University Center for
+Teaching. Accessed July 20, 2017.
+[*https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/*](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/).
 
 Asklund, Ulf, and Lars Gotfred Bendix. 2003. “[*Oral vs. Written
 Evaluation of
@@ -164,6 +99,31 @@ the Music Theory Classroom: Standards-Based Grading, Just-in-Time
 Teaching, and the Inverted
 Class.*](http://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.duker_gawboy_hughes_shaffer.html)”
 *Music Theory Online* 21 (1).
+
+Duker, Philip, Kris Shafer, and Daniel Stevens. 2014. “Problem-Based
+Learning in Music: A Guide for Instructors.” *Engaging Students: Essays
+in Music Pedagogy*. Accessed July 23, 2017.
+[*http://flipcamp.org/engagingstudents2/essays/dukerShafferStevens.html*](http://flipcamp.org/engagingstudents2/essays/dukerShafferStevens.html).
+
+
+[Duker](http://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.duker_gawboy_hughes_shaffer.html#AUTHORNOTE1),
+Philip, [Anna
+Gawboy](http://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.duker_gawboy_hughes_shaffer.html#AUTHORNOTE2),
+[Bryn
+Hughes](http://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.duker_gawboy_hughes_shaffer.html#AUTHORNOTE3),
+and [Kris P.
+Shaffer](http://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.duker_gawboy_hughes_shaffer.html#AUTHORNOTE4).
+2015. “Hacking the Music Theory Classroom: Standards-Based Grading,
+Just-in-Time Teaching, and the Inverted Class.” *Music Theory Online*
+21, no. 1. Accessed July 20, 2017.
+[*http://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.duker\_gawboy\_hughes\_shaffer.html*](http://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.duker_gawboy_hughes_shaffer.html).
+
+Duker, Philip, and Daniel Stevens. 2017. “Scaling to Real Music:
+Rebuilding Aural Skills Pedagogy from the Ground Up.” Poster presented
+at Pedagogy Into Practice Conference. Lee University, Cleveland, TN.
+Accessed June, 30, 2017.
+[*http://tinyurl.com/ScalingToRealMusicFolder*](http://tinyurl.com/ScalingToRealMusicFolder).
+
 
 Eyler, Janet and Dwight E. Giles, Jr. 1999. *Where’s the Learning in
 Service-Learning?* San Francisco: Jossey-Bass.
@@ -251,7 +211,10 @@ Krims, Adam. 2000. [**Rap Music and the Poetics of
 Identity**](https://openlibrary.org/books/OL42732M/Rap_music_and_the_poetics_of_identity).
 New York: Cambridge University Press.
 
-Lewin, David. 1990. [*“Klumpenhouwer Networks and Some Isographies that
+Lewin, David. 1986. “Music Theory, Phenomenology, and Modes of
+Perception.” *Music Perception: An Interdisciplinary Journal* 3, no. 4.
+
+———. 1990. [*“Klumpenhouwer Networks and Some Isographies that
 Involve
 Them.”*](http://www.jstor.org/stable/746147?seq=1#page_scan_tab_contents)
 Music Theory Spectrum 12/1: 83-120.
@@ -264,6 +227,12 @@ ISME Research Seminar 147 (2000/2001): 103–108.
 Mead, Rebecca. 2015. “[*All About the
 Hamiltons*](http://www.newyorker.com/magazine/2015/02/09/hamiltons).”
 *The New Yorker.* February 9. Accessed May 16, 2017.
+
+Michaelsen, Garrett. (2014) “Improvising to Learn/Learning to Improvise:
+Designing Scaffolded Group Improvisations for the Music Theory
+Classroom.” *Engaging Students: Essays in Music Pedagogy* 2. Accessed
+March 29, 2015.[
+](http://www.flipcamp.org/engagingstudents2/essays/michaelsen.html)[*http://www.flipcamp.org/engagingstudents2/essays/michaelsen.html*](http://www.flipcamp.org/engagingstudents2/essays/michaelsen.html).
 
 Miranda, Lin-Manuel. 2015a. [*Twitter post,
 @Lin\_Manuel*](#MrowbackMonday In 2008 I bought Chernow's Hamilton bio to read on vacation. @HamiltonMusical rehearsal starts today.).
@@ -309,12 +278,27 @@ Orejuela, Fernando. 2015. [**Rap and Hip Hop
 Culture**](https://global.oup.com/ushe/product/rap-and-hip-hop-culture-9780199987733?cc=us&lang=en&).
 New York: Oxford University Press.
 
+Ottman, Robert, and Nancy Rogers. 2013 *Music for Sight Singing.* 9th
+ed. Upper Saddle River: Pearson Prentice Hall.
 Pillay, Srini. *Tinker, Dabble, Doodle, Try: Unlock the Power of the
 Unfocused Mind*. Ballantine Books. NY: 2017.
 
 Pillay, Srini. “The ‘thinking’ benefits of doodling.”
 *Harvard Health Blog*. Accessed May 30, 2017. Posted December 15, 2016.
 http://www.health.harvard.edu/blog/the-thinking-benefits-of-doodling-2016121510844
+
+
+Rahn, Jay, and James R. McKay. 1988. “The Guide-Tone Method: An Approach
+to Harmonic Dictation.” *Journal of Music Theory Pedagogy* 2: 101–111.
+
+Rogers, Nancy. 2008. “How Structured Improvisation Can Improve Sight
+Singing Performance (and More).” In *Teaching Sight Singing*, 49–58. New
+York: The College Board, 2008. Accessed April 7, 2015.[
+](http://apcentral.collegeboard.com/apc/public/repository/Music_Teaching_Sight_Singing_SF.pdf)[*http://apcentral.collegeboard.com/apc/public/repository/Music\_Teaching\_Sight\_Singing\_SF.pdf*](http://apcentral.collegeboard.com/apc/public/repository/Music_Teaching_Sight_Singing_SF.pdf).
+
+Root, Jena. 2016. “The Chromatic Sing Along.” *Music Theory Pedagogy
+Online*. Accessed June 27, 2017.
+[*https://music.appstate.edu/about/jmtp/chromatic-sing-along*](https://music.appstate.edu/about/jmtp/chromatic-sing-along).
 
 Roust, Colin. 2013. “Creating Illusions: Practical Approaches to
 Teaching ‘Added Value’ in Audiovisual Artworks.” *Engaging Students:
@@ -371,6 +355,19 @@ Practice: ‘*](https://doi.org/10.1386/jwcp.1.3.227_1)[**I Can Write but
 It’s Like Walking Against the
 Wind**](https://doi.org/10.1386/jwcp.1.3.227_1)[*.’*](https://doi.org/10.1386/jwcp.1.3.227_1)”
 *Journal of Writing in Creative Practice* 1 (3): 227-236.
+
+Stevens, Daniel B. 2013. [“Symphonic Hearing: Listening as Active
+Participation.”](https://docs.google.com/file/d/0B3FeJtVLAolpWFBQbnhfWnNuWG8/edit)
+Paper presented at the annual meeting of Music Theory Midwest, Norman,
+Oklahoma, April 26–27. Accessed June 27, 2017.
+[*https://docs.google.com/file/d/0B3FeJtVLAolpWFBQbnhfWnNuWG8/edit*](https://docs.google.com/file/d/0B3FeJtVLAolpWFBQbnhfWnNuWG8/edit).
+
+———. 2015. “Inverting Analysis.” *Engaging Students: Essays
+in Music Pedagogy* 3.
+
+———. 2016a. “The Do/Ti Test Handouts.” Music Theory Pedagogy
+Online. Access June 27, 2017.
+[*https://music.appstate.edu/about/jmtp/doti-test-handouts*](https://music.appstate.edu/about/jmtp/doti-test-handouts).
 
 Straus, Joseph N. 2005. [*“Voice Leading in Set-Class Space.”
 *](http://www.jstor.org/stable/27639391)Journal of Music Theory 49/1:
