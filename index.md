@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Engaging Students: Essays in Music Pedagogy, Volume 4 – Engaging Students Through Jazz"
+title: "Engaging Students: Essays in Music Pedagogy, Volume 5"
 ---
 
-_Engaging Students: Essays in Music Pedagogy_ presents short essays on the subject of student-centered learning, and serves as an open-access, web-based resource for those teaching college-level classes in music. This is the fourth volume, *Engaging Students Through Jazz.* You can find the original collection and read more about the vision behind this project [here](http://www.flipcamp.org/engagingstudents/).
+_Engaging Students: Essays in Music Pedagogy_ presents short essays on the subject of student-centered learning, and serves as an open-access, web-based resource for those teaching college-level classes in music. This the fifth volume of *Engaging Students*. You can find the original collection and read more about the vision behind this project [here](http://www.flipcamp.org/engagingstudents/).
 
 We hope that you enjoy reading this volume as much as we have enjoyed putting it together.
 
@@ -15,46 +15,65 @@ Keith Waters
 
 # Essays
 
-## Rhythm, Meter, and Form
 
-[Stable Norms and Salient Deviations: Multilayered Listening in Jazz and Common-Practice Music]({{ site.baseurl }}/essays/pellegrin.html)  
-Rich Pellegrin
+## Philosophy
 
-[Multi-Part Group Rhythm Exercises]({{ site.baseurl }}/essays/stuart.html)  
-Rory Stuart
+[A Case Against Teaching Set Classes to Undergraduates]({{ site.baseurl }}/essays/buchler.html)  
+Michael Buchler
 
-[On Using Jazz to Strengthen the Teaching of Rhythm and Meter in the Music Theory Classroom]({{ site.baseurl }}/essays/thomas.html)  
-Margaret Thomas
+[Engaging Students in their Own Success: Incorporating Aspects of the First-Year Seminar into First-Year Music Theory and Aural Skills]({{ site.baseurl }}/essays/hoag.html)  
+Melissa Hoag
 
+[Metacognition: An Overlooked Skill in Music Theory Instruction]({{ site.baseurl }}/essays/ferenc.html)  
+Anna Ferenc
 
-## Canonic Jazz Works and Schemata
+[Open Educational Resources (OER) in the Music Theory Classroom: A Curricular Redesign Travelogue]({{ site.baseurl }}/essays/gullings.html)
+Kyle Gullilngs
 
-[Coalescing Learning around a Coltrane Classic]({{ site.baseurl }}/essays/johnson.html)  
-Shersten Johnson
-
-[Rhythm Changes, Improvisation, and Chromaticism: Who Could Ask for Anything More?]({{ site.baseurl }}/essays/michaelsen.html)  
-Garrett Michaelsen
+[The Undergraduate Student-Faculty Colloquy: Cultivating Disciplinary Authenticity through Formative Oral Examination]({{ site.baseurl }}/essays/strovas_stutes.html)
+Scott M. Strovas and Ann B. Stutes
 
 
-## Transcription and Its Analysis
+## Practice
 
-[Transcription-Application Pedagogy: Learning Theory through Performance]({{ site.baseurl }}/essays/britton.html)  
-Ben Britton
+[Drawing Students In: Using Doodling to Support Engaged Listening]({{ site.baseurl }}/essays/ofcarcik.html)  
+Judith Ofcarcik
 
-[Bringing Jazz Repertoire, Improvisation, and Active Thinking into the Study of Motives]({{ site.baseurl }}/essays/chenette.html)  
-Timothy Chenette
+[Electronic Music History through Guided Discovery: An Active Learning Approach to Engage the Millennial Student]({{ site.baseurl }}/essays/fick.html)
+Jason Fick
+
+[Engaging Everyone: Musical Analysis in the General Education Classroom]({{ site.baseurl }}/essays/lam.html)  
+George Lam
+
+[Ho Hey, Having Some Say in Contextual Listening]({{ site.baseurl }}/essays/jemain.html)
+Rebecca Jemain
+
+[Inverting Dictation]({{ site.baseurl }}/essays/stevens.html)
+Daniel B. Stevens
+
+[The Music of *Hamilton* and its Historical, Cultural, Social, and Political Contexts]({{ site.baseurl }}/essays/johnson.html)
+Timothy A. Johnson
+
+[New Frontiers in SmartMusicianship]({{ site.baseurl }}/essays/mariner_schubert.html)
+Justin Mariner and Peter Schubert
+
+[Reconnecting with History: Problem-Based Learning (PBL) in the Music History Classroom]({{ site.baseurl }}/essays/purciello.html)
+Maria Anne Purciello
 
 
-## Harmony and Harmonic Nomenclature
+## From Classroom to Community
 
-[Figured Bass as "Hollowed-Out" Lead-Sheet Chord Symbols]({{ site.baseurl }}/essays/park.html)  
-Joon Park
+[Engaging Community in a Twentieth-Century Analysis Class]({{ site.baseurl }}/essays/peebles.html)
+Crystal Peebles
 
-[Strange Changes]({{ site.baseurl }}/essays/stover.html)  
-Chris Stover
+[Melody Makers: Connecting Student Composers with the Community]({{ site.baseurl }}/essays/williams.html)
+Natalie Williams
 
-[Fin de Siècle Harmony – A Jazz Perspective]({{ site.baseurl }}/essays/terefenko.html)  
-Dariusz Terefenko
+[Outside the Classroom: Community-Engaged Learning Projects in Music Theory]({{ site.baseurl }}/essays/bourne.html)
+Janet Bourne
+
+[Towards a Curriculum in Public Music Theory]({{ site.baseurl }}/essays/jenkins.html)
+J. Daniel Jenkins
 
 
 # Back matter
@@ -64,6 +83,7 @@ Dariusz Terefenko
 
 # Editorial & Review Board
 
+[UPDATE]
 Danny Arthurs, University of Tulsa  
 Carla Colletti, Webster University  
 Philip Duker, University of Delaware, co-editor  
