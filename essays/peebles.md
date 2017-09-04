@@ -23,37 +23,52 @@ In this project, we partnered with a not-for-profit, continuing care community t
 
 The content of the final performance was student driven: they formed chamber ensembles, found appropriate music written since 1960, and determined the program order. My role in the preparation was minimal: I provided resources for [piece selection](https://drive.google.com/file/d/0B3yKDNyHqm1WcWY0ZWUzM0Fob2c/view?usp=sharing), class time for initial rehearsals and dress rehearsals, and feedback during the rehearsal process. This project would not have been successful without further support from my colleagues: musicology faculty taught students how to write program notes in the context of the music history sequence, our music librarian visited class to demonstrate search techniques for recent music, and performance faculty assisted students in making final piece choices and some coached students in their private lessons. As you can see from the final program, the content of the program was quite varied: the compositions ranged from diatonic to atonal, from traditional to graphic notation, and from well-known to lesser-known composers.
 
-| Composition | Composer | Instrumentation |
-| :-: | :-: | :-: |
-| Double Concerto (1969), Mvmts. 1 and 2 | Walter S. Hartley (1927–2016) | Saxophone |
-
-<!--  ---------------------------------------------------------------------------------------
-  Composition                           Composer                        Instrumentation
-  ------------------------------------- ------------------------------- -----------------
-  Double Concerto (1969)                Walter S. Hartley (1927-2016)   Saxophone
-                                                                        
-  Mvmts. 1 and 2                                                        Euphonium
-
-  *Sacred and Profane*, Op. 91 (1975)   Benjamin Britten (1913-1976)    SSATB
-                                                                        
-  5\. Yif ic of luve can                                                
-                                                                        
-  6\. Carol                                                             
-
-  Serenade (1996)                       Peter Dyson (1949)              Baritone
-                                                                        
-                                                                        Horn I, Horn II
-
-  Stripsody (1966)                      Cathy Berberin (1925-1983)      Soprano
-
-  Five Hebrew Love Songs (1996)         Eric Whitacre (1970)            Soprano
-                                                                        
-  1\. Temuna                                                            Violin
-                                                                        
-  2\. Kala kalla                                                        Piano
-                                                                        
-  5\. Rakut                                                             
-  --------------------------------------------------------------------------------------- -->
+<table>
+<thead>
+<tr class="header">
+<th>Composition</th>
+<th>Composer</th>
+<th>Instrumentation</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Double Concerto (1969)</p>
+<p>Mvmts. 1 and 2</p></td>
+<td>Walter S. Hartley (1927-2016)</td>
+<td><p>Saxophone</p>
+<p>Euphonium</p></td>
+</tr>
+<tr class="even">
+<td><p><em>Sacred and Profane</em>, Op. 91 (1975)</p>
+<p>5. Yif ic of luve can</p>
+<p>6. Carol</p></td>
+<td>Benjamin Britten (1913-1976)</td>
+<td>SSATB</td>
+</tr>
+<tr class="odd">
+<td>Serenade (1996)</td>
+<td>Peter Dyson (1949)</td>
+<td><p>Baritone</p>
+<p>Horn I, Horn II</p></td>
+</tr>
+<tr class="even">
+<td>Stripsody (1966)</td>
+<td>Cathy Berberin (1925-1983)</td>
+<td>Soprano</td>
+</tr>
+<tr class="odd">
+<td><p>Five Hebrew Love Songs (1996)</p>
+<p>1. Temuna</p>
+<p>2. Kala kalla</p>
+<p>5. Rakut</p></td>
+<td>Eric Whitacre (1970)</td>
+<td><p>Soprano</p>
+<p>Violin</p>
+<p>Piano</p></td>
+</tr>
+</tbody>
+</table>
 
 As the concert drew near, several students expressed concern that the program would not be well-received by our audience. In response we had a conversation about using the pre-performance talk and program notes to contextualize the composition and give the audience aural cues through which to engage the composition. We also discussed that approaching these pieces from both an analytical and performance perspective in the rehearsal process could create expressive performances. Some students recognized that their own dislike of modern art music had been softened through the experience of preparing for the concert, and started to “think like a performer” in the context of other analysis activities.
 
