@@ -43,24 +43,24 @@ As I reflect on this course and think about future iterations of the course, I n
 
 ### Positive Takeaways:
 
-> **Critical thinking** – In other graduate courses I teach, such as Schenkerian Analysis, Theories of Rhythm and Meter, and Tonality in the Twentieth Century, we spend so much time trying to understand a theory or methodology that students never reach the point of engaging in informed critique of that theory or methodology. This was not true of the material in the public music theory course, and it was very gratifying to see students employ their critical thinking skills in every aspect of the course, from content to style and presentation.
->
-> **Relevance** – Because the students chose their own repertoire and topics, the course was obviously relevant to their music-making.
->
-> **Student Engagement** – The level of student engagement with the course content was quite high. Most, if not all, of the students had read or viewed the assigned material before coming to class. Numerous times, I had to cut off discussion in order to end class on time.
->
-> **Written and oral work** – The students really had to hone their writing and public speaking skills in order to be successful in the course. Some students already wrote well when they began the class, but others showed considerable improvement with both written and spoken English. I think the course was especially beneficial in this regard for non-native English speakers.
->
-> **Application to undergraduate teaching** – Any of these assignments could easily be adapted to any level of undergraduate music theory, and one could likely teach an upper-division course in public music theory for undergraduate students.
+**Critical thinking** – In other graduate courses I teach, such as Schenkerian Analysis, Theories of Rhythm and Meter, and Tonality in the Twentieth Century, we spend so much time trying to understand a theory or methodology that students never reach the point of engaging in informed critique of that theory or methodology. This was not true of the material in the public music theory course, and it was very gratifying to see students employ their critical thinking skills in every aspect of the course, from content to style and presentation.
+
+**Relevance** – Because the students chose their own repertoire and topics, the course was obviously relevant to their music-making.
+
+**Student Engagement** – The level of student engagement with the course content was quite high. Most, if not all, of the students had read or viewed the assigned material before coming to class. Numerous times, I had to cut off discussion in order to end class on time.
+
+**Written and oral work** – The students really had to hone their writing and public speaking skills in order to be successful in the course. Some students already wrote well when they began the class, but others showed considerable improvement with both written and spoken English. I think the course was especially beneficial in this regard for non-native English speakers.
+
+**Application to undergraduate teaching** – Any of these assignments could easily be adapted to any level of undergraduate music theory, and one could likely teach an upper-division course in public music theory for undergraduate students.
 
 ### Lingering Challenges:
 
-> **Workload** – By the end of the semester, it was clear that I had been too ambitious with the workload for the course. The students were troopers about it, but I will adjust this in future iterations of the course. I will make some of the required reading optional, eliminate a couple of topics, and provide more time to complete podcasts and videocasts.
->
-> **Community Engagement** – In future iterations of the course, there could be somewhat less focus on media, making more time for a community engagement project. The essays in this volume by Bourne, Peebles, and Williams give excellent examples of the types of community engagement projects that could be undertaken.
->
-> **Expertise** – Unlike other graduate-level theory courses I teach, where I know all the readings, repertoire, and topics quite well, it was not possible for me to be intimately familiar with every topic or piece of music the students wrote or spoke about. This is not a problem so much as it was a challenge—not just to me, but to music theory in general, to engage with more diverse topics and repertoire.
->
-> **Public** – Perhaps the most profound topic we discussed over the course of the semester was “who is the public?” This lead to an interesting discussion about how traditional modes of public music theory are geared at an older, whiter, upper-middle- and upper-class, urban audience. Coming to terms with that issue has consequences far beyond the context of any course, much less one in music theory. But, it was exciting to have such a conversation—a conversation I have never had in any of my other classes. Who are we trying to reach out to and what are we trying to say to them? If a curriculum in public music theory can help our students put those questions in the forefront, perhaps everything else will work itself out.
+**Workload** – By the end of the semester, it was clear that I had been too ambitious with the workload for the course. The students were troopers about it, but I will adjust this in future iterations of the course. I will make some of the required reading optional, eliminate a couple of topics, and provide more time to complete podcasts and videocasts.
+
+**Community Engagement** – In future iterations of the course, there could be somewhat less focus on media, making more time for a community engagement project. The essays in this volume by Bourne, Peebles, and Williams give excellent examples of the types of community engagement projects that could be undertaken.
+
+**Expertise** – Unlike other graduate-level theory courses I teach, where I know all the readings, repertoire, and topics quite well, it was not possible for me to be intimately familiar with every topic or piece of music the students wrote or spoke about. This is not a problem so much as it was a challenge—not just to me, but to music theory in general, to engage with more diverse topics and repertoire.
+
+**Public** – Perhaps the most profound topic we discussed over the course of the semester was “who is the public?” This lead to an interesting discussion about how traditional modes of public music theory are geared at an older, whiter, upper-middle- and upper-class, urban audience. Coming to terms with that issue has consequences far beyond the context of any course, much less one in music theory. But, it was exciting to have such a conversation—a conversation I have never had in any of my other classes. Who are we trying to reach out to and what are we trying to say to them? If a curriculum in public music theory can help our students put those questions in the forefront, perhaps everything else will work itself out.
 
 This work is copyright ©2017 J. Daniel Jenkins and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/).
