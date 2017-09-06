@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Inverting Dictation"
-author: Daniel B. Stevens, INSTITUTION
+author: Daniel B. Stevens, The University of Delaware
 ---
 
 {{ page.title }}
