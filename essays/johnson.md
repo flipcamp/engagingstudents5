@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Music of *Hamilton* and its Historical, Cultural, Social, and Political Contexts
+title: "The Music of *Hamilton* and its Historical, Cultural, Social, and Political Contexts"
 author: Timothy A. Johnson, Ithaca College
 ---
 
