@@ -9,8 +9,8 @@ We hope that you enjoy reading this volume as much as we have enjoyed putting it
 
 # Front matter
 
-[Foreword]({{ site.baseurl }}/essays/waters.html)  
-Keith Waters
+[Reflecting Upon Five Years of *Engaging Students*]({{ site.baseurl }}/essays/hughes_duker.html)  
+Bryn Hughes and Philip Duker
 
 
 # Essays
