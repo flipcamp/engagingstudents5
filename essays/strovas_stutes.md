@@ -40,16 +40,6 @@ Colloquies assume a variety of formats beyond the initial and the culminating as
 
 Table 1. Colloquy Adaptations.
 
-<!-- | Semester.Unit | Content Focus | Format | Description |
-| :-: | :-: | :-: | :-: |
-| 	| 	|	|  |
-| 1.2           	| Minor mode Compound meter                                                                                  	|  10 minutes ; 1 student 2 instructors ; Prepared literature and at-sight analysis/ performance                                                                                    	| Students bring repertoire from their ensembles or applied studios prepared to discuss and perform. Repertoire must be in minor mode.  Instructors provide repertoire in compound meter for students to discuss and perform at-sight.                                                                                                                                                                                                                                       	|
-| 2.1           	| Species counterpoint Voice-leading Consonance Dissonance/NCTs Harmonic implications Cadence identification 	|  10 minutes ; 1 student 2 instructors ; At-sight analysis/performance                                                                                                             	| Students discuss contrapuntal relationships between voices and identify types of NCTs, implied harmonies, and cadence types.  Students also sing, count, and conduct individual voices at-sight.                                                                                                                                                                                                                                                                           	|
-| 2.3           	| Small forms Diatonic harmony Secondary function                                                            	| 20 minutes ; 1 student  2 instructors ; Prepared literature                                                                                                                       	| Two students receive the same literature selection and determine essential content collaboratively, practice the conversation, and share critiques, but complete the colloquy independently.                                                                                                                                                                                                                                                                               	|
-| 3.2           	| Multi-movement works Sonata-allegro form Compound ternary Sectional variations Rondo Sonata rondo          	| 20 minutes ; 3-4 students 2 instructors ; Prepared literature                                                                                                                     	| Student are placed into small groups and assigned a complete four-movement Mozart symphony. Students must prepare a joint, comprehensive discussion of the sonata-allegro first movement to open the colloquy. Instructors ask students individually to discuss the form and formal sections of the remaining movements.                                                                                                                                                   	|
-| 3.3           	| Chromaticism                                                                                               	| 10 minutes ; 1 student 2 instructors ; Prepared literature                                                                                                                        	| All students receive the same literature in advance: a Bach fugue, a first movement of a Mozart piano sonata, and a Chopin nocturne. Students must prepare a discussion of the chromatic content of each, focusing specifically on the development of chromatic resources in the Common-Practice period.  Students are encouraged to determine essential content collaboratively, practice the conversation, and share critiques, but complete the colloquy independently. 	|
-| 4.2           	| Twentieth-Century/ Contemporary Music                                                                      	| 30 minutes ; 3-4 students 2 instructors Invited guests ; Prepared literature 30 minutes ; 3-4 students 2 instructors Invited guests ; Prepared literature 	| Student groups work with instructors to select one twentieth-century or contemporary work on which to present a public colloquy. Because of the public format, students are expected to address conceptual musical principals using whatever verbal and nonverbal means the group believes will facilitate understanding among lay music aficionados.                                        -->                                                                               	|
-
 <table>
 <thead>
 <tr class="header">
@@ -146,74 +136,6 @@ Table 1. Colloquy Adaptations.
 </tr>
 </tbody>
 </table>
- 
-<!--  
-  **2.1**             Species counterpoint                    10 minutes                                               Students discuss contrapuntal relationships between voices and identify types of NCTs, implied harmonies, and cadence types.
-                                                                                                                       
-                      Voice-leading                           \_\_\_\_\_\_\_\_\_\_\_\_\_                               Students also sing, count, and conduct individual voices at-sight.
-                                                                                                                       
-                      Consonance                              1 student                                                
-                                                                                                                       
-                      Dissonance/NCTs                         2 instructors                                            
-                                                                                                                       
-                      Harmonic implications                   \_\_\_\_\_\_\_\_\_\_\_\_\_                               
-                                                                                                                       
-                      Cadence identification                  At-sight analysis/                                       
-                                                                                                                       
-                                                              performance                                              
-
-  **2.3**             Small forms                             20 minutes                                               Two students receive the same literature selection and determine essential content collaboratively, practice the conversation, and share critiques, but complete the colloquy independently.
-                                                                                                                       
-                      Diatonic harmony                        \_\_\_\_\_\_\_\_\_\_\_\_\_                               
-                                                                                                                       
-                      Secondary function                      1 student                                                
-                                                                                                                       
-                                                              2 instructors                                            
-                                                                                                                       
-                                                              \_\_\_\_\_\_\_\_\_\_\_\_\_                               
-                                                                                                                       
-                                                              Prepared literature                                      
-
-  **3.2**             Multi-movement works                    20 minutes                                               Student are placed into small groups and assigned a complete four-movement Mozart symphony. Students must prepare a joint, comprehensive discussion of the sonata-allegro first movement to open the colloquy. Instructors ask students individually to discuss the form and formal sections of the remaining movements.
-                                                                                                                       
-                      Sonata-allegro form                     \_\_\_\_\_\_\_\_\_\_\_\_\_                               
-                                                                                                                       
-                      Compound ternary                        3-4 students                                             
-                                                                                                                       
-                      Sectional variations                    2 instructors                                            
-                                                                                                                       
-                      Rondo                                   \_\_\_\_\_\_\_\_\_\_\_\_\_                               
-                                                                                                                       
-                      Sonata rondo                            Prepared literature                                      
-
-  **3.3**             Chromaticism                            10 minutes                                               All students receive the same literature in advance: a Bach fugue, a first movement of a Mozart piano sonata, and a Chopin nocturne. Students must prepare a discussion of the chromatic content of each, focusing specifically on the development of chromatic resources in the Common-Practice period.
-                                                                                                                       
-                                                              \_\_\_\_\_\_\_\_\_\_\_\_\_                               Students are encouraged to determine essential content collaboratively, practice the conversation, and share critiques, but complete the colloquy independently.
-                                                                                                                       
-                                                              1 student                                                
-                                                                                                                       
-                                                              2 instructors                                            
-                                                                                                                       
-                                                              \_\_\_\_\_\_\_\_\_\_\_\_\_                               
-                                                                                                                       
-                                                              Prepared literature                                      
-
-  **4.2**             Twentieth-Century/ Contemporary Music   30 minutes                                               Student groups work with instructors to select one twentieth-century or contemporary work on which to present a public colloquy. Because of the public format, students are expected to address conceptual musical principals using whatever verbal and nonverbal means the group believes will facilitate understanding among lay music aficionados.
-                                                                                                                       
-                                                              \_\_\_\_\_\_\_\_\_\_\_\_\_                               
-                                                                                                                       
-                                                              3-4 students                                             
-                                                                                                                       
-                                                              2 instructors                                            
-                                                                                                                       
-                                                              Invited guests                                           
-                                                                                                                       
-                                                              \_\_\_\_\_\_\_\_\_\_\_\_\_                               
-                                                                                                                       
-                                                              Prepared literature                                      
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
--->
-
 
 Students prepare for their colloquies in various ways. Most significantly, the day-to-day instructor-led and small-group discussion and performance of musical scores in class provides the foundation for what is expected at the point of assessment. Closer to each colloquy, students prepare through individual written work and peer collaboration. Students complete written Concept Pages in which they identify and notate examples of essential musical concepts from the literature, compose original examples applying said concepts, and write original one-paragraph discussions about each. These Concept Pages go through an editing process that involves both faculty and peer review. Through the process of drafting and editing Concept Pages, students gain a deeper awareness of musical concepts and cultivate the ability to discuss them with clarity and precision. Finally, students prepare collaboratively in a number of ways: they practice with their peers through mock colloquies in and outside class; sometimes, as in Colloquies 2.3, 3.2, and 3.3 detailed in Table 1, students share colloquy repertoire and are encouraged or required to work together to prepare; and occasionally, student partners present on their assigned repertoire to the class to practice the discussion, receive feedback, and build confidence in the process.
 
