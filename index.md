@@ -27,10 +27,10 @@ Melissa Hoag
 [Metacognition: An Overlooked Skill in Music Theory Instruction]({{ site.baseurl }}/essays/ferenc.html)  
 Anna Ferenc
 
-[Open Educational Resources (OER) in the Music Theory Classroom: A Curricular Redesign Travelogue]({{ site.baseurl }}/essays/gullings.html)
+[Open Educational Resources (OER) in the Music Theory Classroom: A Curricular Redesign Travelogue]({{ site.baseurl }}/essays/gullings.html)<br />
 Kyle Gullilngs
 
-[The Undergraduate Student-Faculty Colloquy: Cultivating Disciplinary Authenticity through Formative Oral Examination]({{ site.baseurl }}/essays/strovas_stutes.html)
+[The Undergraduate Student-Faculty Colloquy: Cultivating Disciplinary Authenticity through Formative Oral Examination]({{ site.baseurl }}/essays/strovas_stutes.html)<br />
 Scott M. Strovas and Ann B. Stutes
 
 
@@ -45,19 +45,19 @@ Jason Fick
 [Engaging Everyone: Musical Analysis in the General Education Classroom]({{ site.baseurl }}/essays/lam.html)  
 George Lam
 
-[Ho Hey, Having Some Say in Contextual Listening]({{ site.baseurl }}/essays/jemain.html)
+[Ho Hey, Having Some Say in Contextual Listening]({{ site.baseurl }}/essays/jemain.html)<br />
 Rebecca Jemain
 
-[Inverting Dictation]({{ site.baseurl }}/essays/stevens.html)
+[Inverting Dictation]({{ site.baseurl }}/essays/stevens.html)<br />
 Daniel B. Stevens
 
-[The Music of *Hamilton* and its Historical, Cultural, Social, and Political Contexts]({{ site.baseurl }}/essays/johnson.html)
+[The Music of *Hamilton* and its Historical, Cultural, Social, and Political Contexts]({{ site.baseurl }}/essays/johnson.html)<br />
 Timothy A. Johnson
 
-[New Frontiers in SmartMusicianship]({{ site.baseurl }}/essays/mariner_schubert.html)
+[New Frontiers in SmartMusicianship]({{ site.baseurl }}/essays/mariner_schubert.html)<br />
 Justin Mariner and Peter Schubert
 
-[Reconnecting with History: Problem-Based Learning (PBL) in the Music History Classroom]({{ site.baseurl }}/essays/purciello.html)
+[Reconnecting with History: Problem-Based Learning (PBL) in the Music History Classroom]({{ site.baseurl }}/essays/purciello.html)<br />
 Maria Anne Purciello
 
 
@@ -66,13 +66,13 @@ Maria Anne Purciello
 [Engaging Community in a Twentieth-Century Analysis Class]({{ site.baseurl }}/essays/peebles.html)
 Crystal Peebles
 
-[Melody Makers: Connecting Student Composers with the Community]({{ site.baseurl }}/essays/williams.html)
+[Melody Makers: Connecting Student Composers with the Community]({{ site.baseurl }}/essays/williams.html)<br />
 Natalie Williams
 
-[Outside the Classroom: Community-Engaged Learning Projects in Music Theory]({{ site.baseurl }}/essays/bourne.html)
+[Outside the Classroom: Community-Engaged Learning Projects in Music Theory]({{ site.baseurl }}/essays/bourne.html)<br />
 Janet Bourne
 
-[Towards a Curriculum in Public Music Theory]({{ site.baseurl }}/essays/jenkins.html)
+[Towards a Curriculum in Public Music Theory]({{ site.baseurl }}/essays/jenkins.html)<br />
 J. Daniel Jenkins
 
 
