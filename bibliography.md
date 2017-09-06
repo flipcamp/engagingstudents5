@@ -64,18 +64,6 @@ in Music Pedagogy*. Accessed July 23, 2017.
 [http://flipcamp.org/engagingstudents2/essays/dukerShafferStevens.html](http://flipcamp.org/engagingstudents2/essays/dukerShafferStevens.html).
 
 
-[Duker](http://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.duker_gawboy_hughes_shaffer.html#AUTHORNOTE1),
-Philip, [Anna
-Gawboy](http://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.duker_gawboy_hughes_shaffer.html#AUTHORNOTE2),
-[Bryn
-Hughes](http://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.duker_gawboy_hughes_shaffer.html#AUTHORNOTE3),
-and [Kris P.
-Shaffer](http://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.duker_gawboy_hughes_shaffer.html#AUTHORNOTE4).
-2015. “Hacking the Music Theory Classroom: Standards-Based Grading,
-Just-in-Time Teaching, and the Inverted Class.” *Music Theory Online*
-21, no. 1. Accessed July 20, 2017.
-[http://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.duker\_gawboy\_hughes\_shaffer.html](http://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.duker_gawboy_hughes_shaffer.html).
-
 Duker, Philip, and Daniel Stevens. 2017. “Scaling to Real Music:
 Rebuilding Aural Skills Pedagogy from the Ground Up.” Poster presented
 at Pedagogy Into Practice Conference. Lee University, Cleveland, TN.
@@ -186,7 +174,7 @@ Mead, Rebecca. 2015. “[All About the
 Hamiltons](http://www.newyorker.com/magazine/2015/02/09/hamiltons).”
 *The New Yorker.* February 9. Accessed May 16, 2017.
 
-Michaelsen, Garrett. (2014) “Improvising to Learn/Learning to Improvise:
+Michaelsen, Garrett. 2014. “Improvising to Learn/Learning to Improvise:
 Designing Scaffolded Group Improvisations for the Music Theory
 Classroom.” *Engaging Students: Essays in Music Pedagogy* 2. Accessed
 March 29, 2015.[
@@ -210,13 +198,13 @@ with Pitch Classes: A Theory of Compositional
 Design](https://openlibrary.org/books/OL2386927M/Composition_with_pitch-classes).
 New Haven: Yale University Press.
 
-Morris, Robert D. 1991. [Class Notes for Atonal Music
+———. 1991. [Class Notes for Atonal Music
 Theory](https://openlibrary.org/works/OL4969787W/Class_notes_for_atonal_music_theory).
 Hanover, NH: Frog Peak Music.
 
-Muraven, Mark and Roy F. Baumeister. “Self-regulation and depletion of
+Muraven, Mark and Roy F. Baumeister. 2000. “Self-regulation and depletion of
 limited resources: Does self-control resemble a muscle?” *Psychological
-Bulletin* 126 (2000): 247–59.
+Bulletin* 126: 247–59.
 
 Murphy, Scott. 2007. [“Considering Network Recursion and Bartók’s
 ‘Fourths.’”](http://www.mtosmt.org/issues/mto.07.13.3/mto.07.13.3.murphy.html)
@@ -236,12 +224,13 @@ Orejuela, Fernando. 2015. [*Rap and Hip Hop
 Culture*](https://global.oup.com/ushe/product/rap-and-hip-hop-culture-9780199987733?cc=us&lang=en&).
 New York: Oxford University Press.
 
-Ottman, Robert, and Nancy Rogers. 2013 *Music for Sight Singing.* 9th
+Ottman, Robert, and Nancy Rogers. 2013. *Music for Sight Singing.* 9th
 ed. Upper Saddle River: Pearson Prentice Hall.
+
 Pillay, Srini. *Tinker, Dabble, Doodle, Try: Unlock the Power of the
 Unfocused Mind*. Ballantine Books. NY: 2017.
 
-Pillay, Srini. “The ‘thinking’ benefits of doodling.”
+———. “The ‘thinking’ benefits of doodling.”
 *Harvard Health Blog*. Accessed May 30, 2017. Posted December 15, 2016.
 http://www.health.harvard.edu/blog/the-thinking-benefits-of-doodling-2016121510844
 
