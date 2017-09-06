@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Metacognition: An Overlooked Skill in Music Theory Instruction"
-author: Anna Ferenc, INSTITUTION
+author: Anna Ferenc, Wilfrid Laurier University
 ---
 
 {{ page.title }}
