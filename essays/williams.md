@@ -17,7 +17,7 @@ Modeled on the “[Kids Compose](http://music.indiana.edu/departments/academic/c
 
 ## Project
 
-“[*Melody Makers*][1]”
+“[Melody Makers](https://music.anu.edu.au/events/melody-makers)”
 
 The ANU School of Music is home to the Music Engagement Program (MEP), a community outreach unit specializing in pedagogical relationships with schools in the local community. The dedicated MEP faculty and staff worked with university faculty to identify five Canberra schools to participate in the project. The MEP staff scheduled multiple visits with each of the five schools and worked with music teachers and their students to create a simple melody of 8-16 measures. Some schools provided a melody written by a single student, but the majority of schools worked in creative groups, producing “committee melodies” or “group melodies.”
 
@@ -90,5 +90,3 @@ The positive impact of this creative project has the potential to transfer to ot
 The secret for success lies in securing the goodwill and commitment of musical practitioners at each pedagogical level: school, university, and community. While this may initially seem an insurmountable task, when the musical and social benefits of such a project are so strong, gathering this collaborative momentum becomes a relatively easy and even delightful task. We plan to run Melody Makers again in the 2017-18 year and hope that it inspires other communities to engage in similarly rewarding endeavors.
 
 This work is copyright ⓒ2017 Natalie Williams and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
-
-<!-- Include image from original google doc??? -->
