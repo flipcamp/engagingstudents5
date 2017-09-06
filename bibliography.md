@@ -7,8 +7,6 @@ title: Bibliography
 {{ page.title }}
 ================
 
-**Works Cited**
-
 Abbott, Michaela. 2017. “[Hamilton’s Revolution Enters the Classroom](http://www.icchronicle.org/2017/03/17/hamiltons-revolution-enters-classroom/).” *The Ithaca College Chronicle* (March 17). 
 
 Adams, Kyle. 2009. “[On the Metrical Techniques of Flow in Rap Music](http://www.mtosmt.org/issues/mto.09.15.5/mto.09.15.5.adams.html).” *Music Theory Online* 15 (2).
@@ -17,7 +15,13 @@ Adams, Kyle. 2009. “[On the Metrical Techniques of Flow in Rap Music](http://w
 
 Ambrose, Susan A., Michael W. Bridges, Michele DiPietro, Marsha C. Lovett, and Marie K. Norman. 2010. [*How Learning Works: Seven Research-Based Principles for Smart Teaching*](https://openlibrary.org/works/OL15535951W/How_learning_works). San Francisco: Jossey-Bass.
 
-Andrade, Jackie. 2009. “What does doodling do?” *Applied Cognitive Psychology* 24: 100–106.
+American Musicological Society, Pedagogy Study Group. 2016. "Round Table Discussion: [Experimenting with the Canon: New Approaches to the Music History Survey](https://www.youtube.com/watch?v=ksfW579LH6E)." Vancouver, Canada: Annual Meeting of the American Musicological Society. Accessed July 17, 2017.
+
+———. 2014. Round Table Discussion: "[The End of the Undergraduate Music History Sequence*](https://www.youtube.com/watch?v=cf7BTLGDf0A)?" Milwaukee, WI: Annual Meeting of the American Musicological Society. Accessed July 17, 2017.
+
+Andrade, Jackie. 2009. “[What does doodling do](http://onlinelibrary.wiley.com/doi/10.1002/acp.1561/full)?” *Applied Cognitive Psychology* 24: 100–106.
+
+Armstrong, Elizabeth A. 1997. “A Hybrid Model of PBL.” In [*The Challenge of Problem Based Learning*](https://openlibrary.org/books/OL7967007M/The_Challenge_of_Problem_Based_Learning), edited by David Boud and Grahame Feletti, 137–150. Second Edition. London, England: Kogan Page.
 
 Armstrong, Patricia. “[Bloom’s Taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/)” *Vanderbilt University Center for Teaching*. Accessed July 20, 2017.
 
@@ -26,6 +30,10 @@ Asklund, Ulf, and Lars Gotfred Bendix. 2003. “[Oral vs. Written Evaluation of 
 Association for Experiential Learning. “[What is Experiential Education](http://www.aee.org/what-is-ee)?” Accessed June 29, 2017.
 
 Atjonen, P&#228;ivi. 2014. “[Teachers’ Views of Their Assessment Practice](http://dx.doi.org/10.1080/09585176.2013.874952).” *The Assessment Journal* 25 (2): 238-259.
+
+Bailyn, Bernard. 1982. “[The Challenge of Modern Historiography](https://academic.oup.com/ahr/article-abstract/87/1/1/118760/The-Challenge-of-Modern-Historiography?redirectedFrom=fulltext),” *The American Historical Review* 87 (1): 1-24.
+
+Barkley, Elizabeth F., K. Patricia Cross, and Claire Howell Major. 2005. [*Collaborative Learning Techniques: A Practical Guide to Promoting Learning in Groups*](https://openlibrary.org/works/OL17728748W/Collaborative_learning_techniques). San Francisco, CA: Jossey Bass Publishers.
 
 Battles, Matthew. 2004. “[In Praise of Doodling](http://www.jstor.org/stable/41221340?seq=1#page_scan_tab_contents).” *The American Scholar* 73 (4): 105–108.
 
@@ -46,6 +54,66 @@ Chion, Michel. 1994. [*Audio-Vision: Sound On Screen*](https://openlibrary.org/w
 Clouder, Lynn, and Jane Toms. 2008. “[Impact of Oral Assessment on Physiotherapy Students’ Learning in Practice](http://dx.doi.org/10.1080/09593980701378157).” *Physiotherapy Theory and Practice* 24 (1): 29-42.
 
 <!--Ready to go up to this point.-->
+ALPHABETIZE
+Baumer, Matthew. 2015. “A Snapshot of Music History Teaching to Undergraduate Music Majors, 2011-2012: Curricula, Methods, Assessment, and Objectives,” *The Journal of Music History Pedagogy* 5/2: 23-47. ISSN 2155-109X. Available at: [http://www.ams-net.org/ojs/index.php/jmhp/article/view/165](http://www.ams-net.org/ojs/index.php/jmhp/article/view/165). Date accessed: 13 July 2017.
+
+Boud, David and Grahame Felletti, eds. 1997. *The Challenge of Problem Based Learning*. 2^nd^ Edition. London, England: Kogan Page.
+
+Boud, David. 1985. “PBL in Perspective” in *Problem-Based Learning in Education for the Professions*. Higher Education Research and Development Society of Australasia.
+
+Briscoe, James R., ed. 2010. *Vitalizing Music History Teaching*. Hillsdale, NY: Pendragon Press.
+
+Bruffee, Kenneth A. 1999. *Collaborative Learning: Higher Education, Interdependence, and the *Authority of Knowledge.* Baltimore, MD: Johns Hopkins University Press.
+
+Burkholder, J. Peter. 2015. “The Value of a Music History Survey,” *The Journal of Music History Pedagogy,* 5/2: 57-63. ISSN 2155-109X. Available at: [http://www.ams-net.org/ojs/index.php/jmhp/article/view/175](http://www.ams-net.org/ojs/index.php/jmhp/article/view/175). Date accessed 13 July 2017.
+
+College Music Society Task Force on the Undergraduate Music Major. 2014. “[Transforming Music Study from its Foundations: A Manifesto for Progressive Change in the Undergraduate Preparation of Music Majors.](http://www.mtosmt.org/issues/mto.16.22.1/manifesto.pdf)” Date accessed: 27 June 2017.
+
+Crain, Timothy Mark. 2014. “Beyond Coverage: Teaching for Understanding in the Music History Classroom,” *Journal of Music History Pedagogy* 4/2: 301-318. ISSN 2155-109X. Available at: [http://www.ams-net.org/ojs/index.php/jmhp/article/view/110](http://www.ams-net.org/ojs/index.php/jmhp/article/view/110). Date accessed: 13 July 2017
+
+Dahlhaus, Carl. 1983. *Foundations of Music History*. Translated by J.B. Robinson. Cambridge and New York: Cambridge University Press.
+
+Davis, James A., ed. 2012. *The Music History Classroom.* Burlington, VT: Ashgate.
+
+Delisle, Robert. 1997. *How to Use Problem-Based Learning in the Classroom*. Alexandria VA: Association for Supervision and Curriculum Development.
+
+Duch, Barbara J., Susan E. Groh, and Deborah E. Allen, eds. 2001. *The Power of Problem-Based Learning: A Practical “How To” for Teaching Undergraduate Courses
+in any Discipline.* Sterling, VA: Stylus.
+
+Edgarton, R. 2001. [Education White Paper](http://www.faculty.umb.edu/john_saltmarsh/resources/Edgerton%20Higher%20Education%20White%20Paper.rtf). Date accessed: 27 June 2017.
+
+Grymes, James A. and John Allemeir. “Making Students Make Music: Integrating Composition and Improvisation into the Early Music Classroom,” *Journal of Music
+History Pedagogy* 4/2: 231-254. ISSN 2155-109X. Available at: [http://www.ams-net.org/ojs/index.php/jmhp/article/view/122](http://www.ams-net.org/ojs/index.php/jmhp/article/view/122). Date accessed: 13 July 2017.
+
+Haefeli, Sara. 2016. “From Answers to Questions: Fostering Student Creativity and Engagement in Research and Writing, *The Journal of Music History
+Pedagogy*, 7/1:1-17. ISSN 2155-109X. Available at: [http://www.ams-net.org/ojs/index.php/jmhp/article/view/192](http://www.ams-net.org/ojs/index.php/jmhp/article/view/192). Date accessed: 13 July 2017.
+
+Lowe, Melanie. 2015. “Rethinking the Undergraduate Music History Sequence in the Information Age,” *The Journal of Music History Pedagogy,* 5/2: 65-71. ISSN 2155-109X. Available at: [http://www.ams-net.org/ojs/index.php/jmhp/article/view/177](http://www.ams-net.org/ojs/index.php/jmhp/article/view/177). Date accessed: 13 July 2017.
+
+Millis, Barbara J. 2010. *Cooperative Learning in Higher Education*. Sterling, VA: Stylus.
+
+Natvig, Mary, ed. 2002. *Teaching Music History.* Burlington, VT: Ashgate.
+
+Perry, William G. 1999. *Forms of Ethical and Intellectual Development in the College Years, A Scheme.* San Francisco, CA: Jossey-Bass Publishers.
+
+Robin, William. 2017. “What Controversial Changes at Harvard Mean for Music in the University,” *The Log Journal*. Available at: [http://thelogjournal.com/2017/04/25/what-controversial-changes-at-harvard-means-for-music-in-the-university/](http://thelogjournal.com/2017/04/25/what-controversial-changes-at-harvard-means-for-music-in-the-university/). Date accessed: 13 July 2017.
+
+Roust, Colin. 2016. “Toward a Skills-Based Curriculum: Recent Trends in Music History Pedagogy,” *Musica Docta,* 4:105-108. ISSN 2039-9715. Available at: [http://musicadocta.unibo.it/article/view/6575/6372](http://musicadocta.unibo.it/article/%20%09view/6575/6372). Date accessed: 17 July 2017.
+
+Savery, John R. 2006. “[Overview of Problem-Based Learning: Definitions and Distinctions](http://docs.lib.purdue.edu/ijpbl/vol1/iss1/3/).” *The Interdisciplinary Journal of Problem-Based Learning* 1/1. Date accessed: 27 June 2017.
+
+Seaton, Douglass. 2012. “Core Music Curriculum Components II: History and Repertory: A Survey and Some Questions,” in *Proceedings: The 87th Annual Meeting, 2011.* Reston, VA: The National Association of Schools of Music. Pages 23-26.
+
+\_\_\_\_\_\_\_. 2015. “Reconsidering Undergraduate Music History: Some Introductory Thoughts,” *The Journal of Music History Pedagogy,* 5/2: 53-56. ISSN 2155-109X. Available at: [http://www.ams-net.org/ojs/index.php/jmhp/article/view/176](http://www.ams-net.org/ojs/index.php/jmhp/article/view/176). Date accessed: 13 July 2017.
+
+Stevens, Daniel, Philip Duker, and Kris Shaffer. 2014. “[Problem-Based Learning in Music, A Guide for Instructors.](http://flipcamp.org/engagingstudents2/essays/dukerShafferStevens.html)” *Engaging Students: Essays in Music Pedagogy*, 2. Date accessed: 27 June 2017.
+
+Treitler, Leo. 1984. “What Kind of Story is History? *19^th^-century Music* VII/3 (1984): 363-373.
+
+Vanderbilt University Center for Teaching. “[Bloom’s Taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/).” Date accessed: 27 June 2017.
+
+Wiggins, Grant and Jay McTighe. 1998. Rev. 2012. *The Understanding by Design Guide to *Refining Units and Reviewing Results*. 2^nd^ Edition. Alexandria, VA: ASCD.
+ALPHABETIZE
 
 Drucker, Mike, and Travon Free. 2016-present. [*The Rooms Where It’s
 Happening: A Hamilton Fan
