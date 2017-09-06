@@ -28,11 +28,9 @@ Melissa Hoag
 Anna Ferenc
 
 [Open Educational Resources (OER) in the Music Theory Classroom: A Curricular Redesign Travelogue]({{ site.baseurl }}/essays/gullings.html)
-
 Kyle Gullilngs
 
 [The Undergraduate Student-Faculty Colloquy: Cultivating Disciplinary Authenticity through Formative Oral Examination]({{ site.baseurl }}/essays/strovas_stutes.html)
-
 Scott M. Strovas and Ann B. Stutes
 
 
@@ -48,15 +46,12 @@ Jason Fick
 George Lam
 
 [Ho Hey, Having Some Say in Contextual Listening]({{ site.baseurl }}/essays/jemain.html)
-
 Rebecca Jemain
 
 [Inverting Dictation]({{ site.baseurl }}/essays/stevens.html)
-
 Daniel B. Stevens
 
 [The Music of *Hamilton* and its Historical, Cultural, Social, and Political Contexts]({{ site.baseurl }}/essays/johnson.html)
-
 Timothy A. Johnson
 
 [New Frontiers in SmartMusicianship]({{ site.baseurl }}/essays/mariner_schubert.html)
