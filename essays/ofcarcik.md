@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Drawing Students In: Using Doodling to Support Engaged Listening"
-author: Judith Ofcarcik, INSTITUION
+author: Judith Ofcarcik, Fort Hays State University
 ---
 
 {{ page.title }}
