@@ -94,25 +94,4 @@ What started out as an opportunity to present our work to a convenient and recep
 
 While the rich audience discussion in this first iteration of this project was unintended, there are opportunities to build off this initial success. For instance, it may be possible to facilitate a more sustained relationship between the students and residents with collaborative composition projects or informal listening sessions. By sharing this positive experience, I hope to encourage other educators to seek out experiences that allow students to engage with the course material with the wider community and to share best practices.
 
-**Works Cited**
-
-Bringle, Robert G. and Julie A. Hatcher. 1995. “A Service-Learning
-Curriculum for Faculty.” *Michigan Journal of Community Service
-Learning* 2/1: 112-122.
-
-Burton, Suzanne and Alison Reynolds. 2009. “Transforming Music Teacher
-Education through Service Learning.” *Journal of Music Teacher
-Education* 18/2: 18-33.
-
-Eyler, Janet and Dwight E. Giles, Jr. 1999. *Where’s the Learning in
-Service-Learning?* San Francisco: Jossey-Bass.
-
-Hindman, Dorothy. 2009. “Meeting Community and Campus Needs through
-Service Learning and Beginning Music Theory.” *College Music Symposium*
-49: 41-53.
-
-Zlotkowski, Edward and Donna Duffy. 2010. “Two Decades of
-Community-Based Learning.” *New Directions for Teaching and Learning*
-2010/123: 33-43.
-
 This work is copyright ⓒ2017 Crystal Peebles and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
