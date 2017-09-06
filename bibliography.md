@@ -52,7 +52,7 @@ Happening: A Hamilton Fan
 Podcast*](http://www.earwolf.com/show/the-room-where-its-happening/)*.*
 Earwolf.
 
-Duker, Philip, Anna Gawboy, Bryn Hughes, and Kris P. Shaffer, “[Hacking
+Duker, Philip, Anna Gawboy, Bryn Hughes, and Kris P. Shaffer. 2015. “[Hacking
 the Music Theory Classroom: Standards-Based Grading, Just-in-Time
 Teaching, and the Inverted
 Class.](http://www.mtosmt.org/issues/mto.15.21.1/mto.15.21.1.duker_gawboy_hughes_shaffer.html)”
