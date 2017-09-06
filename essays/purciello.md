@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reconnecting with History: Problem-Based Learning (PBL) in the Music History Classroom"
-author: Maria Anne Purciello, INSTITUTION
+author: Maria Anne Purciello, The University of Delaware
 ---
 
 {{ page.title }}
