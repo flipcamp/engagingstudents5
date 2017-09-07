@@ -83,28 +83,28 @@ J. Daniel Jenkins
 
 # Editorial & Review Board
 
-Danny Arthurs, University of Tulsa 
-Sean Atkinson, Texas Christian University
-Sarah Bakker, Utah State University
-Tim Chenette, Utah State University 
-Carla Colletti, Webster University 
-Trevor de Clercq, Middle Tennessee State University 
-Philip Duker, University of Delaware, co-editor  
-Dave Easley, Oklahoma City University  
-Anna Gawboy, Ohio State University  
-Bryn Hughes, University of Lethbridge, co-editor  
-Enoch Jacobus, Shorter University  
-Megan Lavengood, George Mason University
-Jeff Lovell, Lebanon Valley College
-Greg McCandless, Appalachian State University
-Michael McClimon, Pobox
-Garrett Michaelsen, University of Massachusetts–Lowell, special issue co-editor  
-Nancy Murphy, University of Houston  
-Meghan Naxer, Kent State University, production editor
-Cora S. Palfy, Elon University  
-Colin Roust, University of Kansas 
-Rene Rusch, University of Michigan 
-Jennifer Shaffer, University of Delaware
-Dan Shanahan, Louisiana State University, production editor
-Abigail Shupe, Colorado State University
-Chris Stover, Arizona State University
+Danny Arthurs, University of Tulsa<br /> 
+Sean Atkinson, Texas Christian University<br />
+Sarah Bakker, Utah State University<br />
+Tim Chenette, Utah State University<br /> 
+Carla Colletti, Webster University<br /> 
+Trevor de Clercq, Middle Tennessee State University<br /> 
+Philip Duker, University of Delaware, co-editor<br />  
+Dave Easley, Oklahoma City University<br />  
+Anna Gawboy, Ohio State University<br />  
+Bryn Hughes, University of Lethbridge, co-editor<br />  
+Enoch Jacobus, Shorter University<br />  
+Megan Lavengood, George Mason University<br />
+Jeff Lovell, Lebanon Valley College<br />
+Greg McCandless, Appalachian State University<br />
+Michael McClimon, Furman University<br />
+Garrett Michaelsen, University of Massachusetts–Lowell, special issue co-editor<br />  
+Nancy Murphy, University of Houston<br />  
+Meghan Naxer, Kent State University, production editor<br />
+Cora S. Palfy, Elon University<br />  
+Colin Roust, University of Kansas<br /> 
+Rene Rusch, University of Michigan<br /> 
+Jennifer Shaffer, University of Delaware<br />
+Dan Shanahan, Louisiana State University, production editor<br />
+Abigail Shupe, Colorado State University<br />
+Chris Stover, Arizona State University<br />
