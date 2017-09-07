@@ -144,7 +144,7 @@ Michaelsen, Garrett. 2014. [“Improvising to Learn/Learning to Improvise: Desig
 
 Millis, Barbara J. 2010. [*Cooperative Learning in Higher Education.*](https://openlibrary.org/works/OL15441103W/Cooperative_learning_in_higher_education) Sterling, VA: Stylus.
 
-Miranda, Lin-Manuel. 2015a. [Twitter post, @Lin\_Manuel](#MrowbackMonday In 2008 I bought Chernow's Hamilton bio to read on vacation. @HamiltonMusical rehearsal starts today.). Jun 15. Accessed May 16, 2017.
+Miranda, Lin-Manuel. 2015a. Twitter post, @Lin\_Manuel(#MrowbackMonday In 2008 I bought Chernow's Hamilton bio to read on vacation. @HamiltonMusical rehearsal starts today.). Jun 15. Accessed May 16, 2017.
 
 ———. 2015b. [Hamilton (Original Broadway Cast Recording)](https://genius.com/albums/Lin-manuel-miranda/Hamilton-original-broadway-cast-recording). Genius.com. Accessed April 27, 2017.
 
@@ -188,100 +188,50 @@ Roust, Colin. 2016. [“Toward a Skills-Based Curriculum: Recent Trends in Music
 
 Rosen, Jody. 2015. ["The American Revolutionary."](https://www.nytimes.com/interactive/2015/07/08/t-magazine/hamilton-lin-manuel-miranda-roots-sondheim.html) July 8. *The New York Times Style Magazine.* 
 
-Savery, John R. 2006. “[Overview of Problem-Based Learning: Definitions and Distinctions](http://docs.lib.purdue.edu/ijpbl/vol1/iss1/3/).” *The Interdisciplinary Journal of Problem-Based Learning* 1/1. Date accessed: 27 June 2017.
+Savery, John R. 2006. ["Overview of Problem-Based Learning: Definitions and Distinctions."](http://docs.lib.purdue.edu/ijpbl/vol1/iss1/3/) *The Interdisciplinary Journal of Problem-Based Learning* 1 (1).
 
-Schubert, Peter. 2012a. [“The Story of ‘See what an ass I
-am.’”](https://www.youtube.com/watch?v=YKcATH42tWU) YouTube. Accessed
-July 18, 2017.
+Schubert, Peter. 2017. “Teaching Theory Through Improvisation.” In [*Studies in Historical Improvisation from Cantare Super Librum to Partimenti,*](https://books.google.ca/books?id=maXZDQAAQBAJ&lpg=PT200&dq=teaching%20theory%20through%20improvisation&pg=PT6#v=snippet&q=contents&f=false) edited by Massimiliano Guido, 175-184. New York: Routledge.
 
-———. 2012b. [“‘See what an ass I am’ Improvisation
-\#1.”](https://www.youtube.com/watch?v=1r0DODEf_po) YouTube. Accessed
-July 18, 2017.
+———. 2012a. [“The Story of ‘See what an ass I am.’”](https://www.youtube.com/watch?v=YKcATH42tWU) YouTube. Accessed July 18, 2017.
 
-———. 2012c. [“‘See what an ass I am’ Improvisation
-\#2.”](https://www.youtube.com/watch?v=wsOpwYgrJFc) YouTube. Accessed
-July 18, 2017.
+———. 2012b. [“‘See what an ass I am’ Improvisation \#1.”](https://www.youtube.com/watch?v=1r0DODEf_po) YouTube. Accessed July 18, 2017.
 
-———. 2012d. [“‘See what an ass I am’ Improvisation
-\#3.”](https://www.youtube.com/watch?v=-trkrMWbjGA) YouTube. Accessed
-July 18, 2017.
+———. 2012c. [“‘See what an ass I am’ Improvisation \#2.”](https://www.youtube.com/watch?v=wsOpwYgrJFc) YouTube. Accessed July 18, 2017.
 
-———. 2017. “Teaching Theory Through Improvisation.” In [*Studies in
-Historical Improvisation from Cantare Super Librum to
-Partimenti*](https://books.google.ca/books?id=maXZDQAAQBAJ&lpg=PT200&dq=teaching%20theory%20through%20improvisation&pg=PT6#v=snippet&q=contents&f=false),
-edited by Massimiliano Guido, 175-184. New York: Routledge.
+———. 2012d. [“‘See what an ass I am’ Improvisation \#3.”](https://www.youtube.com/watch?v=-trkrMWbjGA) YouTube. Accessed July 18, 2017.
 
-Schuijer, Michiel. 2008. [Analyzing Atonal
-Music](https://openlibrary.org/works/OL11999910W/Analyzing_atonal_music)[*.*](https://openlibrary.org/works/OL11999910W/Analyzing_atonal_music)
-Rochester, NY: University of Rochester Press.
+Schuijer, Michiel. 2008. [Analyzing Atonal Music.](https://openlibrary.org/works/OL11999910W/Analyzing_atonal_music) Rochester, NY: University of Rochester Press.
 
-Seaton, Douglass. 2012. “Core Music Curriculum Components II: History and Repertory: A Survey and Some Questions,” in *Proceedings: The 87th Annual Meeting, 2011.* Reston, VA: The National Association of Schools of Music. Pages 23-26.
+Seaton, Douglass. 2015. [“Reconsidering Undergraduate Music History: Some Introductory Thoughts.”](http://www.ams-net.org/ojs/index.php/jmhp/article/view/176) *The Journal of Music History Pedagogy* 5 (2): 53-56. 
 
-\_\_\_\_\_\_\_. 2015. “Reconsidering Undergraduate Music History: Some Introductory Thoughts,” *The Journal of Music History Pedagogy,* 5/2: 53-56. ISSN 2155-109X. Available at: [http://www.ams-net.org/ojs/index.php/jmhp/article/view/176](http://www.ams-net.org/ojs/index.php/jmhp/article/view/176). Date accessed: 13 July 2017.
+———. 2012. “Core Music Curriculum Components II: History and Repertory: A Survey and Some Questions.” In *Proceedings: The 87th Annual Meeting, 2011,* 23–26. Reston, VA: The National Association of Schools of Music.
 
-Shaffer, Kris and Bryn Hughes. 2013. [“Flipping the Classroom: Three
-Methods.”](http://flipcamp.org/engagingstudents/shafferintro.html)
-*Engaging Students: Essays in Music Pedagogy* 1.
+Shaffer, Kris and Bryn Hughes. 2013. [“Flipping the Classroom: Three Methods.”](http://flipcamp.org/engagingstudents/shafferintro.html) *Engaging Students: Essays in Music Pedagogy* 1.
 
-Silverman, Marissa. 2009. “Rethinking Music ‘Appreciation’.” *Visions of
-Research in Music Education* 13.
+Silverman, Marissa. 2009. [“Rethinking Music ‘Appreciation’.”](http://www-usr.rider.edu/~vrme/v13n1/Vision/aut1.pdf) *Visions of Research in Music Education* 13.
 
-Simper, Trevor. 2010. “[A Comparison of an Oral Assessment with a
-Traditional Paper Exam within a Final Year Nutrition
-Module.](http://www.academicjournals.org/article/article1379621654_Simper.pdf)”
-*Educational Research and Reviews* 5 (8): 427-431.
+Simper, Trevor. 2010. ["A Comparison of an Oral Assessment with a Traditional Paper Exam within a Final Year Nutrition Module."](http://www.academicjournals.org/article/article1379621654_Simper.pdf) *Educational Research and Reviews* 5 (8): 427-431.
 
-Singh, Penny. 2011. “[Oral Assessment: Preparing Learners for Discourse
-in Communities of
-Practice](https://link.springer.com/article/10.1007%2Fs11213-010-9184-2).”
-*Systemic Practice and Action Research* 24 (3): 247-259.
+Singh, Penny. 2011. ["Oral Assessment: Preparing Learners for Discourse in Communities of Practice."](https://link.springer.com/article/10.1007%2Fs11213-010-9184-2) *Systemic Practice and Action Research* 24 (3): 247-259.
 
-Symonds, Heather. 2008. “[Introducing Oral Assessment within Creative
-Practice: ‘](https://doi.org/10.1386/jwcp.1.3.227_1)[*I Can Write but
-It’s Like Walking Against the
-Wind*](https://doi.org/10.1386/jwcp.1.3.227_1)[.’](https://doi.org/10.1386/jwcp.1.3.227_1)”
-*Journal of Writing in Creative Practice* 1 (3): 227-236.
+Symonds, Heather. 2008. ["Introducing Oral Assessment within Creative Practice: ‘It’s Like Walking Against the Wind.’"](https://doi.org/10.1386/jwcp.1.3.227_1) *Journal of Writing in Creative Practice* 1 (3): 227-236.
 
-Stevens, Daniel B. 2013. [“Symphonic Hearing: Listening as Active
-Participation.”](https://docs.google.com/file/d/0B3FeJtVLAolpWFBQbnhfWnNuWG8/edit)
-Paper presented at the annual meeting of Music Theory Midwest, Norman,
-Oklahoma, April 26–27. Accessed June 27, 2017.
-[https://docs.google.com/file/d/0B3FeJtVLAolpWFBQbnhfWnNuWG8/edit](https://docs.google.com/file/d/0B3FeJtVLAolpWFBQbnhfWnNuWG8/edit).
+Stevens, Daniel B. 2016a. [“The Do/Ti Test Handouts.”](https://music.appstate.edu/about/jmtp/doti-test-handouts) *Music Theory Pedagogy Online.*
 
-———. 2015. “Inverting Analysis.” *Engaging Students: Essays
-in Music Pedagogy* 3.
+———. 2015. [“Inverting Analysis.”](http://flipcamp.org/engagingstudents3/essays/stevens2.html) *Engaging Students: Essays in Music Pedagogy* 3.
 
-———. 2016a. “The Do/Ti Test Handouts.” Music Theory Pedagogy
-Online. Access June 27, 2017.
-[https://music.appstate.edu/about/jmtp/doti-test-handouts](https://music.appstate.edu/about/jmtp/doti-test-handouts).
+———. 2013. [“Symphonic Hearing: Listening as Active Participation.”](https://docs.google.com/file/d/0B3FeJtVLAolpWFBQbnhfWnNuWG8/edit) Paper presented at the annual meeting of Music Theory Midwest, Norman, Oklahoma, April 26–27. 
 
-Stevens, Daniel, Philip Duker, and Kris Shaffer. 2014. “[Problem-Based Learning in Music, A Guide for Instructors.](http://flipcamp.org/engagingstudents2/essays/dukerShafferStevens.html)” *Engaging Students: Essays in Music Pedagogy*, 2. Date accessed: 27 June 2017.
+Stevens, Daniel, Philip Duker, and Kris Shaffer. 2014. ["Problem-Based Learning in Music, A Guide for Instructors."](http://flipcamp.org/engagingstudents2/essays/dukerShafferStevens.html) *Engaging Students: Essays in Music Pedagogy* 2. 
 
-Straus, Joseph N. 2005. [“Voice Leading in Set-Class Space.”
-](http://www.jstor.org/stable/27639391)Journal of Music Theory 49/1:
-45-108.
+Straus, Joseph N. 2005. [“Voice Leading in Set-Class Space.”](http://www.jstor.org/stable/27639391) *Journal of Music Theory* 49 (1): 45-108.
 
-Thomas, Justin, Monique Raynor, and Merryn McKinnon. 2014. “[Academic
-Integrity and Oral Examination: An Arabian Gulf
-Perspective.](http://dx.doi.org/10.1080/14703297.2013.796724)”
-*Innovations in Education and Teaching International* 51 (5): 533-543.
+Thomas, Justin, Monique Raynor, and Merryn McKinnon. 2014. ["Academic Integrity and Oral Examination: An Arabian Gulf Perspective."](http://dx.doi.org/10.1080/14703297.2013.796724) *Innovations in Education and Teaching International* 51 (5): 533-543.
 
-Treitler, Leo. 1984. “What Kind of Story is History? *19^th^-century Music* VII/3 (1984): 363-373.
+Treitler, Leo. 1984. [“What Kind of Story is History?"](http://www.jstor.org/stable/746388?seq=1#page_scan_tab_contents) *Nineteenth-Century Music* 7 (3): 363-373.
 
-Wiggins, Grant and Jay McTighe. 1998. Rev. 2012. *The Understanding by Design Guide to *Refining Units and Reviewing Results*. 2^nd^ Edition. Alexandria, VA: ASCD.
+Wiggins, Grant and Jay McTighe. 1998. [*The Understanding by Design Guide to Refining Units and Reviewing Results.*](https://openlibrary.org/works/OL16263088W/The_Understanding_by_design_guide_to_refining_units_and_reviewing_results) Second Edition, Revised 2012. Alexandria, VA: ASCD.
 
-Williams, Justin A., ed. 2015. [*The Cambridge Companion to
-Hip-Hop*](http://www.cambridge.org/gb/academic/subjects/music/twentieth-century-and-contemporary-music/cambridge-companion-hip-hop?format=PB#9whxVwK36f49ieQO.97).
-Cambridge, UK: Cambridge University Press.
+Williams, Justin A., ed. 2015. [*The Cambridge Companion to Hip-Hop.*](http://www.cambridge.org/gb/academic/subjects/music/twentieth-century-and-contemporary-music/cambridge-companion-hip-hop?format=PB#9whxVwK36f49ieQO.97) Cambridge, UK: Cambridge University Press.
 
-Zlotkowski, Edward and Donna Duffy. 2010. “Two Decades of
-Community-Based Learning.” *New Directions for Teaching and Learning*
-2010/123: 33-43.
-
-
-
-
-<!-- A–H Done -->
-
-
-
+Zlotkowski, Edward and Donna Duffy. 2010. [“Two Decades of Community-Based Learning.”](http://onlinelibrary.wiley.com/doi/10.1002/tl.407/full) *New Directions for Teaching and Learning* 123: 33-43.
