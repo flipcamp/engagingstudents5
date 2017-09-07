@@ -89,19 +89,19 @@ Sarah Bakker, Utah State University<br />
 Tim Chenette, Utah State University<br /> 
 Carla Colletti, Webster University<br /> 
 Trevor de Clercq, Middle Tennessee State University<br /> 
-Philip Duker, University of Delaware, co-editor<br />  
-Dave Easley, Oklahoma City University<br />  
-Anna Gawboy, Ohio State University<br />  
-Bryn Hughes, University of Lethbridge, co-editor<br />  
-Enoch Jacobus, Shorter University<br />  
+Philip Duker, University of Delaware, co-editor  
+Dave Easley, Oklahoma City University 
+Anna Gawboy, Ohio State University  
+Bryn Hughes, University of Lethbridge, co-editor  
+Enoch Jacobus, Shorter University  
 Megan Lavengood, George Mason University<br />
 Jeff Lovell, Lebanon Valley College<br />
 Greg McCandless, Appalachian State University<br />
 Michael McClimon, Furman University<br />
-Garrett Michaelsen, University of Massachusetts–Lowell, special issue co-editor<br />  
-Nancy Murphy, University of Houston<br />  
+Garrett Michaelsen, University of Massachusetts–Lowell<br />  
+Nancy Murphy, University of Houston  
 Meghan Naxer, Kent State University, production editor<br />
-Cora S. Palfy, Elon University<br />  
+Cora S. Palfy, Elon University  
 Colin Roust, University of Kansas<br /> 
 Rene Rusch, University of Michigan<br /> 
 Jennifer Shaffer, University of Delaware<br />
