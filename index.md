@@ -83,23 +83,28 @@ J. Daniel Jenkins
 
 # Editorial & Review Board
 
-[UPDATE]
-Danny Arthurs, University of Tulsa  
-Carla Colletti, Webster University  
+Danny Arthurs, University of Tulsa 
+Sean Atkinson, Texas Christian University
+Sarah Bakker, Utah State University
+Tim Chenette, Utah State University 
+Carla Colletti, Webster University 
+Trevor de Clercq, Middle Tennessee State University 
 Philip Duker, University of Delaware, co-editor  
 Dave Easley, Oklahoma City University  
-Anna Gawboy, Ohio State University, co-editor  
-Stephen Gosden, University of North Florida  
+Anna Gawboy, Ohio State University  
 Bryn Hughes, University of Lethbridge, co-editor  
-Enoch Jacobus, independent scholar, Berea, Kentucky  
-Stefan Love, University of Massachusetts–Amherst  
-Michael McClimon, Furman University  
+Enoch Jacobus, Shorter University  
+Megan Lavengood, George Mason University
+Jeff Lovell, Lebanon Valley College
+Greg McCandless, Appalachian State University
+Michael McClimon, Pobox
 Garrett Michaelsen, University of Massachusetts–Lowell, special issue co-editor  
-Brian Moseley, The University at Buffalo, SUNY  
-Meghan Naxer, Kent State University, production editor  
-Colin Roust, University of Kansas  
-Keith Salley, Shenandoah University  
-Kris Shaffer, University of Mary Washington, production editor  
-Daniel Stevens, University of Delaware  
-Chris Stover, New School, special issue co-editor  
-Dariusz Terefenko, Eastman School of Music, special issue co-editor
+Nancy Murphy, University of Houston  
+Meghan Naxer, Kent State University, production editor
+Cora S. Palfy, Elon University  
+Colin Roust, University of Kansas 
+Rene Rusch, University of Michigan 
+Jennifer Shaffer, University of Delaware
+Dan Shanahan, Louisiana State University, production editor
+Abigail Shupe, Colorado State University
+Chris Stover, Arizona State University
