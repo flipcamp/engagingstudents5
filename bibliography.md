@@ -118,144 +118,75 @@ Hindman, Dorothy. 2009. [“Meeting Community and Campus Needs through Service L
 
 Huxham, Mark, Fiona Campbell, and Jenny Westwood. 2012. ["Oral Versus Written Assessments: A Test of Student Performance and Attitudes."](http://dx.doi.org/10.1080/02602938.2010.515012) *Assessment and Evaluation in Higher Education* 37 (1): 125-136.
 
-<!-- A–H Done -->
+Iannone, Paola, and Adrian Simpson. 2013. ["Students' Perceptions of Assessment in Undergraduate Mathematics."](http://dx.doi.org/10.1080/14794802.2012.756634) *Research in Mathematics Education* 15 (1): 17-33.
 
-Iannone, Paola, and Adrian Simpson. 2012. “[Oral Assessment in
-Mathematics: Implementation and
-Outcomes.](https://doi.org/10.1093/teamat/hrs012)” *Teaching
-Mathematics and Its Applications* 31 (4): 179-190.
+———. 2012. ["Oral Assessment in Mathematics: Implementation and Outcomes."](https://doi.org/10.1093/teamat/hrs012) *Teaching Mathematics and Its Applications* 31 (4): 179-190.
 
-———. 2013. “[Students' Perceptions of Assessment in Undergraduate
-Mathematics.](http://dx.doi.org/10.1080/14794802.2012.756634)”
-*Research in Mathematics Education* 15 (1): 17-33.
+Johnson, Vicky. 2015. [“Proficiency-Based Learning with Muscle in a Music Theory Classroom.”](http://flipcamp.org/engagingstudents3/essays/johnson.html) *Engaging Students: Essays in Music Pedagogy* 3.
 
-Johnson, Vicky. 2015. “Proficiency-Based Learning with Muscle in a Music
-Theory Classroom.” *Engaging Students: Essays in Music Pedagogy, vol.
-3*. Accessed June 20, 2017.
+Joughin, Gordon. 2007. ["Student Conceptions of Oral Presentations."](http://dx.doi.org/10.1080/03075070701346873) *Studies in Higher Education* 32 (3): 323-336.
 
-Joughin, Gordon. 2007. “[Student Conceptions of Oral
-Presentations.](http://dx.doi.org/10.1080/03075070701346873)” *Studies
-in Higher Education* 32 (3): 323-336.
+Kasinitz, Philip. 2016. ["*Hamilton*: Diverse America and the Second Generation Advantage."](http://www.brooklyn.cuny.edu/web/academics/centers/hitchcock/publications/amr/v46-1/kasinitz.php) *American Music Review* 46 (1).
 
-Kasinitz, Philip. 2016. “[*Hamilton:
-*](http://www.brooklyn.cuny.edu/web/academics/centers/hitchcock/publications/amr/v46-1/kasinitz.php)[Diverse
-America and the Second Generation
-Advantage](http://www.brooklyn.cuny.edu/web/academics/centers/hitchcock/publications/amr/v46-1/kasinitz.php).”
-*American Music Review* 46/1 (Fall).
+Krims, Adam. 2000. [*Rap Music and the Poetics of Identity.*](https://openlibrary.org/books/OL42732M/Rap_music_and_the_poetics_of_identity) New York: Cambridge University Press.
 
-Krims, Adam. 2000. [*Rap Music and the Poetics of
-Identity*](https://openlibrary.org/books/OL42732M/Rap_music_and_the_poetics_of_identity).
-New York: Cambridge University Press.
+Lewin, David. 1990. [“Klumpenhouwer Networks and Some Isographies that Involve Them.”](http://www.jstor.org/stable/746147?seq=1#page_scan_tab_contents) *Music Theory Spectrum* 12 (1): 83-120.
 
-Lewin, David. 1986. “Music Theory, Phenomenology, and Modes of
-Perception.” *Music Perception: An Interdisciplinary Journal* 3, no. 4.
+———. 1986. [“Music Theory, Phenomenology, and Modes of Perception.”](http://mp.ucpress.edu/content/3/4/327) *Music Perception: An Interdisciplinary Journal* 3 (4).
 
-———. 1990. [“Klumpenhouwer Networks and Some Isographies that
-Involve
-Them.”](http://www.jstor.org/stable/746147?seq=1#page_scan_tab_contents)
-Music Theory Spectrum 12/1: 83-120.
+Lowe, Melanie. 2015. [“Rethinking the Undergraduate Music History Sequence in the Information Age.”](http://www.ams-net.org/ojs/index.php/jmhp/article/view/177) *The Journal of Music History Pedagogy* 5 (2): 65-71.
 
-Lowe, Melanie. 2015. “Rethinking the Undergraduate Music History Sequence in the Information Age,” *The Journal of Music History Pedagogy,* 5/2: 65-71. ISSN 2155-109X. Available at: [http://www.ams-net.org/ojs/index.php/jmhp/article/view/177](http://www.ams-net.org/ojs/index.php/jmhp/article/view/177). Date accessed: 13 July 2017.
+Madsen, Clifford K. and John M. Geringer. 2001. [“A Focus of Attention Model for Meaningful Listening.”](http://www.jstor.org/stable/40319396?seq=1#page_scan_tab_contents) *Bulletin of the Council for Research in Music Education* 147: 103–108.
 
-Madsen, Clifford K. and John M. Geringer. “A Focus of Attention Model
-for Meaningful Listening.” *Bulletin of the Council for Research in
-Music Education*, the 18^th^ International Society for Music Education
-ISME Research Seminar 147 (2000/2001): 103–108.
+Mead, Rebecca. 2015. ["All About the Hamiltons."](http://www.newyorker.com/magazine/2015/02/09/hamiltons) *The New Yorker.* February 9. Accessed May 16, 2017.
 
-Mead, Rebecca. 2015. “[All About the
-Hamiltons](http://www.newyorker.com/magazine/2015/02/09/hamiltons).”
-*The New Yorker.* February 9. Accessed May 16, 2017.
+Michaelsen, Garrett. 2014. [“Improvising to Learn/Learning to Improvise: Designing Scaffolded Group Improvisations for the Music Theory Classroom.”](http://www.flipcamp.org/engagingstudents2/essays/michaelsen.html) *Engaging Students: Essays in Music Pedagogy* 2. 
 
-Michaelsen, Garrett. 2014. “Improvising to Learn/Learning to Improvise:
-Designing Scaffolded Group Improvisations for the Music Theory
-Classroom.” *Engaging Students: Essays in Music Pedagogy* 2. Accessed
-March 29, 2015.[
-](http://www.flipcamp.org/engagingstudents2/essays/michaelsen.html)[http://www.flipcamp.org/engagingstudents2/essays/michaelsen.html](http://www.flipcamp.org/engagingstudents2/essays/michaelsen.html).
+Millis, Barbara J. 2010. [*Cooperative Learning in Higher Education.*](https://openlibrary.org/works/OL15441103W/Cooperative_learning_in_higher_education) Sterling, VA: Stylus.
 
-Millis, Barbara J. 2010. *Cooperative Learning in Higher Education*. Sterling, VA: Stylus.
+Miranda, Lin-Manuel. 2015a. [Twitter post, @Lin\_Manuel](#MrowbackMonday In 2008 I bought Chernow's Hamilton bio to read on vacation. @HamiltonMusical rehearsal starts today.). Jun 15. Accessed May 16, 2017.
 
-Miranda, Lin-Manuel. 2015a. [Twitter post,
-@Lin\_Manuel](#MrowbackMonday In 2008 I bought Chernow's Hamilton bio to read on vacation. @HamiltonMusical rehearsal starts today.).
-Jun 15. Accessed May 16, 2017.
+———. 2015b. [Hamilton (Original Broadway Cast Recording)](https://genius.com/albums/Lin-manuel-miranda/Hamilton-original-broadway-cast-recording). Genius.com. Accessed April 27, 2017.
 
-———. 2015b. [Hamilton (Original Broadway Cast
-Recording)](https://genius.com/albums/Lin-manuel-miranda/Hamilton-original-broadway-cast-recording).
-Genius.com. Accessed April 27, 2017.
+Miranda, Lin-Manuel, and Jeremy McCarter. 2016. [Hamilton: The Revolution](https://openlibrary.org/works/OL17366209W/Hamilton). New York: Grand Central Publishing.
 
-Miranda, Lin-Manuel, and Jeremy McCarter. 2016. [Hamilton: The
-Revolution](https://openlibrary.org/works/OL17366209W/Hamilton). New
-York: Grand Central Publishing.
+Morris, Robert D. 1991. [Class Notes for Atonal Music Theory](https://openlibrary.org/works/OL4969787W/Class_notes_for_atonal_music_theory). Hanover, NH: Frog Peak Music.
 
-Morris, Robert D. 1987.[
-](https://openlibrary.org/books/OL2386927M/Composition_with_pitch-classes)[Composition
-with Pitch Classes: A Theory of Compositional
-Design](https://openlibrary.org/books/OL2386927M/Composition_with_pitch-classes).
-New Haven: Yale University Press.
+———. 1987. [Composition with Pitch Classes: A Theory of Compositional Design](https://openlibrary.org/books/OL2386927M/Composition_with_pitch-classes). New Haven: Yale University Press.
 
-———. 1991. [Class Notes for Atonal Music
-Theory](https://openlibrary.org/works/OL4969787W/Class_notes_for_atonal_music_theory).
-Hanover, NH: Frog Peak Music.
+Muraven, Mark and Roy F. Baumeister. 2000. [“Self-regulation and depletion of limited resources: Does self-control resemble a muscle?”](http://psycnet.apa.org/fulltext/2000-03444-003.html) *Psychological Bulletin* 126: 247–59.
 
-Muraven, Mark and Roy F. Baumeister. 2000. “Self-regulation and depletion of
-limited resources: Does self-control resemble a muscle?” *Psychological
-Bulletin* 126: 247–59.
+Murphy, Scott. 2007. [“Considering Network Recursion and Bartók’s ‘Fourths.’”](http://www.mtosmt.org/issues/mto.07.13.3/mto.07.13.3.murphy.html) *Music Theory Online* 13 (3).
 
-Murphy, Scott. 2007. [“Considering Network Recursion and Bartók’s
-‘Fourths.’”](http://www.mtosmt.org/issues/mto.07.13.3/mto.07.13.3.murphy.html)
-Music Theory Online 13/3.
+Nalepinski, Kate. 2017. ["Q&A: IC professor starts a revolution with ‘Hamilton’ course."](https://theithacan.org/life-culture/qa-ic-professor-starts-a-revolution-with-hamilton-course/) February 21. *The Ithacan.* Accessed April 27, 2017.
 
-Nalepinski, Kate. 2017. “[Q&A: IC professor starts a revolution with
-‘Hamilton’
-course](https://theithacan.org/life-culture/qa-ic-professor-starts-a-revolution-with-hamilton-course/).”
-The Ithacan (February 21). Accessed April 27, 2017.
+Natvig, Mary, ed. 2002. [*Teaching Music History.*](https://openlibrary.org/works/OL8477219W/Teaching_Music_History) Burlington, VT: Ashgate.
 
-Natvig, Mary, ed. 2002. *Teaching Music History.* Burlington, VT: Ashgate.
+O’Donnell, Shaugn. 1997. ["Transformational Voice Leading in Atonal Music."](https://books.google.com/books/about/Transformational_Voice_Leading_in_Atonal.html?id=B9KhOwAACAAJ) Ph.D. dissertation, City University of New York.
 
-O’Donnell, Shaugn. 1997. [Transformational Voice Leading in Atonal
-Music.
-](https://books.google.com/books/about/Transformational_Voice_Leading_in_Atonal.html?id=B9KhOwAACAAJ)Ph.D.
-diss., City University of New York.
+Orejuela, Fernando. 2015. [*Rap and Hip Hop Culture.*](https://global.oup.com/ushe/product/rap-and-hip-hop-culture-9780199987733?cc=us&lang=en&) New York: Oxford University Press.
 
-Orejuela, Fernando. 2015. [*Rap and Hip Hop
-Culture*](https://global.oup.com/ushe/product/rap-and-hip-hop-culture-9780199987733?cc=us&lang=en&).
-New York: Oxford University Press.
+Ottman, Robert, and Nancy Rogers. 2013. [*Music for Sight Singing.*](https://openlibrary.org/works/OL2689971W/Music_for_Sight_Singing) Ninth edition. Upper Saddle River: Pearson Prentice Hall.
 
-Ottman, Robert, and Nancy Rogers. 2013. *Music for Sight Singing.* 9th
-ed. Upper Saddle River: Pearson Prentice Hall.
+Perry, William G. 1999. [*Forms of Ethical and Intellectual Development in the College Years, A Scheme.*](https://openlibrary.org/works/OL1936527W/Forms_of_intellectual_and_ethical_development_in_the_college_years) San Francisco, CA: Jossey-Bass Publishers.
 
-Perry, William G. 1999. *Forms of Ethical and Intellectual Development in the College Years, A Scheme.* San Francisco, CA: Jossey-Bass Publishers.
+Pillay, Srini. 2017. *Tinker, Dabble, Doodle, Try: Unlock the Power of the Unfocused Mind.* New York: Ballantine Books. 
 
-Pillay, Srini. *Tinker, Dabble, Doodle, Try: Unlock the Power of the
-Unfocused Mind*. Ballantine Books. NY: 2017.
+———. 2016. [“The ‘thinking’ benefits of doodling.”](http://www.health.harvard.edu/blog/the-thinking-benefits-of-doodling-2016121510844) December 15. *Harvard Health Blog.* Accessed May 30, 2017. 
 
-———. “The ‘thinking’ benefits of doodling.”
-*Harvard Health Blog*. Accessed May 30, 2017. Posted December 15, 2016.
-http://www.health.harvard.edu/blog/the-thinking-benefits-of-doodling-2016121510844
+Rahn, Jay, and James R. McKay. 1988. [“The Guide-Tone Method: An Approach to Harmonic Dictation.”](https://music.appstate.edu/about/jmtp/jmtp-volume-2) *Journal of Music Theory Pedagogy* 2: 101–111.
 
+Robin, William. 2017. [“What Controversial Changes at Harvard Mean for Music in the University.”](http://thelogjournal.com/2017/04/25/what-controversial-changes-at-harvard-means-for-music-in-the-university/) *The Log Journal.* Accessed July 13, 2017.
 
-Rahn, Jay, and James R. McKay. 1988. “The Guide-Tone Method: An Approach
-to Harmonic Dictation.” *Journal of Music Theory Pedagogy* 2: 101–111.
+Rogers, Nancy. 2008. [“How Structured Improvisation Can Improve Sight Singing Performance (and More).”](http://apcentral.collegeboard.com/apc/public/repository/Music_Teaching_Sight_Singing_SF.pdf) In *Teaching Sight Singing,* 49–58. New York: The College Board, 2008. Accessed April 7, 2015.
 
-Robin, William. 2017. “What Controversial Changes at Harvard Mean for Music in the University,” *The Log Journal*. Available at: [http://thelogjournal.com/2017/04/25/what-controversial-changes-at-harvard-means-for-music-in-the-university/](http://thelogjournal.com/2017/04/25/what-controversial-changes-at-harvard-means-for-music-in-the-university/). Date accessed: 13 July 2017.
+Root, Jena. 2016. [“The Chromatic Sing Along.”](https://music.appstate.edu/about/jmtp/chromatic-sing-along) *Music Theory Pedagogy Online.* 
 
-Rogers, Nancy. 2008. “How Structured Improvisation Can Improve Sight
-Singing Performance (and More).” In *Teaching Sight Singing*, 49–58. New
-York: The College Board, 2008. Accessed April 7, 2015.[
-](http://apcentral.collegeboard.com/apc/public/repository/Music_Teaching_Sight_Singing_SF.pdf)[http://apcentral.collegeboard.com/apc/public/repository/Music\_Teaching\_Sight\_Singing\_SF.pdf](http://apcentral.collegeboard.com/apc/public/repository/Music_Teaching_Sight_Singing_SF.pdf).
+Roust, Colin. 2016. [“Toward a Skills-Based Curriculum: Recent Trends in Music History Pedagogy.”](http://musicadocta.unibo.it/article/view/6575/6372) *Musica Docta* 4: 105-108. 
 
-Root, Jena. 2016. “The Chromatic Sing Along.” *Music Theory Pedagogy
-Online*. Accessed June 27, 2017.
-[https://music.appstate.edu/about/jmtp/chromatic-sing-along](https://music.appstate.edu/about/jmtp/chromatic-sing-along).
+———. 2013. [“Creating Illusions: Practical Approaches to Teaching ‘Added Value’ in Audiovisual Artworks.”](http://flipcamp.org/engagingstudents/roust.html) *Engaging Students: Essays in Music Pedagogy* 1.
 
-Roust, Colin. 2013. “Creating Illusions: Practical Approaches to
-Teaching ‘Added Value’ in Audiovisual Artworks.” *Engaging Students:
-Essays in Music Pedagogy, vol. 1*. Accessed July 18, 2017.
-
-Roust, Colin. 2016. “Toward a Skills-Based Curriculum: Recent Trends in Music History Pedagogy,” *Musica Docta,* 4:105-108. ISSN 2039-9715. Available at: [http://musicadocta.unibo.it/article/view/6575/6372](http://musicadocta.unibo.it/article/%20%09view/6575/6372). Date accessed: 17 July 2017.
-
-Rosen, Jody. 2015. “[The American
-Revolutionary](https://www.nytimes.com/interactive/2015/07/08/t-magazine/hamilton-lin-manuel-miranda-roots-sondheim.html).”
-The New York Times Style Magazine. July 8.
+Rosen, Jody. 2015. ["The American Revolutionary."](https://www.nytimes.com/interactive/2015/07/08/t-magazine/hamilton-lin-manuel-miranda-roots-sondheim.html) July 8. *The New York Times Style Magazine.* 
 
 Savery, John R. 2006. “[Overview of Problem-Based Learning: Definitions and Distinctions](http://docs.lib.purdue.edu/ijpbl/vol1/iss1/3/).” *The Interdisciplinary Journal of Problem-Based Learning* 1/1. Date accessed: 27 June 2017.
 
@@ -350,6 +281,7 @@ Community-Based Learning.” *New Directions for Teaching and Learning*
 
 
 
+<!-- A–H Done -->
 
 
 
