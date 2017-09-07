@@ -98,7 +98,7 @@ Megan Lavengood, George Mason University<br />
 Jeff Lovell, Lebanon Valley College<br />
 Greg McCandless, Appalachian State University<br />
 Michael McClimon, Furman University<br />
-Garrett Michaelsen, University of Massachusetts–Lowell<br />  
+Garrett Michaelsen, University of Massachusetts–Lowell  
 Nancy Murphy, University of Houston  
 Meghan Naxer, Kent State University, production editor<br />
 Cora S. Palfy, Elon University  
