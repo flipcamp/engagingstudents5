@@ -83,8 +83,8 @@ J. Daniel Jenkins
 
 # Editorial & Review Board
 
-Danny Arthurs, University of Tulsa<br /> 
-Sean Atkinson, Texas Christian University<br />
+Danny Arthurs, University of Tulsa  
+Sean Atkinson, Texas Christian University 
 Sarah Bakker, Utah State University<br />
 Tim Chenette, Utah State University<br /> 
 Carla Colletti, Webster University<br /> 
