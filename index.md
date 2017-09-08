@@ -46,7 +46,7 @@ Jason Fick
 George Lam
 
 [Ho Hey, Having Some Say in Contextual Listening]({{ site.baseurl }}/essays/jemain.html)<br />
-Rebecca Jemain
+Rebecca Jemian
 
 [Inverting Dictation]({{ site.baseurl }}/essays/stevens.html)<br />
 Daniel B. Stevens
