@@ -57,7 +57,7 @@ As I reflect on this course and think about future iterations of the course, I n
 
 **Workload** – By the end of the semester, it was clear that I had been too ambitious with the workload for the course. The students were troopers about it, but I will adjust this in future iterations of the course. I will make some of the required reading optional, eliminate a couple of topics, and provide more time to complete podcasts and videocasts.
 
-**Community Engagement** – In future iterations of the course, there could be somewhat less focus on media, making more time for a community engagement project. The essays in this volume by Bourne, Peebles, and Williams give excellent examples of the types of community engagement projects that could be undertaken.
+**Community Engagement** – In future iterations of the course, there could be somewhat less focus on media, making more time for a community engagement project. The essays in this volume by [Bourne](bourne.md), [Peebles](peebles.md), and [Williams](williams.md) give excellent examples of the types of community engagement projects that could be undertaken.
 
 **Expertise** – Unlike other graduate-level theory courses I teach, where I know all the readings, repertoire, and topics quite well, it was not possible for me to be intimately familiar with every topic or piece of music the students wrote or spoke about. This is not a problem so much as it was a challenge—not just to me, but to music theory in general, to engage with more diverse topics and repertoire.
 

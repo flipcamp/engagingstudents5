@@ -103,7 +103,7 @@ Gregory, Alex. 2016. [Cartoon.](http://www.newyorker.com/cartoon/a20385) *The Ne
 
 Grymes, James A. and John Allemeir. ["Making Students Make Music: Integrating Composition and Improvisation into the Early Music Classroom."](http://www.ams-net.org/ojs/index.php/jmhp/article/view/122) *Journal of Music History Pedagogy* 4 (2): 231-254.
 
-Gullings, Kyle. ["OER for Undergraduate Music Theory."](http://www.kylegullings.com) Link to a publicly-viewable Google Drive folder with 109 documents.
+Gullings, Kyle. ["OER for Undergraduate Music Theory."](https://drive.google.com/drive/folders/0B0laoIMCvmzxU3JZaWQ0WHo3QXc?usp=sharing) Link to a publicly-viewable Google Drive folder with 109 documents.
 
 Habeck, Holly. 2017. ["Music Professor Takes a Shot on  *Hamilton*."](http://www.ithaca.edu/news/releases/music-professor-takes-a-shot-on-hamilton-43506/#.WQH-XvkrLGg) IC News. Ithaca College (February 9). Accessed April 27, 2017.
 
