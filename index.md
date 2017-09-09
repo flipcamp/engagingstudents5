@@ -45,7 +45,7 @@ Jason Fick
 [Engaging Everyone: Musical Analysis in the General Education Classroom]({{ site.baseurl }}/essays/lam.html)  
 George Lam
 
-[Ho Hey, Having Some Say in Contextual Listening]({{ site.baseurl }}/essays/jemain.html)<br />
+[Ho Hey, Having Some Say in Contextual Listening]({{ site.baseurl }}/essays/jemian.html)<br />
 Rebecca Jemian
 
 [Inverting Dictation]({{ site.baseurl }}/essays/stevens.html)<br />
