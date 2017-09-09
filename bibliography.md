@@ -85,7 +85,7 @@ Duker, Philip, and Daniel Stevens. 2017. ["Scaling to Real Music: Rebuilding Aur
 
 Edgarton, R. 2001. ["Education White Paper."](http://www.faculty.umb.edu/john_saltmarsh/resources/Edgerton%20Higher%20Education%20White%20Paper.rtf) Accessed June 27, 2017.
 
-Eyler, Janet and Dwight E. Giles, Jr. 1999. *Where’s the Learning in Service-Learning?* San Francisco: Jossey-Bass.
+Eyler, Janet and Dwight E. Giles, Jr. 1999. [*Where’s the Learning in Service-Learning?*](https://openlibrary.org/books/OL24755192M/Where's_the_learning_in_service-learning) San Francisco: Jossey-Bass.
 
 Forman, Murray, and Mark Anthony Neal, eds. 2004. [*That’s the Joint! The Hip-Hop Studies Reader.*](https://openlibrary.org/works/OL15936899W/That's_the_joint!) New York: Routledge.
 
@@ -132,7 +132,7 @@ Krims, Adam. 2000. [*Rap Music and the Poetics of Identity.*](https://openlibrar
 
 Lewin, David. 1990. [“Klumpenhouwer Networks and Some Isographies that Involve Them.”](http://www.jstor.org/stable/746147?seq=1#page_scan_tab_contents) *Music Theory Spectrum* 12 (1): 83-120.
 
-———. 1986. [“Music Theory, Phenomenology, and Modes of Perception.”](http://mp.ucpress.edu/content/3/4/327) *Music Perception: An Interdisciplinary Journal* 3 (4).
+———. 1986. [“Music Theory, Phenomenology, and Modes of Perception.”](http://mp.ucpress.edu/content/3/4/327) *Music Perception: An Interdisciplinary Journal* 3 (4): 327-392.
 
 Lowe, Melanie. 2015. [“Rethinking the Undergraduate Music History Sequence in the Information Age.”](http://www.ams-net.org/ojs/index.php/jmhp/article/view/177) *The Journal of Music History Pedagogy* 5 (2): 65-71.
 
@@ -172,7 +172,7 @@ Perry, William G. 1999. [*Forms of Ethical and Intellectual Development in the C
 
 Pillay, Srini. 2017. *Tinker, Dabble, Doodle, Try: Unlock the Power of the Unfocused Mind.* New York: Ballantine Books. 
 
-———. 2016. [“The ‘thinking’ benefits of doodling.”](http://www.health.harvard.edu/blog/the-thinking-benefits-of-doodling-2016121510844) December 15. *Harvard Health Blog.* Accessed May 30, 2017. 
+———. 2016. [“The ‘Thinking’ Benefits of Doodling.”](http://www.health.harvard.edu/blog/the-thinking-benefits-of-doodling-2016121510844) December 15. *Harvard Health Blog.* Accessed May 30, 2017. 
 
 Rahn, Jay, and James R. McKay. 1988. [“The Guide-Tone Method: An Approach to Harmonic Dictation.”](https://music.appstate.edu/about/jmtp/jmtp-volume-2) *Journal of Music Theory Pedagogy* 2: 101–111.
 
