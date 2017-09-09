@@ -105,6 +105,6 @@ Cora S. Palfy, Elon University<br />
 Colin Roust, University of Kansas<br /> 
 Rene Rusch, University of Michigan<br /> 
 Jennifer Shafer, University of Delaware<br />
-Dan Shanahan, Louisiana State University, production editor<br />
+Daniel Shanahan, Louisiana State University, production editor<br />
 Abigail Shupe, Colorado State University<br />
 Chris Stover, Arizona State University<br />
