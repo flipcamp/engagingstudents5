@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reflecting Upon Five Years of *Engaging Students*"
-author: Bryn Hughes, INSTITUTION and Philip Duker, University of Delaware
+author: Bryn Hughes, University of Lethbridge and Philip Duker, University of Delaware
 ---
 
 {{ page.title }}
