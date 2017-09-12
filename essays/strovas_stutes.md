@@ -39,7 +39,7 @@ In first-semester colloquies, when analytical questions are far narrower, studen
 Colloquies assume a variety of formats beyond the initial and the culminating assessments described above. Table 1 briefly samples some of the other colloquies within our four-semester sequence and provides a cursory look at the sequential, progressive nature of the assessments as they occur throughout the curriculum. Timings between colloquies vary, and group and public colloquies offer a welcome alternative to individual assessment. Working primarily from musical scores early and throughout the curriculum imbues it with fluidity; in essence, the content of the musical literature presented within a unit informs the structure the colloquy will take, as the organic nature of discussing different musical phenomena often requires different modes of conversation.
 
 
-![Table 1. Colloquy Adaptations](https://octodex.github.com/images/yaktocat.png)
+![Table 1. Colloquy Adaptations](https://github.com/flipcamp/engagingstudents5/blob/gh-pages/images/strovas.pdf)
 <!--<table>
 <thead>
 <tr class="header">
