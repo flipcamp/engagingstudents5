@@ -38,9 +38,9 @@ In first-semester colloquies, when analytical questions are far narrower, studen
 
 Colloquies assume a variety of formats beyond the initial and the culminating assessments described above. Table 1 briefly samples some of the other colloquies within our four-semester sequence and provides a cursory look at the sequential, progressive nature of the assessments as they occur throughout the curriculum. Timings between colloquies vary, and group and public colloquies offer a welcome alternative to individual assessment. Working primarily from musical scores early and throughout the curriculum imbues it with fluidity; in essence, the content of the musical literature presented within a unit informs the structure the colloquy will take, as the organic nature of discussing different musical phenomena often requires different modes of conversation.
 
-Table 1. Colloquy Adaptations.
 
-<table>
+![Table 1. Colloquy Adaptations](https://octodex.github.com/images/yaktocat.png)
+<!--<table>
 <thead>
 <tr class="header">
 <th align="left"><strong>Semester.Unit</strong></th>
@@ -135,7 +135,7 @@ Table 1. Colloquy Adaptations.
 <td align="left">Student groups work with instructors to select one twentieth-century or contemporary work on which to present a public colloquy. Because of the public format, students are expected to address conceptual musical principals using whatever verbal and nonverbal means the group believes will facilitate understanding among lay music aficionados.</td>
 </tr>
 </tbody>
-</table>
+</table> -->
 
 Students prepare for their colloquies in various ways. Most significantly, the day-to-day instructor-led and small-group discussion and performance of musical scores in class provides the foundation for what is expected at the point of assessment. Closer to each colloquy, students prepare through individual written work and peer collaboration. Students complete written Concept Pages in which they identify and notate examples of essential musical concepts from the literature, compose original examples applying said concepts, and write original one-paragraph discussions about each. These Concept Pages go through an editing process that involves both faculty and peer review. Through the process of drafting and editing Concept Pages, students gain a deeper awareness of musical concepts and cultivate the ability to discuss them with clarity and precision. Finally, students prepare collaboratively in a number of ways: they practice with their peers through mock colloquies in and outside class; sometimes, as in Colloquies 2.3, 3.2, and 3.3 detailed in Table 1, students share colloquy repertoire and are encouraged or required to work together to prepare; and occasionally, student partners present on their assigned repertoire to the class to practice the discussion, receive feedback, and build confidence in the process.
 
