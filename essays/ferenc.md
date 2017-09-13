@@ -51,14 +51,14 @@ Some examples of reflective questions that apply to music theory study and encou
 
 Incorporation of such metacognitive prompts into activities, assignments, or classroom discussion does not add new content to a course. Rather, it directs student attention toward their individual processes of learning content and, as a result, engages them in the kind of thinking that is required for theorizing thereby introducing them to the purpose of music theory. For example, consider the sampling of comments below from a class of sophomore students in response to metacognitive prompts guiding them to reflect for the first time on their learning experience of modulation in a course on chromatic harmony:
 
-## Prompts:
+Prompts:
 
 - Which exercises on this topic were most beneficial for my learning? Why?
 - Did this topic reinforce or develop my knowledge in some way? If so, how?
 - Did this topic show me gaps in my previous learning that I should address? What are they?
 - What did I learn from the enriching activity? (This was an assignment that invited students to find examples of modulation in their individual repertoires.)
 
-## Sample responses:
+Sample responses:
 
 1. “I actually found the whole concept of modulation very difficult in the beginning. I was completely lost. Then I made myself sit down for a good seven hours one day, read all my notes, read all the textbook pages and do all the workbook exercises until it started to make sense.”
 >
