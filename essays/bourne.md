@@ -33,7 +33,7 @@ The following are two examples of CEL projects that I used in the undergraduate 
 - Compose model compositions using forms and techniques learned this semester, including a Mozart-style minuet.
 - Explain components of the minuet to an audience, adjusting language as necessary for their audience.
 
-**Community**: Local
+**Community**: Local  
 **Course**: Music Theory II (could also work for I or III, depending upon institution curriculum)
 
 A galant-style minuet composition is a classic project (no pun intended) in music theory curricula. In fact, [Nancy Rogers](https://drive.google.com/file/d/0B0ZI8di-pEDvSU5vRG9nbVg3ZFk/view) mentions the ubiquitousness of this assignment when suggesting other genres might be more relevant for students today. For those committed to composing minuets, however, [Stefan
@@ -52,7 +52,7 @@ A community-engaged project should not only help the students, but also the comm
 - Create an argument (think critically) when analyzing music and critiquing analytical methods: write coherently about a position (a thesis or claim) on an analytical interpretation of a piece and use elements from piece as evidence to defend thesis or claim.
 - Explain conventions for writing about music for different audiences; in particular, conventions for writing analysis papers.
 
-**Community**: Global
+**Community**: Global  
 **Course**: Music Theory IV (could feasibly work for any theory course)
 
 Like the minuet composition, the analysis paper is a staple of a theory curriculum, especially in later courses. In my music theory IV course, students each picked their own piece from an approved list. At the core of their paper, they argued for an analytical interpretation of their piece using evidence. They also included some brief historical background of their composer to get a sense of his or her cultural context, ideology, and motivation. In addition to learning how to create an argument, students developed their writing skills: how to write clearly and persuasively about an analysis and how to alter prose for different audiences.
