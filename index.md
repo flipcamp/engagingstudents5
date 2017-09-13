@@ -92,6 +92,7 @@ Trevor de Clercq, Middle Tennessee State University<br />
 Philip Duker, University of Delaware, co-editor<br />
 Dave Easley, Oklahoma City University<br /> 
 Anna Gawboy, Ohio State University<br />
+Philip Gentry, University of Delaware<br />
 Bryn Hughes, University of Lethbridge, co-editor<br />
 Enoch Jacobus, Shorter University<br />
 Megan Lavengood, George Mason University<br /> 
