@@ -178,8 +178,8 @@ Rahn, Jay, and James R. McKay. 1988. [“The Guide-Tone Method: An Approach to H
 
 Robin, William. 2017. [“What Controversial Changes at Harvard Mean for Music in the University.”](http://thelogjournal.com/2017/04/25/what-controversial-changes-at-harvard-means-for-music-in-the-university/) *The Log Journal.* Accessed July 13, 2017.
 
-Rogers, Michael R. (2004). [Teaching Approaches in Music Theory: An overview of Pedagogical Philosophies]
-(https://openlibrary.org/works/OL5595277W/Teaching_approaches_in_music_theory). Second edition. Carbondale, IL: Southern Illinois University Press.
+Rogers, Michael R. (2004). [*Teaching Approaches in Music Theory: An overview of Pedagogical Philosophies*]
+(http://openlibrary.org/works/OL5595277W/Teaching_approaches_in_music_theory). Second edition. Carbondale, IL: Southern Illinois University Press.
 
 Rogers, Nancy. 2008. [“How Structured Improvisation Can Improve Sight Singing Performance (and More).”](http://apcentral.collegeboard.com/apc/public/repository/Music_Teaching_Sight_Singing_SF.pdf) In *Teaching Sight Singing,* 49–58. New York: The College Board, 2008. Accessed April 7, 2015.
 
