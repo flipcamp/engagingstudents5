@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reflecting Upon Five Years of *Engaging Students*"
-author: Bryn Hughes, University of Lethbridge and Philip Duker, University of Delaware
+author: Bryn Hughes, University of Lethbridge; Philip Duker, University of Delaware; Anna Gawboy, Ohio State University; Kris P. Shafer, University of Mary Washington
 ---
 
 {{ page.title }}
