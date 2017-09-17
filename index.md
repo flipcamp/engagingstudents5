@@ -10,7 +10,7 @@ We hope that you enjoy reading this volume as much as we have enjoyed putting it
 # Front matter
 
 [Reflecting Upon Five Years of *Engaging Students*]({{ site.baseurl }}/essays/hughes_duker.html)  
-Philip Duker, Anna Gawboy, Bryn Hughes, and Kris P. Shaffer
+Bryn Hughes, Philip Duker, Anna Gawboy, and Kris P. Shaffer
 
 
 # Essays
