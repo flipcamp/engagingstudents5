@@ -63,4 +63,59 @@ As I reflect on this course and think about future iterations of the course, I n
 
 **Public** – Perhaps the most profound topic we discussed over the course of the semester was “who is the public?” This lead to an interesting discussion about how traditional modes of public music theory are geared at an older, whiter, upper-middle- and upper-class, urban audience. Coming to terms with that issue has consequences far beyond the context of any course, much less one in music theory. But, it was exciting to have such a conversation—a conversation I have never had in any of my other classes. Who are we trying to reach out to and what are we trying to say to them? If a curriculum in public music theory can help our students put those questions in the forefront, perhaps everything else will work itself out.
 
+### Bibliography
+
+“Arnold Schoenberg.” YouTube. Accessed September 20, 2017. https://www.youtube.com/user/ascvideo
+
+Bernstein, Leonard. “What is Sonata Form?” In Leonard Bernstein’s Young People’s Concerts. Ed. Jack Gottlieb, 225–43. New York: Doubleday, 1992.
+
+“From Bach to Xenakis.” Accessed September 20, 2017. http://graphicwitness.org/music/index/aalinernotes.htm
+
+Huron, David. “The Science of Sad Sounds.” The National YouTube Channel. June 27, 2011. https://www.youtube.com/watch?v=_pwqBAS9x3U 
+
+Jenkins, J. Daniel. “Schoenberg’s ‘Advice for Beginners in Composition with Twelve Tones’.” SMT-V 3.2. Accessed September 20, 2017. https://vimeo.com/220246523
+
+Jenkins, J. Daniel, ed. Schoenberg’s Program Notes and Musical Analyses. Schoenberg in Words, vol. 5. Ed. Sabine Feisst and Severine Neff. New York: Oxford University Press, 2016.
+
+Kapilow, Rob. “Why 'Over the Rainbow' Takes Us to a Magical, Musical Place.” PBS NewsHour YouTube Channel. October 6, 2015. https://www.youtube.com/watch?v=RbKEB1v8McA
+
+Keller, Hans. “Functional Analysis no. 9a: Mozart’s Piano Sonata in A Minor, K. 310.” In Essays on Music. Ed. Christopher Wintle, 129–38. Cambridge: Cambridge University Press, 1994.
+
+Keller, Hans. “The Musical Analysis of Music.” In Essays on Music. Ed. Christopher Wintle, 126–28. Cambridge: Cambridge University Press, 1994.
+
+Keller, Hans. “Wordless Functional Analysis no. 1: Mozart, K. 421.” The Score and I.M.A. Magazine 22 (1958): 56–64.
+
+Kozinn, Allan. “Discovered Sonatas May Be Faked Haydn.” December 28, 1993. The New York Times. http://www.nytimes.com/1993/12/28/arts/discovered-sonatas-may-be-faked-haydn.html
+
+“LiveNote™--The Philadelphia Orchestra's Concert Hall Mobile App.” The Philadelphia Orchestra YouTube Channel. October 2, 2014. https://www.youtube.com/watch?v=5qr4xTje6RA
+
+Margulis, Elizabeth Hellmuth. “When Program Notes Don’t Help: Music Descriptions and Enjoyment.” Psychology of Music 38, no. 3 (2010): 285–302.
+
+“The ‘Millennial Whoop’ Is Taking Over Pop Music.” Quartz YouTube Channel. August 28, 2016. https://www.youtube.com/watch?v=MN23lFKfpck
+
+“Music & Lyrics by Stewie Griffin | Season 7 | Family Guy.” Fox YouTube Channel. February 13, 2009. https://www.youtube.com/watch?v=6RmO6fc-FdE
+
+“Program Books.” Chicgo Symphony Orchestra Sounds and Stories. Accessed September 20, 2017. https://csosoundsandstories.org/category/program-books/
+
+Richards, Mark. “Film Music Notes.” Accessed September 20, 2017. http://www.filmmusicnotes.com
+
+Schoenberg, Arnold. “My Evolution.” VR29. Arnold Schönberg Center, Vienna. Accessed September 20, 2017. http://www.schoenberg.at/index.php/en/?option=com_content&view=article&id=965:vr01
+
+Siegemund-Broka, Austin. “How Similar Is 'Blurred Lines' to a 1977 Marvin Gaye Hit?” The Hollywood Reporter. March 3, 2015. http://www.hollywoodreporter.com/thr-esq/how-similar-is-blurred-lines-778635
+
+Sinclair, Mark. “How the Toronto Symphony Orchestra Uses Graphic Design to Guide Audiences.” Creative Review. April 26, 2016. https://www.creativereview.co.uk/how-the-toronto-symphony-orchestra-uses-graphic-design-to-guide-its-audiences-though-its-music/
+
+“Surprisingly Awesome #10 Circle of Fifths.” Gimlet Media. April 5, 2016. https://gimletmedia.com/episode/10-circle-of-fifths/
+
+Thompkins, Gwen. “How ‘Accidental’ Notes Grab Our Attention.” NPR. December 20, 2015. http://www.npr.org/2015/12/20/460163750/how-accidental-notes-grab-our-attention
+
+Thorau, Christian. “Guides for Wagnerites: Leitmotifs and Wagnerian Listening.” In Richard Wagner and His World. Ed. Thomas S. Grey, 133–150. Princeton: Princeton University Press, 2009.
+
+Tovey, Donald Francis. Essays in Musical Analysis. London: Oxford University Press, 1935–39.
+
+Waxman, Jonathan. “Prefacing Music in the Concert Hall: Program Books, Composer Commentaries, and the Conflict over Musical Meaning.” Ph.D. Diss., New York University, 2012.
+
+
+
+
 This work is copyright ©2017 J. Daniel Jenkins and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/).
