@@ -43,6 +43,8 @@ Bain, Ken. 2014. [“How to Learn Deeply and Foster Deep Learning in Others.”]
 
 Bandura, Albert, and Dale H. Schunk. 1981. [“Cultivating Competence, Self-efficacy, and Intrinsic Interest through Proximal Self-Motivation.”](http://psycnet.apa.org/record/1982-07527-001) *Journal of Personality and Social Psychology* 41 (3): 586-598.
 
+Bakker, Sara, and Timothy Chenette. 2014. [“Writing Across the Music Theory Curriculum.”](http://flipcamp.org/engagingstudents2/essays/bakkerchenette.html) *Engaging Students: Essays in Music Pedagogy* 2.
+
 Barkley, Elizabeth F., K. Patricia Cross, and Claire Howell Major. 2005. [*Collaborative Learning Techniques: A Practical Guide to Promoting Learning in Groups.*](https://openlibrary.org/works/OL17728748W/Collaborative_learning_techniques) San Francisco, CA: Jossey Bass Publishers.
 
 Bathgate, Meghan, Judith Sims-Knight, and Christian Schunn. 2012. [“Thoughts on Thinking: Engaging Novice Music Students in Metacognition.”](http://onlinelibrary.wiley.com/doi/10.1002/acp.1842/abstract) *Applied Cognitive Psychology* 26: 403-409.
@@ -125,11 +127,15 @@ Duker, Philip, and Daniel Stevens. 2017. ["Scaling to Real Music: Rebuilding Aur
 
 Dunlosky, John, and Janet Metcalfe. 2009. [*Metacognition.*](https://books.google.ca/books?id=xHtJADBpp-IC&source=gbs_similarbooks) Los Angeles: Sage.
 
+Eckert, Stefan. 2005. [““So, you want to write a Minuet?” - Historical Perspectives in Teaching Theory.”](http://www.mtosmt.org/issues/mto.05.11.2/mto.05.11.2.eckert_frames.html) *Music Theory Online* 11 (2). 
+
 Eckleberry-Hunt, Jodie, and Jennifer Tucciarone. 2011. [“The Challenges and Opportunities of Teaching ‘Generation Y.’”](http://www.jgme.org/doi/abs/10.4300/JGME-03-04-15?code=gmed-site) *Journal of Graduate Medical Education* 3(4): 458-61. 
 
 Edgarton, R. 2001. ["Education White Paper."](http://www.faculty.umb.edu/john_saltmarsh/resources/Edgerton%20Higher%20Education%20White%20Paper.rtf) Accessed June 27, 2017.
 
 Eyler, Janet and Dwight E. Giles, Jr. 1999. [*Where’s the Learning in Service-Learning?*](https://openlibrary.org/books/OL24755192M/Where's_the_learning_in_service-learning) San Francisco: Jossey-Bass.
+
+Eyler, Janet, Dwight Giles Jr., Christine Stenson, and Charlene Gray. 2001. [“At a Glance: What we Know about the Effects of Service-Learning on College Students, Faculty, Institutions and Communities, 1993-2000: Third Edition."](http://www.compact.org/wp-content/uploads/resources/downloads/aag.pdf) Campus Compact, Vanderbilt University.
 
 Faust, Jennifer L., and Donald R. Paulson. 1998. [“Active Learning in the College Classroom.”](https://www.ydae.purdue.edu/lct/HBCU/documents/Active_Learning_in_College_Classrooms.pdf) *Journal on Excellence in College Teaching* 9 (2): 3-24.
 
@@ -156,6 +162,8 @@ Forte, Allen. 1973. [*The Structure of Atonal Music.*](https://openlibrary.org/b
 Forney, Kristine, Andrew Dell'Antonio, and Joseph Machlis. 2016. [*The Enjoyment of Music: Essential Listening Edition.*](https://openlibrary.org/works/OL4466706W/The_Enjoyment_of_Music) Third edition. New York: W. W. Norton.
 
 Gawboy, Anna. 2014. ["The Musical Opus as Opus: Organicist Analysis and the Hermetic Tradition."](http://www.ams-net.org/abstracts/2014-Milwaukee.pdf) Paper presented at the annual meeting of the Society for Music Theory, Milwaukee, WI.
+
+Gjerdingen, Robert. 2007. [*Music in the Galant Style.*](https://openlibrary.org/books/OL18014958M/Music_in_the_galant_style) New York: Oxford University Press.
 
 Goodman, Kathleen, and Ernest T. Pascarella. [“First-Year Seminars Increase Persistence and Retention: A Summary of the Evidence from How College Affects Students.”](https://www.aacu.org/publications-research/periodicals/first-year-seminars-increase-persistence-and-retention-summary) Association of American Colleges & Universities. 
 
@@ -185,6 +193,8 @@ Haefeli, Sara. 2016. ["From Answers to Questions: Fostering Student Creativity a
 
 Han, Lei. 2011. ["Soft Skills List – 28 Skills to Working
 Smart."](https://bemycareercoach.com/soft-skills/list-soft-skills.html) *Soft Skills – Ask a Wharton MBA*. Personal Blog. Accessed June 29, 2017.
+
+Hein, Ethan. [“Against Music Theory.”](http://www.ethanhein.com/wp/2013/against-music-theory/) The Ethan Hein Blog, October 10, 2013. Accessed June 26, 2017.
 
 Hoag, Melissa E. 2012. [“Seven Strategies for Enabling Student Success in the First-Year Music Theory Sequence.”](https://drive.google.com/file/d/0B0ZI8di-pEDvV0FqLW10cmNpckE/view) *Music Theory Pedagogy Online* 1.
 
@@ -250,6 +260,10 @@ Miranda, Lin-Manuel. 2015a. Twitter post, @Lin\_Manuel(#MrowbackMonday In 2008 I
 
 Miranda, Lin-Manuel, and Jeremy McCarter. 2016. [Hamilton: The Revolution](https://openlibrary.org/works/OL17366209W/Hamilton). New York: Grand Central Publishing.
 
+Miyake, Jan. 2014. [“Weekly (or more) Writing in the Music Theory Classroom.”](http://flipcamp.org/engagingstudents2/essays/miyake2.html) *Engaging Students: Essays in Music Pedagogy* 2.
+
+Moely, Barbara, Megan McFarland, Devi Miron, Sterett Mercer, and Vincent Ilustre. 2002. [“Changes in College Students’ Attitudes and Intentions for Civic Involvement as a Function of Service-Learning Experiences.”](http://quod.lib.umich.edu/m/mjcsl/3239521.0009.102/1/--changes-in-college-students-attitudes-and-intentions-for?rgn=full+text;view=image) *Michigan Journal of Community Service Learning* 9 (1): 18-26.
+
 Morris, Robert D. 1991. [Class Notes for Atonal Music Theory](https://openlibrary.org/works/OL4969787W/Class_notes_for_atonal_music_theory). Hanover, NH: Frog Peak Music.
 
 ———. 1987. [Composition with Pitch Classes: A Theory of Compositional Design](https://openlibrary.org/books/OL2386927M/Composition_with_pitch-classes). New Haven: Yale University Press.
@@ -298,11 +312,15 @@ Rahn, Jay, and James R. McKay. 1988. [“The Guide-Tone Method: An Approach to H
 
 Renwick, James M., and Gary E. McPherson. 2002. [“Interest and Choice: Student-Selected Repertoire and Its Effect on Practising Behaviour.”](http://www.academia.edu/30238508/Renwick_and_McPherson_2002_BJME.pdf) *British Journal of Music Education* 19 (2): 173–88.
 
+Rifkin, Deborah. 2014. [“Cultivating Creativity in the Music Theory Classroom: Telling Tales with Texture and Timbre.”](http://flipcamp.org/engagingstudents2/essays/rifkin.html) *Engaging Students: Essays in Music Pedagogy* 2.
+
 Robin, William. 2017. [“What Controversial Changes at Harvard Mean for Music in the University.”](http://thelogjournal.com/2017/04/25/what-controversial-changes-at-harvard-means-for-music-in-the-university/) *The Log Journal.* Accessed July 13, 2017.
 
 Rogers, Michael R. (2004). [*Teaching Approaches in Music Theory: An overview of Pedagogical Philosophies.*](http://openlibrary.org/works/OL5595277W/Teaching_approaches_in_music_theory) Second edition. Carbondale, IL: Southern Illinois University Press.
 
-Rogers, Nancy. 2008. [“How Structured Improvisation Can Improve Sight Singing Performance (and More).”](http://apcentral.collegeboard.com/apc/public/repository/Music_Teaching_Sight_Singing_SF.pdf) In *Teaching Sight Singing,* 49–58. New York: The College Board, 2008. Accessed April 7, 2015.
+Rogers, Nancy. 2013. [“Modernizing the Minuet Composition Project.”](https://drive.google.com/file/d/0B0ZI8di-pEDvSU5vRG9nbVg3ZFk/view) *Journal of Music Theory Pedagogy* 27: 71-110.
+
+———. 2008. [“How Structured Improvisation Can Improve Sight Singing Performance (and More).”](http://apcentral.collegeboard.com/apc/public/repository/Music_Teaching_Sight_Singing_SF.pdf) In *Teaching Sight Singing,* 49–58. New York: The College Board, 2008. Accessed April 7, 2015.
 
 Root, Jena. 2016. [“The Chromatic Sing Along.”](https://music.appstate.edu/about/jmtp/chromatic-sing-along) *Music Theory Pedagogy Online.* 
 
@@ -340,6 +358,8 @@ Seaton, Douglass. 2015. [“Reconsidering Undergraduate Music History: Some Intr
 
 ———. 2012. “Core Music Curriculum Components II: History and Repertory: A Survey and Some Questions.” In *Proceedings: The 87th Annual Meeting, 2011,* 23–26. Reston, VA: The National Association of Schools of Music.
 
+Shaffer, Kris. [“Writing Assignments for Semester 4 Theory (MUSC 2111).”](http://courses.shaffermusic.com/mt4-writing.html) Course Material: Theory & Aural Skills, CU-Boulder College of Music. Accessed June 26, 2017.
+
 Shaffer, Kris and Bryn Hughes. 2013. [“Flipping the Classroom: Three Methods.”](http://flipcamp.org/engagingstudents/shafferintro.html) *Engaging Students: Essays in Music Pedagogy* 1.
 
 Shaffer, Kris, Bryn Hughes, and Brian Moseley. [*Open Music Theory.*](http://openmusictheory.com/) Edited by Kris Shaffer and Robin Wharton. Hybrid Pedagogy Publishing.
@@ -371,6 +391,10 @@ UMass Amherst Libraries. ["UMass Library Open Education Initiative."](https://ww
 United Nations General Assembly. 1948. ["Universal Declaration of Human Rights."](http://www.un.org/en/universal-declaration-human-rights/)
 
 University of Minnesota Center for Open Education. ["Open Textbook Library."](https://open.umn.edu/opentextbooks/) Accessed May 30, 2017.
+
+[“What is Community-Engaged Learning?”](https://www.binghamton.edu/cce/faculty/engaged-teaching/course-development/index.html) Center for Civic Engagement, Binghamton University, The State University of New York. Accessed June 26, 2017.
+
+[“What is Service Learning or Community Engagement?”](https://cft.vanderbilt.edu/guides-sub-pages/teaching-through-community-engagement/) Center for Teaching, Vanderbilt University. Accessed June 26, 2017.
 
 WICHE Cooperative for Educational Technologies (WCET). [“North Dakota Open Educational Resources Initiative: A System-wide Success Story.”](https://wcetfrontiers.org/2016/08/23/north-dakota-open-educational-resources-initiative-a-system-wide-success-story/) Accessed May 30, 2017.
 

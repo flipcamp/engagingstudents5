@@ -10,9 +10,6 @@ author: Janet Bourne, University of California, Santa Barbara
 
 **{{ page.author }}**
 
-<a href="https://twitter.com/share" class="twitter-share-button" data-via="FlipCampMT">Tweet</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-
 What if students took music theory out of the classroom, rehearsal room and practice room and into a public space? What could that look like? Community-engaged learning (CEL)—or service learning—combines "[learning goals and community service in ways that can enhance both student growth and the common good](https://cft.vanderbilt.edu/guides-sub-pages/teaching-through-community-engagement/)." The definition of community is broad. It could be "[local, regional/state, national, global](http://www.usf.edu/engagement/community/definitions.aspx)." It is no surprise why CEL has become popular in many higher education institutions considering the many benefits to student learning. One [meta-study](http://www.compact.org/wp-content/uploads/resources/downloads/aag.pdf) found that CEL increases student personal growth through identity, spiritual growth, moral development, and personal efficacy and at the same time it builds interpersonal, leadership and communication skills. Not only that, but according to [one study](http://quod.lib.umich.edu/m/mjcsl/3239521.0009.102/1/--changes-in-college-students-attitudes-and-intentions-for?rgn=full+text;view=image), students claim greater satisfaction and report that they learned more about the field in a CEL course than similar students not in a CEL course.
 
 A community-engaged course involves [four components](https://www.binghamton.edu/cce/faculty/engaged-teaching/course-development/index.html):
@@ -83,79 +80,5 @@ Finally, here are other ways that students could practice CEL in a music theory 
 Usually, first-time projects need some tweaking. Next time, I will encourage students to connect their learning experience to their service experience: either I will make students’ written reflection a larger part of the project or create more time for students to debrief with each other in class. Also, I will ask students to talk to each other more about the CEL component, especially for the Wikipedia edit, which was mostly a solitary task. For example, one could ask students to peer review each other’s Wikipedia additions in class before publishing them.
 
 Incorporating CEL was immensely rewarding for me as a faculty member. I enjoyed seeing students not only connect to others outside the academy, but also help them. They learned material better since the CEL base made projects come alive. And they paid more attention to the assignments since they knew that their minuets would be performed before others and that their analyses would be published on Wikipedia. Also, CEL was a natural outlet to help students develop their ability to write and talk about music. Although musicians learn theory partly to better communicate with others, teaching writing is often ignored in theory courses (although see [Bakker and Chenette](http://flipcamp.org/engagingstudents2/essays/bakkerchenette.html) as well as [Miyake](http://flipcamp.org/engagingstudents2/essays/miyake2.html)). Finally, students sometimes assume that music theory is [irrelevant, pointless](http://www.ethanhein.com/wp/2013/against-music-theory/) or [uncreative](http://flipcamp.org/engagingstudents2/essays/rifkin.html). For me, CEL helped students see that this is not true. Music has the ability to touch the community. Perhaps instructors could help bring music theory out of the classroom and more into the community.
-
-## Works Cited
-
-
-Bakker, Sara, and Timothy Chenette. 2014. [*“Writing Across the Music
-Theory
-Curriculum.”*](http://flipcamp.org/engagingstudents2/essays/bakkerchenette.html)
-*Engaging Students: Essays in Music Pedagogy* 2.
-
-[*“Community -
-Definitions.”*](http://www.usf.edu/engagement/community/definitions.aspx)
-Office of Community Engagement and Partnerships, University of South
-Florida. Accessed June 26, 2017.
-
-Eckert, Stefan. 2005. [*““So, you want to write a Minuet?” - Historical
-Perspectives in Teaching
-Theory.”*](http://www.mtosmt.org/issues/mto.05.11.2/mto.05.11.2.eckert_frames.html)
-*Music Theory Online* 11 (2). Accessed June 26, 2017.
-
-Eyler, Janet, Dwight Giles Jr., Christine Stenson, and Charlene Gray.
-2001. [*“At a Glance: What we Know about the Effects of Service-Learning
-on College Students, Faculty, Institutions and Communities, 1993-2000:
-Third
-Edition.”*](http://www.compact.org/wp-content/uploads/resources/downloads/aag.pdf)
-Campus Compact, Vanderbilt University. Accessed June 26, 2017.
-
-Gjerdingen, Robert. 2007. [*Music in the Galant
-Style.*](https://openlibrary.org/books/OL18014958M/Music_in_the_galant_style)
-New York: Oxford University Press.
-
-Hein, Ethan. [*“Against Music
-Theory.”*](http://www.ethanhein.com/wp/2013/against-music-theory/) *The
-Ethan Hein Blog*, October 10, 2013. Accessed June 26, 2017.
-
-Miyake, Jan. 2014. [*“Weekly (or more) Writing in the Music Theory
-Classroom.”*](http://flipcamp.org/engagingstudents2/essays/miyake2.html)
-*Engaging Students: Essays in Music Pedagogy* 2.
-
-Moely, Barbara, Megan McFarland, Devi Miron, Sterett Mercer, and Vincent
-Ilustre. 2002. [*“Changes in College Students’ Attitudes and Intentions
-for Civic Involvement as a Function of Service-Learning
-Experiences.”*](http://quod.lib.umich.edu/m/mjcsl/3239521.0009.102/1/--changes-in-college-students-attitudes-and-intentions-for?rgn=full+text;view=image)
-*Michigan Journal of Community Service Learning* 9 (1): 18-26.
-
-Rifkin, Deborah. 2014. [*“Cultivating Creativity in the Music Theory
-Classroom: Telling Tales with Texture and
-Timbre.”*](http://flipcamp.org/engagingstudents2/essays/rifkin.html)
-*Engaging Students: Essays in Music Pedagogy* 2.
-
-Rogers, Nancy. 2013. [*“Modernizing the Minuet Composition
-Project.”*](https://drive.google.com/file/d/0B0ZI8di-pEDvSU5vRG9nbVg3ZFk/view)
-*Journal of Music Theory Pedagogy* 27: 71-110.
-
-Shaffer, Kris. [*“Writing Assignments for Semester 4 Theory (MUSC
-2111).”*](http://courses.shaffermusic.com/mt4-writing.html) Course
-Material: Theory & Aural Skills, CU-Boulder College of Music. Accessed
-June 26, 2017.
-
-[*“What is Community-Engaged
-Learning?”*](https://www.binghamton.edu/cce/faculty/engaged-teaching/course-development/index.html)
-Center for Civic Engagement, Binghamton University, The State University
-of New York. Accessed June 26, 2017.
-
-[*“What is Service Learning or Community
-Engagement?”*](https://cft.vanderbilt.edu/guides-sub-pages/teaching-through-community-engagement/)
-Center for Teaching, Vanderbilt University. Accessed June 26, 2017.
-
-Wikipedia contributors.
-[*“Help:Editing.”*](https://en.wikipedia.org/wiki/Help:Editing)
-*Wikipedia, The Free Encyclopedia*. Accessed June 26, 2017.
-
-Wikipedia contributors. [*“Sinfonia
-(Berio).”*](https://en.wikipedia.org/wiki/Sinfonia_(Berio)) *Wikipedia,
-The Free Encyclopedia*. Accessed June 26, 2017.
 
 This work is copyright ⓒ2017 Janet Bourne and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
