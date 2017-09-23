@@ -39,6 +39,8 @@ Babson Survey Research Group. 2016. ["Opening the Textbook: Open Education Resou
 
 Bailyn, Bernard. 1982. ["The Challenge of Modern Historiography."](https://academic.oup.com/ahr/article-abstract/87/1/1/118760/The-Challenge-of-Modern-Historiography?redirectedFrom=fulltext) *The American Historical Review* 87 (1): 1-24.
 
+Bain, Ken. 2014. [“How to Learn Deeply and Foster Deep Learning in Others.”](http://ctl.uga.edu/pages/archive/how-to-learn-deeply-and-foster-deep-learning-in-others) Accessed June 25, 2017.
+
 Bandura, Albert, and Dale H. Schunk. 1981. [“Cultivating Competence, Self-efficacy, and Intrinsic Interest through Proximal Self-Motivation.”](http://psycnet.apa.org/record/1982-07527-001) *Journal of Personality and Social Psychology* 41 (3): 586-598.
 
 Barkley, Elizabeth F., K. Patricia Cross, and Claire Howell Major. 2005. [*Collaborative Learning Techniques: A Practical Guide to Promoting Learning in Groups.*](https://openlibrary.org/works/OL17728748W/Collaborative_learning_techniques) San Francisco, CA: Jossey Bass Publishers.
@@ -105,6 +107,8 @@ Davis, James A., ed. 2012. [*The Music History Classroom.*](https://openlibrary.
 
 Delisle, Robert. 1997. [*How to Use Problem-Based Learning in the Classroom.*](https://openlibrary.org/works/OL2734590W/How_to_use_problem-based_learning_in_the_classroom) Alexandria VA: Association for Supervision and Curriculum Development.
 
+diBenedetti, Gil. [*Contextual Listening.*](http://gmajormusictheory.org/Listening/Listeningindex.html) Accessed June 25, 2017.
+
 Dimeo, Jean. 2017. [“Turning Point for OER Use?”](https://www.insidehighered.com/digital-learning/article/2017/04/19/new-yorks-decision-spend-8-million-oer-turning-point) *Inside Higher Ed.*
 
 Doubek, James. 2016. [“Attention, Students: Put Your Laptops Away.”](http://www.npr.org/2016/04/17/474525392/attention-students-put-your-laptops-away) Transcription of Weekend Edition Sunday broadcast. Accessed June 14, 2017. 
@@ -128,6 +132,8 @@ Edgarton, R. 2001. ["Education White Paper."](http://www.faculty.umb.edu/john_sa
 Eyler, Janet and Dwight E. Giles, Jr. 1999. [*Where’s the Learning in Service-Learning?*](https://openlibrary.org/books/OL24755192M/Where's_the_learning_in_service-learning) San Francisco: Jossey-Bass.
 
 Faust, Jennifer L., and Donald R. Paulson. 1998. [“Active Learning in the College Classroom.”](https://www.ydae.purdue.edu/lct/HBCU/documents/Active_Learning_in_College_Classrooms.pdf) *Journal on Excellence in College Teaching* 9 (2): 3-24.
+
+Feichas, Heloisa. 2010. [“Bridging the Gap: Informal Learning Practices as a Pedagogy of Integration.”](https://www.cambridge.org/core/journals/british-journal-of-music-education/article/bridging-the-gap-informal-learning-practices-as-a-pedagogy-of-integration/51C386256F156707531FD57E9DDE2B44/core-reader) *British Journal of Music Education* 27 (1): 47–58.
 
 [“First-Year Seminar.”](https://www.dickinson.edu/homepage/99/first_year_seminars) Dickinson College website. Accessed August 2, 2017. 
 
@@ -200,6 +206,8 @@ Joughin, Gordon. 2007. ["Student Conceptions of Oral Presentations."](http://dx.
 
 Kaplan, Matthew, Naomi Silver, Danielle LaVaque-Manty, and Deborah Meizlish. 2013. [*Using Reflection and Metacognition to Improve Student Learning.*](https://www.amazon.ca/Reflection-Metacognition-Improve-Student-Learning/dp/1579228259) Sterling, VA: Stylus.
 
+Karpinski, Gary. 2000. [*Aural Skills Acquisition.*](https://openlibrary.org/books/OL26354764M/Aural_Skills_Acquisition) New York: Oxford University Press.
+
 Kasinitz, Philip. 2016. ["*Hamilton*: Diverse America and the Second Generation Advantage."](http://www.brooklyn.cuny.edu/web/academics/centers/hitchcock/publications/amr/v46-1/kasinitz.php) *American Music Review* 46 (1).
 
 Kostka, Stefan, Dorothy Payne, and Byron Almen. 2018. [*Tonal Harmony with an Introduction to Post-Tonal Music.*](http://www.mheducation.com/highered/product/M125944709X.html) Eighth edition. New York: McGraw-Hill Education.
@@ -208,11 +216,15 @@ Krims, Adam. 2000. [*Rap Music and the Poetics of Identity.*](https://openlibrar
 
 Laitz, Steven G. (2016). [*The Complete Musician: An Integrated Approach to Theory, Analysis, and Listening.*](https://global.oup.com/ushe/product/the-complete-musician-9780199347094?cc=ca&lang=en&) Fourth edition. New York: Oxford University Press.
 
+Levitin, Daniel. 2008. [*This Is Your Brain on Music.*](https://openlibrary.org/works/OL7952954W/This_Is_Your_Brain_on_Music) New York: Dutton Penguin.
+
 Lewin, David. 1990. [“Klumpenhouwer Networks and Some Isographies that Involve Them.”](http://www.jstor.org/stable/746147?seq=1#page_scan_tab_contents) *Music Theory Spectrum* 12 (1): 83-120.
 
 ———. 1986. [“Music Theory, Phenomenology, and Modes of Perception.”](http://mp.ucpress.edu/content/3/4/327) *Music Perception: An Interdisciplinary Journal* 3 (4): 327-392.
 
 Lowe, Melanie. 2015. [“Rethinking the Undergraduate Music History Sequence in the Information Age.”](http://www.ams-net.org/ojs/index.php/jmhp/article/view/177) *The Journal of Music History Pedagogy* 5 (2): 65-71.
+
+The Lumineers. 2012. [*Ho Hey.*](https://youtu.be/zvCBSSwgtg4) Dualtone Music Group. Accessed June 25, 2017.
 
 Macan, Therese H., Comila Shahani, Robert L. Dipboye, Amanda P. Phillips. 1990. [“College Students' Time Management: Correlations with Academic Performance and Stress.”](https://eric.ed.gov/?id=EJ440473) *Journal of Educational Psychology* 82 (4): 760-68.
 
@@ -284,6 +296,8 @@ Pogonowski, Lenore. 1989. “Metacognition: A Dimension of Musical Thinking.” 
 
 Rahn, Jay, and James R. McKay. 1988. [“The Guide-Tone Method: An Approach to Harmonic Dictation.”](https://music.appstate.edu/about/jmtp/jmtp-volume-2) *Journal of Music Theory Pedagogy* 2: 101–111.
 
+Renwick, James M., and Gary E. McPherson. 2002. [“Interest and Choice: Student-Selected Repertoire and Its Effect on Practising Behaviour.”](http://www.academia.edu/30238508/Renwick_and_McPherson_2002_BJME.pdf) *British Journal of Music Education* 19 (2): 173–88.
+
 Robin, William. 2017. [“What Controversial Changes at Harvard Mean for Music in the University.”](http://thelogjournal.com/2017/04/25/what-controversial-changes-at-harvard-means-for-music-in-the-university/) *The Log Journal.* Accessed July 13, 2017.
 
 Rogers, Michael R. (2004). [*Teaching Approaches in Music Theory: An overview of Pedagogical Philosophies.*](http://openlibrary.org/works/OL5595277W/Teaching_approaches_in_music_theory) Second edition. Carbondale, IL: Southern Illinois University Press.
@@ -292,11 +306,15 @@ Rogers, Nancy. 2008. [“How Structured Improvisation Can Improve Sight Singing 
 
 Root, Jena. 2016. [“The Chromatic Sing Along.”](https://music.appstate.edu/about/jmtp/chromatic-sing-along) *Music Theory Pedagogy Online.* 
 
+———. 2014. [*Applied Music Fundamentals: Writing, Singing, and Listening.*](https://openlibrary.org/works/OL17756487W/Applied_Music_Fundamentals) New York: Oxford University Press.
+
 Roust, Colin. 2016. [“Toward a Skills-Based Curriculum: Recent Trends in Music History Pedagogy.”](http://musicadocta.unibo.it/article/view/6575/6372) *Musica Docta* 4: 105-108. 
 
 ———. 2013. [“Creating Illusions: Practical Approaches to Teaching ‘Added Value’ in Audiovisual Artworks.”](http://flipcamp.org/engagingstudents/roust.html) *Engaging Students: Essays in Music Pedagogy* 1.
 
 Rosen, Jody. 2015. ["The American Revolutionary."](https://www.nytimes.com/interactive/2015/07/08/t-magazine/hamilton-lin-manuel-miranda-roots-sondheim.html) July 8. *The New York Times Style Magazine.* 
+
+Santa, Matthew. 2017. [*Hearing Form.*](https://openlibrary.org/works/OL17756488W/Hearing_Form_Musical_Analysis_with_and_Without_the_Score_2nd_edition) Second edition. New York: Routledge.
 
 Savery, John R. 2006. ["Overview of Problem-Based Learning: Definitions and Distinctions."](http://docs.lib.purdue.edu/ijpbl/vol1/iss1/3/) *The Interdisciplinary Journal of Problem-Based Learning* 1 (1).
 
