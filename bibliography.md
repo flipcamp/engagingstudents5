@@ -47,6 +47,8 @@ Bringle, Robert G. and Julie A. Hatcher. 1995. ["A Service-Learning Curriculum f
 
 Briscoe, James R., ed. 2010. *Vitalizing Music History Teaching.* Hillsdale, NY: Pendragon Press.
 
+Brown, Leann. 2013. [“Student Stress High at OU.”](http://oaklandpostonline.com/4563/life/student-stress-high-at-ou/) *Oakland Post Online.* Accessed June 24, 2017.  
+
 Bruffee, Kenneth A. 1999. [*Collaborative Learning: Higher Education, Interdependence, and the Authority of Knowledge.*](https://openlibrary.org/works/OL2030323W/Collaborative_Learning) Baltimore, MD: Johns Hopkins University Press.
 
 Burkholder, J. Peter. 2015. ["The Value of a Music History Survey."](http://www.ams-net.org/ojs/index.php/jmhp/article/view/175) *The Journal of Music History Pedagogy* 5 (2): 57-63. 
@@ -73,6 +75,8 @@ Davis, James A., ed. 2012. [*The Music History Classroom.*](https://openlibrary.
 
 Delisle, Robert. 1997. [*How to Use Problem-Based Learning in the Classroom.*](https://openlibrary.org/works/OL2734590W/How_to_use_problem-based_learning_in_the_classroom) Alexandria VA: Association for Supervision and Curriculum Development.
 
+Doubek, James. 2016. [“Attention, Students: Put Your Laptops Away.”](http://www.npr.org/2016/04/17/474525392/attention-students-put-your-laptops-away) Transcription of Weekend Edition Sunday broadcast. Accessed June 14, 2017. 
+
 Drucker, Mike, and Travon Free. 2016. [*The Rooms Where It’s Happening: A Hamilton Fan Podcast.*](http://www.earwolf.com/show/the-room-where-its-happening/) Earwolf.
 
 Duch, Barbara J., Susan E. Groh, and Deborah E. Allen, eds. 2001. [*The Power of Problem-Based Learning: A Practical “How To” for Teaching Undergraduate Courses in any Discipline.*](https://openlibrary.org/works/OL16969811W/The_power_of_problem-based_learning) Sterling, VA: Stylus.
@@ -87,6 +91,16 @@ Edgarton, R. 2001. ["Education White Paper."](http://www.faculty.umb.edu/john_sa
 
 Eyler, Janet and Dwight E. Giles, Jr. 1999. [*Where’s the Learning in Service-Learning?*](https://openlibrary.org/books/OL24755192M/Where's_the_learning_in_service-learning) San Francisco: Jossey-Bass.
 
+[“First-Year Seminar.”](https://www.dickinson.edu/homepage/99/first_year_seminars) Dickinson College website. Accessed August 2, 2017. 
+
+[“First Year Seminar.”](http://msb.georgetown.edu/programs/undergraduate/academics/first-year-seminar) Georgetown University website. Accessed June 14, 2017. 
+
+[“First-Year Seminars.”](https://www.gettysburg.edu/academics/firstyear_seminars/) Gettysburg College website. Accessed June 14, 2017. 
+
+[“First Year Seminars.”](http://www.highpoint.edu/firstyearprograms/firstyearseminars/) High Point University website. Accessed June 14, 2017. 
+
+[“First-Year Seminars & Experiences.”](http://www.ucdenver.edu/student-services/resources/ue/early-alert/Documents/FYS%20for%20UES.pdf) University of Colorado-Denver Student Services website. Accessed June 14, 2017. 
+
 Forman, Murray, and Mark Anthony Neal, eds. 2004. [*That’s the Joint! The Hip-Hop Studies Reader.*](https://openlibrary.org/works/OL15936899W/That's_the_joint!) New York: Routledge.
 
 Forte, Allen. 1973. [*The Structure of Atonal Music.*](https://openlibrary.org/books/OL5307893M/The_structure_of_atonal_music.) New Haven: Yale University Press.
@@ -96,6 +110,8 @@ Forte, Allen. 1973. [*The Structure of Atonal Music.*](https://openlibrary.org/b
 Forney, Kristine, Andrew Dell'Antonio, and Joseph Machlis. 2016. [*The Enjoyment of Music: Essential Listening Edition.*](https://openlibrary.org/works/OL4466706W/The_Enjoyment_of_Music) Third edition. New York: W. W. Norton.
 
 Gawboy, Anna. 2014. ["The Musical Opus as Opus: Organicist Analysis and the Hermetic Tradition."](http://www.ams-net.org/abstracts/2014-Milwaukee.pdf) Paper presented at the annual meeting of the Society for Music Theory, Milwaukee, WI.
+
+Goodman, Kathleen, and Ernest T. Pascarella. [“First-Year Seminars Increase Persistence and Retention: A Summary of the Evidence from How College Affects Students.”](https://www.aacu.org/publications-research/periodicals/first-year-seminars-increase-persistence-and-retention-summary) Association of American Colleges & Universities. 
 
 Gosden, Stephen. 2013. ["The ‘Technology Tools’ Session at FlipCamp Music Theory."](http://flipcamp.org/engagingstudents/gosden.html) *Engaging Students: Essays in Music Pedagogy* 1.
 
@@ -114,6 +130,8 @@ Haefeli, Sara. 2016. ["From Answers to Questions: Fostering Student Creativity a
 Han, Lei. 2011. ["Soft Skills List – 28 Skills to Working
 Smart."](https://bemycareercoach.com/soft-skills/list-soft-skills.html) *Soft Skills – Ask a Wharton MBA*. Personal Blog. Accessed June 29, 2017.
 
+Hoag, Melissa E. 2012. [“Seven Strategies for Enabling Student Success in the First-Year Music Theory Sequence.”](https://drive.google.com/file/d/0B0ZI8di-pEDvV0FqLW10cmNpckE/view) *Music Theory Pedagogy Online* 1.
+
 Hindman, Dorothy. 2009. [“Meeting Community and Campus Needs through Service Learning and Beginning Music Theory.”](https://symposium.music.org/index.php?option=com_k2&view=item&id=9269:meeting-community-and-campus-needs-through-service-learning-and-beginning-music-theory&Itemid=124) *College Music Symposium* 49: 41-53.
 
 Huxham, Mark, Fiona Campbell, and Jenny Westwood. 2012. ["Oral Versus Written Assessments: A Test of Student Performance and Attitudes."](http://dx.doi.org/10.1080/02602938.2010.515012) *Assessment and Evaluation in Higher Education* 37 (1): 125-136.
@@ -121,6 +139,8 @@ Huxham, Mark, Fiona Campbell, and Jenny Westwood. 2012. ["Oral Versus Written As
 Iannone, Paola, and Adrian Simpson. 2013. ["Students' Perceptions of Assessment in Undergraduate Mathematics."](http://dx.doi.org/10.1080/14794802.2012.756634) *Research in Mathematics Education* 15 (1): 17-33.
 
 ———. 2012. ["Oral Assessment in Mathematics: Implementation and Outcomes."](https://doi.org/10.1093/teamat/hrs012) *Teaching Mathematics and Its Applications* 31 (4): 179-190.
+
+Jaijairam, Paul. 2016. [“First-Year Seminar (FYS)—The Advantages That This Course Offers.”](http://files.eric.ed.gov/fulltext/EJ1092432.pdf) *Journal of Education and Learning* 5 (2): 15-23.
 
 Johnson, Vicky. 2015. [“Proficiency-Based Learning with Muscle in a Music Theory Classroom.”](http://flipcamp.org/engagingstudents3/essays/johnson.html) *Engaging Students: Essays in Music Pedagogy* 3.
 
@@ -136,7 +156,13 @@ Lewin, David. 1990. [“Klumpenhouwer Networks and Some Isographies that Involve
 
 Lowe, Melanie. 2015. [“Rethinking the Undergraduate Music History Sequence in the Information Age.”](http://www.ams-net.org/ojs/index.php/jmhp/article/view/177) *The Journal of Music History Pedagogy* 5 (2): 65-71.
 
+Macan, Therese H., Comila Shahani, Robert L. Dipboye, Amanda P. Phillips. 1990. [“College Students' Time Management: Correlations with Academic Performance and Stress.”](https://eric.ed.gov/?id=EJ440473) *Journal of Educational Psychology* 82 (4): 760-68.
+
 Madsen, Clifford K. and John M. Geringer. 2001. [“A Focus of Attention Model for Meaningful Listening.”](http://www.jstor.org/stable/40319396?seq=1#page_scan_tab_contents) *Bulletin of the Council for Research in Music Education* 147: 103–108.
+
+May, Cindi. 2014. [“A Learning Secret: Don’t Take Notes with a Laptop.”](https://www.scientificamerican.com/article/a-learning-secret-don-t-take-notes-with-a-laptop/) *Scientific American.* 
+
+McKean, Michelle, and Ranjita Misra. 2000. [“College Students’ Academic Stress and its Relation to their Anxiety, Time Management, and Leisure Satisfaction.”](http://www.biomedsearch.com/article/College-students-academic-stress-its/65640245.html) *American Journal of Health Studies* 16 (1): 41-51.
 
 Mead, Rebecca. 2015. ["All About the Hamiltons."](http://www.newyorker.com/magazine/2015/02/09/hamiltons) *The New Yorker.* February 9. Accessed May 16, 2017.
 
@@ -154,6 +180,8 @@ Morris, Robert D. 1991. [Class Notes for Atonal Music Theory](https://openlibrar
 
 ———. 1987. [Composition with Pitch Classes: A Theory of Compositional Design](https://openlibrary.org/books/OL2386927M/Composition_with_pitch-classes). New Haven: Yale University Press.
 
+Mueller, Pam A., and Daniel M. Oppenheimer. 2014. [“The Pen Is Mightier Than the Keyboard: Advantages of Longhand Over Laptop Note Taking.”](http://journals.sagepub.com/doi/abs/10.1177/0956797614524581) *Psychological Science* 25 (6): 1159-1168.
+
 Muraven, Mark and Roy F. Baumeister. 2000. [“Self-regulation and depletion of limited resources: Does self-control resemble a muscle?”](http://psycnet.apa.org/fulltext/2000-03444-003.html) *Psychological Bulletin* 126: 247–59.
 
 Murphy, Scott. 2007. [“Considering Network Recursion and Bartók’s ‘Fourths.’”](http://www.mtosmt.org/issues/mto.07.13.3/mto.07.13.3.murphy.html) *Music Theory Online* 13 (3).
@@ -167,6 +195,8 @@ O’Donnell, Shaugn. 1997. ["Transformational Voice Leading in Atonal Music."](h
 Orejuela, Fernando. 2015. [*Rap and Hip Hop Culture.*](https://global.oup.com/ushe/product/rap-and-hip-hop-culture-9780199987733?cc=us&lang=en&) New York: Oxford University Press.
 
 Ottman, Robert, and Nancy Rogers. 2013. [*Music for Sight Singing.*](https://openlibrary.org/works/OL2689971W/Music_for_Sight_Singing) Ninth edition. Upper Saddle River: Pearson Prentice Hall.
+
+[Oxford Music Online.](http://www.oxfordmusiconline.com/public/;jsessionid=89504868BAAADF6DFF8C4CB1A75AF200) Accessed June 30, 2017.
 
 Perry, William G. 1999. [*Forms of Ethical and Intellectual Development in the College Years, A Scheme.*](https://openlibrary.org/works/OL1936527W/Forms_of_intellectual_and_ethical_development_in_the_college_years) San Francisco, CA: Jossey-Bass Publishers.
 
@@ -235,5 +265,7 @@ Treitler, Leo. 1984. [“What Kind of Story is History?"](http://www.jstor.org/s
 Wiggins, Grant and Jay McTighe. 1998. [*The Understanding by Design Guide to Refining Units and Reviewing Results.*](https://openlibrary.org/works/OL16263088W/The_Understanding_by_design_guide_to_refining_units_and_reviewing_results) Second Edition, Revised 2012. Alexandria, VA: ASCD.
 
 Williams, Justin A., ed. 2015. [*The Cambridge Companion to Hip-Hop.*](http://www.cambridge.org/gb/academic/subjects/music/twentieth-century-and-contemporary-music/cambridge-companion-hip-hop?format=PB#9whxVwK36f49ieQO.97) Cambridge, UK: Cambridge University Press.
+
+Yamamoto, Kevin. 2008. [“Banning Laptops in the Classroom: Is it Worth the Hassles?”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1078740) *Journal of Legal Education* 57: 1-44.
 
 Zlotkowski, Edward and Donna Duffy. 2010. [“Two Decades of Community-Based Learning.”](http://onlinelibrary.wiley.com/doi/10.1002/tl.407/full) *New Directions for Teaching and Learning* 123: 33-43.
