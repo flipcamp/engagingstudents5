@@ -9,9 +9,13 @@ title: Bibliography
 
 Abbott, Michaela. 2017. ["Hamilton’s Revolution Enters the Classroom."](http://www.icchronicle.org/2017/03/17/hamiltons-revolution-enters-classroom/) *The Ithaca College Chronicle* (March 17). 
 
+Achieving the Dream. [“Open Educational Resources (OER) Degree Initiative.”](http://achievingthedream.org/resources/initiatives/open-educational-resources-oer-degree-initiative) Accessed May 30, 2017.
+
 Adams, Kyle. 2009. ["On the Metrical Techniques of Flow in Rap Music."](http://www.mtosmt.org/issues/mto.09.15.5/mto.09.15.5.adams.html) *Music Theory Online* 15 (2).
 
 ———. 2008. ["Aspects of the Music/Text Relationship in Rap."](http://www.mtosmt.org/issues/mto.08.14.2/mto.08.14.2.adams.html) *Music Theory Online* 14 (2).
+
+Affordable Learning Georgia. [“Textbook Transformation Grants.”](http://www.affordablelearninggeorgia.org/about/textbook_transformation_grants) Accessed May 30, 2017.
 
 Ambrose, Susan A., Michael W. Bridges, Michele DiPietro, Marsha C. Lovett, and Marie K. Norman. 2010. [*How Learning Works: Seven Research-Based Principles for Smart Teaching.*](https://openlibrary.org/works/OL15535951W/How_learning_works) San Francisco: Jossey-Bass.
 
@@ -30,6 +34,8 @@ Asklund, Ulf, and Lars Gotfred Bendix. 2003. ["Oral vs. Written Evaluation of St
 Association for Experiential Learning. ["What is Experiential Education?"](http://www.aee.org/what-is-ee) Accessed June 29, 2017.
 
 Atjonen, P&#228;ivi. 2014. ["Teachers’ Views of Their Assessment Practice."](http://dx.doi.org/10.1080/09585176.2013.874952) *The Assessment Journal* 25 (2): 238-259.
+
+Babson Survey Research Group. 2016. ["Opening the Textbook: Open Education Resources in U.S. Higher Education, 2015-16."](https://www.onlinelearningsurvey.com/oer.html) 
 
 Bailyn, Bernard. 1982. ["The Challenge of Modern Historiography."](https://academic.oup.com/ahr/article-abstract/87/1/1/118760/The-Challenge-of-Modern-Historiography?redirectedFrom=fulltext) *The American Historical Review* 87 (1): 1-24.
 
@@ -57,6 +63,8 @@ Brown, Leann. 2013. [“Student Stress High at OU.”](http://oaklandpostonline.
 
 Bruffee, Kenneth A. 1999. [*Collaborative Learning: Higher Education, Interdependence, and the Authority of Knowledge.*](https://openlibrary.org/works/OL2030323W/Collaborative_Learning) Baltimore, MD: Johns Hopkins University Press.
 
+Bureau of Labor Statistics, U.S. Department of Labor. 2016. [“College tuition and fees increase 63 percent since January 2006.”](https://www.bls.gov/opub/ted/2016/college-tuition-and-fees-increase-63-percent-since-january-2006.htm) *The Economics Daily.* 
+
 Burkholder, J. Peter. 2015. ["The Value of a Music History Survey."](http://www.ams-net.org/ojs/index.php/jmhp/article/view/175) *The Journal of Music History Pedagogy* 5 (2): 57-63. 
 
 Burton, Suzanne and Alison Reynolds. 2009. ["Transforming Music Teacher Education through Service Learning."](http://journals.sagepub.com/doi/abs/10.1177/1057083708327872) *Journal of Music Teacher Education* 18 (2): 18-33.
@@ -69,6 +77,8 @@ Cantley-Smith, Rowena. 2006. ["Put Down Your Pen: The Role of Oral Assessment in
 
 Caplin, William E. 2013. [Analyzing Classical Form: An Approach for the Classroom.](https://openlibrary.org/search?q=Analyzing+classical+form) New York: Oxford University Press.
 
+Census Bureau, U.S. Department of Commerce. [“Table 6. People Below 125 Percent of Poverty Level and the Near Poor.”](https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-poverty-people.html) *Historical Poverty Tables: People and Families - 1959 to 2015.* Modified September 1, 2016. Accessed May 30, 2017.
+
 Chernow, Ron. 2004. [*Alexander Hamilton.*](https://openlibrary.org/works/OL2665176W/Alexander_Hamilton) New York: Penguin Books.
 
 Chion, Michel. 1994. [*Audio-Vision: Sound On Screen.*](https://openlibrary.org/works/OL12156324W/Audio-Vision) Translated by Claudia Gorbman. New York: Columbia University Press.
@@ -77,6 +87,8 @@ Clendinning, Jane Piper, and Elizabeth West Marvin. 2016. [*The Musician’s Gui
 
 Clouder, Lynn, and Jane Toms. 2008. ["Impact of Oral Assessment on Physiotherapy Students’ Learning in Practice."](http://dx.doi.org/10.1080/09593980701378157) *Physiotherapy Theory and Practice* 24 (1): 29-42.
 
+College Board. [“Average Net Price over Time for Full-Time Students, by Sector.”](https://trends.collegeboard.org/college-pricing/figures-tables/average-net-price-over-time-full-time-students-sector) *Annual Survey of Colleges; Trends in Student Aid 2016.* 
+
 Crain, Timothy Mark. 2014. ["Beyond Coverage: Teaching for Understanding in the Music History Classroom."](http://www.ams-net.org/ojs/index.php/jmhp/article/view/110) *Journal of Music History Pedagogy* 4 (2): 301-318. 
 
 Dahlhaus, Carl. 1983. [*Foundations of Music History.*](https://openlibrary.org/works/OL732610W/Foundations_of_music_history) Translated by J.B. Robinson. Cambridge: Cambridge University Press.
@@ -84,6 +96,8 @@ Dahlhaus, Carl. 1983. [*Foundations of Music History.*](https://openlibrary.org/
 Davis, James A., ed. 2012. [*The Music History Classroom.*](https://openlibrary.org/works/OL16557937W/The_music_history_classroom) Burlington, VT: Ashgate.
 
 Delisle, Robert. 1997. [*How to Use Problem-Based Learning in the Classroom.*](https://openlibrary.org/works/OL2734590W/How_to_use_problem-based_learning_in_the_classroom) Alexandria VA: Association for Supervision and Curriculum Development.
+
+Dimeo, Jean. 2017. [“Turning Point for OER Use?”](https://www.insidehighered.com/digital-learning/article/2017/04/19/new-yorks-decision-spend-8-million-oer-turning-point) *Inside Higher Ed.*
 
 Doubek, James. 2016. [“Attention, Students: Put Your Laptops Away.”](http://www.npr.org/2016/04/17/474525392/attention-students-put-your-laptops-away) Transcription of Weekend Edition Sunday broadcast. Accessed June 14, 2017. 
 
@@ -133,7 +147,11 @@ Gregory, Alex. 2016. [Cartoon.](http://www.newyorker.com/cartoon/a20385) *The Ne
 
 Grymes, James A. and John Allemeir. ["Making Students Make Music: Integrating Composition and Improvisation into the Early Music Classroom."](http://www.ams-net.org/ojs/index.php/jmhp/article/view/122) *Journal of Music History Pedagogy* 4 (2): 231-254.
 
-Gullings, Kyle. ["OER for Undergraduate Music Theory."](https://drive.google.com/drive/folders/0B0laoIMCvmzxU3JZaWQ0WHo3QXc?usp=sharing) Link to a publicly-viewable Google Drive folder with 109 documents.
+Gullings, Kyle. [“Music Theory II Course Outlines, Spring 2015 and 2016.”](https://drive.google.com/open?id=0B0laoIMCvmzxbjlnNzFCbDNla2c) The University of Texas at Tyler.
+
+———. [“Music Theory IV Course Outline, Spring 2017.”](https://drive.google.com/file/d/0B0laoIMCvmzxRnJfUHQ4d0M4NVU/view?usp=sharing) The University of Texas at Tyler.
+
+———. ["OER for Undergraduate Music Theory."](https://drive.google.com/drive/folders/0B0laoIMCvmzxU3JZaWQ0WHo3QXc?usp=sharing) Link to a publicly-viewable Google Drive folder with 109 documents.
 
 Habeck, Holly. 2017. ["Music Professor Takes a Shot on  *Hamilton*."](http://www.ithaca.edu/news/releases/music-professor-takes-a-shot-on-hamilton-43506/#.WQH-XvkrLGg) IC News. Ithaca College (February 9). Accessed April 27, 2017.
 
@@ -147,6 +165,8 @@ Han, Lei. 2011. ["Soft Skills List – 28 Skills to Working
 Smart."](https://bemycareercoach.com/soft-skills/list-soft-skills.html) *Soft Skills – Ask a Wharton MBA*. Personal Blog. Accessed June 29, 2017.
 
 Hoag, Melissa E. 2012. [“Seven Strategies for Enabling Student Success in the First-Year Music Theory Sequence.”](https://drive.google.com/file/d/0B0ZI8di-pEDvV0FqLW10cmNpckE/view) *Music Theory Pedagogy Online* 1.
+
+Hilton III, John. 2016. [“Open Educational Resources and College Textbook Choices: A Review of Research on Efficacy and Perceptions.”](https://link.springer.com/article/10.1007/s11423-016-9434-9) *Educational Technology Research and Development* 64: 573.
 
 Hindman, Dorothy. 2009. [“Meeting Community and Campus Needs through Service Learning and Beginning Music Theory.”](https://symposium.music.org/index.php?option=com_k2&view=item&id=9269:meeting-community-and-campus-needs-through-service-learning-and-beginning-music-theory&Itemid=124) *College Music Symposium* 49: 41-53.
 
@@ -252,6 +272,8 @@ Rosen, Jody. 2015. ["The American Revolutionary."](https://www.nytimes.com/inter
 
 Savery, John R. 2006. ["Overview of Problem-Based Learning: Definitions and Distinctions."](http://docs.lib.purdue.edu/ijpbl/vol1/iss1/3/) *The Interdisciplinary Journal of Problem-Based Learning* 1 (1).
 
+Schmidt-Jones, Catherine. 2013. ["Understanding Basic Music Theory."](http://cnx.org/contents/2ad74b7b-a72f-42a9-a31b-7e75542e54bd@3.74) OpenStax CNX.
+
 Schubert, Peter. 2017. “Teaching Theory Through Improvisation.” In [*Studies in Historical Improvisation from Cantare Super Librum to Partimenti,*](https://books.google.ca/books?id=maXZDQAAQBAJ&lpg=PT200&dq=teaching%20theory%20through%20improvisation&pg=PT6#v=snippet&q=contents&f=false) edited by Massimiliano Guido, 175-184. New York: Routledge.
 
 ———. 2012a. [“The Story of ‘See what an ass I am.’”](https://www.youtube.com/watch?v=YKcATH42tWU) YouTube. Accessed July 18, 2017.
@@ -264,11 +286,15 @@ Schubert, Peter. 2017. “Teaching Theory Through Improvisation.” In [*Studies
 
 Schuijer, Michiel. 2008. [Analyzing Atonal Music.](https://openlibrary.org/works/OL11999910W/Analyzing_atonal_music) Rochester, NY: University of Rochester Press.
 
+Scholarly Publishing and Academic Resources Coalition (SPARC). [“List of North American OER Policies & Projects.”](https://sparcopen.org/our-work/list-of-oer-policies-projects/) Accessed July 13, 2017.
+
 Seaton, Douglass. 2015. [“Reconsidering Undergraduate Music History: Some Introductory Thoughts.”](http://www.ams-net.org/ojs/index.php/jmhp/article/view/176) *The Journal of Music History Pedagogy* 5 (2): 53-56. 
 
 ———. 2012. “Core Music Curriculum Components II: History and Repertory: A Survey and Some Questions.” In *Proceedings: The 87th Annual Meeting, 2011,* 23–26. Reston, VA: The National Association of Schools of Music.
 
 Shaffer, Kris and Bryn Hughes. 2013. [“Flipping the Classroom: Three Methods.”](http://flipcamp.org/engagingstudents/shafferintro.html) *Engaging Students: Essays in Music Pedagogy* 1.
+
+Shaffer, Kris, Bryn Hughes, and Brian Moseley. [*Open Music Theory.*](http://openmusictheory.com/) Edited by Kris Shaffer and Robin Wharton. Hybrid Pedagogy Publishing.
 
 Silverman, Marissa. 2009. [“Rethinking Music ‘Appreciation’.”](http://www-usr.rider.edu/~vrme/v13n1/Vision/aut1.pdf) *Visions of Research in Music Education* 13.
 
@@ -292,7 +318,17 @@ Thomas, Justin, Monique Raynor, and Merryn McKinnon. 2014. ["Academic Integrity 
 
 Treitler, Leo. 1984. [“What Kind of Story is History?"](http://www.jstor.org/stable/746388?seq=1#page_scan_tab_contents) *Nineteenth-Century Music* 7 (3): 363-373.
 
+UMass Amherst Libraries. ["UMass Library Open Education Initiative."](https://www.library.umass.edu/services/teaching-and-learning/oer/open-education-initiative/) Accessed May 30, 2017.
+
+United Nations General Assembly. 1948. ["Universal Declaration of Human Rights."](http://www.un.org/en/universal-declaration-human-rights/)
+
+University of Minnesota Center for Open Education. ["Open Textbook Library."](https://open.umn.edu/opentextbooks/) Accessed May 30, 2017.
+
+WICHE Cooperative for Educational Technologies (WCET). [“North Dakota Open Educational Resources Initiative: A System-wide Success Story.”](https://wcetfrontiers.org/2016/08/23/north-dakota-open-educational-resources-initiative-a-system-wide-success-story/) Accessed May 30, 2017.
+
 Wiggins, Grant and Jay McTighe. 1998. [*The Understanding by Design Guide to Refining Units and Reviewing Results.*](https://openlibrary.org/works/OL16263088W/The_Understanding_by_design_guide_to_refining_units_and_reviewing_results) Second Edition, Revised 2012. Alexandria, VA: ASCD.
+
+William and Flora Hewlett Foundation. [“Open Educational Resources.”](http://www.hewlett.org/strategy/open-educational-resources/) Accessed May 30, 2017.
 
 Williams, Justin A., ed. 2015. [*The Cambridge Companion to Hip-Hop.*](http://www.cambridge.org/gb/academic/subjects/music/twentieth-century-and-contemporary-music/cambridge-companion-hip-hop?format=PB#9whxVwK36f49ieQO.97) Cambridge, UK: Cambridge University Press.
 
