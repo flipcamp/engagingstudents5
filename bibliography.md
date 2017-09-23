@@ -39,6 +39,8 @@ Babson Survey Research Group. 2016. ["Opening the Textbook: Open Education Resou
 
 Bailyn, Bernard. 1982. ["The Challenge of Modern Historiography."](https://academic.oup.com/ahr/article-abstract/87/1/1/118760/The-Challenge-of-Modern-Historiography?redirectedFrom=fulltext) *The American Historical Review* 87 (1): 1-24.
 
+Bandura, Albert, and Dale H. Schunk. 1981. [“Cultivating Competence, Self-efficacy, and Intrinsic Interest through Proximal Self-Motivation.”](http://psycnet.apa.org/record/1982-07527-001) *Journal of Personality and Social Psychology* 41 (3): 586-598.
+
 Barkley, Elizabeth F., K. Patricia Cross, and Claire Howell Major. 2005. [*Collaborative Learning Techniques: A Practical Guide to Promoting Learning in Groups.*](https://openlibrary.org/works/OL17728748W/Collaborative_learning_techniques) San Francisco, CA: Jossey Bass Publishers.
 
 Bathgate, Meghan, Judith Sims-Knight, and Christian Schunn. 2012. [“Thoughts on Thinking: Engaging Novice Music Students in Metacognition.”](http://onlinelibrary.wiley.com/doi/10.1002/acp.1842/abstract) *Applied Cognitive Psychology* 26: 403-409.
@@ -50,6 +52,8 @@ Baumer, Matthew. 2015. ["A Snapshot of Music History Teaching to Undergraduate M
 Benton, Carol W. 2014. [*Thinking about Thinking: Metacognition for Music Learning.*](https://books.google.ca/books/about/Thinking_about_Thinking.html?id=dT_oAgAAQBAJ&redir_esc=y) Lanham, MD: Rowman & Littlefield Education.
 
 ———. 2013. [“Promoting Metacognition in Music Classes.”](https://eric.ed.gov/?q=“Thoughts+on+Thinking%3a+Engaging+Novice+Music+Students+in+Metacognition”&id=EJ1020135) *Music Educators Journal* 100 (2): 52-59.
+
+Bicknell-Holmes, Tracy, and Paul Seth Hoffman. 2000. [“Elicit, Engage, Experience, Explore: Discovery Learning in Library Instruction.”](http://www.emeraldinsight.com/doi/abs/10.1108/00907320010359632) *Reference Services Review* 28 (4): 313-322.
 
 Boud, David. 1985. “PBL in Perspective.” In *Problem-Based Learning in Education for the Professions.* Higher Education Research and Development Society of Australasia.
 
@@ -76,6 +80,10 @@ Campbell, Patricia Shehan, David Myers, Edward Sarath, Juan Chattah, Lee Higgins
 Cantley-Smith, Rowena. 2006. ["Put Down Your Pen: The Role of Oral Assessment in Undergraduate Law Studies."](http://www.austlii.edu.au/au/journals/JCULawRw/2006/3.html) *James Cook University Law Review* 13: 30-63.
 
 Caplin, William E. 2013. [Analyzing Classical Form: An Approach for the Classroom.](https://openlibrary.org/search?q=Analyzing+classical+form) New York: Oxford University Press.
+
+Carlos, Wendy. 2017. [“Switched on Bach.”](http://www.wendycarlos.com/+sob.html) Accessed June 29.
+
+Carlson, Scott. 2005. [“The Net Generation Goes to College.”](http://www.chronicle.com/article/The-Net-Generation-Goes-to/12307) *The Chronicle of Higher Education.* 
 
 Census Bureau, U.S. Department of Commerce. [“Table 6. People Below 125 Percent of Poverty Level and the Near Poor.”](https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-poverty-people.html) *Historical Poverty Tables: People and Families - 1959 to 2015.* Modified September 1, 2016. Accessed May 30, 2017.
 
@@ -113,9 +121,13 @@ Duker, Philip, and Daniel Stevens. 2017. ["Scaling to Real Music: Rebuilding Aur
 
 Dunlosky, John, and Janet Metcalfe. 2009. [*Metacognition.*](https://books.google.ca/books?id=xHtJADBpp-IC&source=gbs_similarbooks) Los Angeles: Sage.
 
+Eckleberry-Hunt, Jodie, and Jennifer Tucciarone. 2011. [“The Challenges and Opportunities of Teaching ‘Generation Y.’”](http://www.jgme.org/doi/abs/10.4300/JGME-03-04-15?code=gmed-site) *Journal of Graduate Medical Education* 3(4): 458-61. 
+
 Edgarton, R. 2001. ["Education White Paper."](http://www.faculty.umb.edu/john_saltmarsh/resources/Edgerton%20Higher%20Education%20White%20Paper.rtf) Accessed June 27, 2017.
 
 Eyler, Janet and Dwight E. Giles, Jr. 1999. [*Where’s the Learning in Service-Learning?*](https://openlibrary.org/books/OL24755192M/Where's_the_learning_in_service-learning) San Francisco: Jossey-Bass.
+
+Faust, Jennifer L., and Donald R. Paulson. 1998. [“Active Learning in the College Classroom.”](https://www.ydae.purdue.edu/lct/HBCU/documents/Active_Learning_in_College_Classrooms.pdf) *Journal on Excellence in College Teaching* 9 (2): 3-24.
 
 [“First-Year Seminar.”](https://www.dickinson.edu/homepage/99/first_year_seminars) Dickinson College website. Accessed August 2, 2017. 
 
@@ -141,6 +153,8 @@ Gawboy, Anna. 2014. ["The Musical Opus as Opus: Organicist Analysis and the Herm
 
 Goodman, Kathleen, and Ernest T. Pascarella. [“First-Year Seminars Increase Persistence and Retention: A Summary of the Evidence from How College Affects Students.”](https://www.aacu.org/publications-research/periodicals/first-year-seminars-increase-persistence-and-retention-summary) Association of American Colleges & Universities. 
 
+Gorham, Joan, and Diane M. Millette. 2007. [“A Comparative Analysis of Teacher and Student Perceptions of Sources of Motivation and Demotivation in College Classes.”](http://www.tandfonline.com/doi/abs/10.1080/03634529709379099) *Communication Education* 46: 245-261.
+
 Gosden, Stephen. 2013. ["The ‘Technology Tools’ Session at FlipCamp Music Theory."](http://flipcamp.org/engagingstudents/gosden.html) *Engaging Students: Essays in Music Pedagogy* 1.
 
 Gregory, Alex. 2016. [Cartoon.](http://www.newyorker.com/cartoon/a20385) *The New Yorker.* Accessed July 18, 2017.
@@ -152,6 +166,8 @@ Gullings, Kyle. [“Music Theory II Course Outlines, Spring 2015 and 2016.”](h
 ———. [“Music Theory IV Course Outline, Spring 2017.”](https://drive.google.com/file/d/0B0laoIMCvmzxRnJfUHQ4d0M4NVU/view?usp=sharing) The University of Texas at Tyler.
 
 ———. ["OER for Undergraduate Music Theory."](https://drive.google.com/drive/folders/0B0laoIMCvmzxU3JZaWQ0WHo3QXc?usp=sharing) Link to a publicly-viewable Google Drive folder with 109 documents.
+
+Guthrie, John T., and Allan Wigfield. “Engagement and Motivation in Reading." In [*Handbook of Reading Research Volume III,*](https://openlibrary.org/books/OL7936992M/Handbook_of_Reading_Research_Volume_III_(Handbook_of_Reading_Research)) edited by Michael L. Kamil, Peter B. Mosenthal, P. David Pearson, and Rebecca Barr, 403-422. New York: Taylor and Francis.
 
 Habeck, Holly. 2017. ["Music Professor Takes a Shot on  *Hamilton*."](http://www.ithaca.edu/news/releases/music-professor-takes-a-shot-on-hamilton-43506/#.WQH-XvkrLGg) IC News. Ithaca College (February 9). Accessed April 27, 2017.
 
@@ -204,7 +220,11 @@ Madsen, Clifford K. and John M. Geringer. 2001. [“A Focus of Attention Model f
 
 May, Cindi. 2014. [“A Learning Secret: Don’t Take Notes with a Laptop.”](https://www.scientificamerican.com/article/a-learning-secret-don-t-take-notes-with-a-laptop/) *Scientific American.* 
 
+McCombs, Barbara, and Lynda Miller. 2007. *Learner-Centered Classroom Practices and Assessments: Maximizing Student Motivation, Learning, and Achievement.* Newbury Park: Corwin.
+
 McKean, Michelle, and Ranjita Misra. 2000. [“College Students’ Academic Stress and its Relation to their Anxiety, Time Management, and Leisure Satisfaction.”](http://www.biomedsearch.com/article/College-students-academic-stress-its/65640245.html) *American Journal of Health Studies* 16 (1): 41-51.
+
+McLeod, Kembrew. 2001. [“Genres, Subgenres, Sub-Subgenres and More: Musical and Social Differentiation Within Electronic/Dance Music Communities.”](http://www.tandfonline.com/doi/abs/10.1080/152422201317071651) *Journal of Popular Music Studies* 13 (1): 59-75.
 
 Mead, Rebecca. 2015. ["All About the Hamiltons."](http://www.newyorker.com/magazine/2015/02/09/hamiltons) *The New Yorker.* February 9. Accessed May 16, 2017.
 
@@ -236,7 +256,13 @@ Nalepinski, Kate. 2017. ["Q&A: IC professor starts a revolution with ‘Hamilton
 
 Natvig, Mary, ed. 2002. [*Teaching Music History.*](https://openlibrary.org/works/OL8477219W/Teaching_Music_History) Burlington, VT: Ashgate.
 
+Nevid, Jeff. 2011. [“Teaching the Millennials.”](https://www.psychologicalscience.org/observer/teaching-the-millennials#.WVO072U0VOq) *Observer Magazine,* May 4. Accessed June 29, 2017.
+
+Novotney, Amy. 2010. “Engaging the Millennial Learner.” *Monitor on Psychology* 104 (3): 60.
+
 O’Donnell, Shaugn. 1997. ["Transformational Voice Leading in Atonal Music."](https://books.google.com/books/about/Transformational_Voice_Leading_in_Atonal.html?id=B9KhOwAACAAJ) Ph.D. dissertation, City University of New York.
+
+Oldfather, Penny. 1993. [“What Students Say about Motivating Experiences in a Whole Language Classroom.”](http://www.jstor.org/stable/20201166?seq=1#page_scan_tab_contents) *The Reading Teacher* 46 (8): 672-681.
 
 Orejuela, Fernando. 2015. [*Rap and Hip Hop Culture.*](https://global.oup.com/ushe/product/rap-and-hip-hop-culture-9780199987733?cc=us&lang=en&) New York: Oxford University Press.
 
@@ -245,6 +271,8 @@ Ottman, Robert, and Nancy Rogers. 2013. [*Music for Sight Singing.*](https://ope
 [Oxford Music Online.](http://www.oxfordmusiconline.com/public/;jsessionid=89504868BAAADF6DFF8C4CB1A75AF200) Accessed June 30, 2017.
 
 Parncutt, Richard, and Gary McPherson. 2002. [*The Science and Psychology of Music Performance: Creative Strategies for Teaching and Learning.*](https://books.google.ca/books/about/The_Science_and_Psychology_of_Music_Perf.html?id=l5unYHW80csC) New York: Oxford University Press.
+
+Pedersen, Susan, and Doug Williams. 2003. [“A Comparison of Assessment Practices and Their Effects on Learning in a Student-Centered Learning Environment.”](https://www.learntechlib.org/noaccess/14170/) *Proceedings of EdMedia: World Conference on Educational Media and Technology,* 2171-2175.
 
 Perry, William G. 1999. [*Forms of Ethical and Intellectual Development in the College Years, A Scheme.*](https://openlibrary.org/works/OL1936527W/Forms_of_intellectual_and_ethical_development_in_the_college_years) San Francisco, CA: Jossey-Bass Publishers.
 
@@ -285,6 +313,8 @@ Schubert, Peter. 2017. “Teaching Theory Through Improvisation.” In [*Studies
 ———. 2012d. [“‘See what an ass I am’ Improvisation \#3.”](https://www.youtube.com/watch?v=-trkrMWbjGA) YouTube. Accessed July 18, 2017.
 
 Schuijer, Michiel. 2008. [Analyzing Atonal Music.](https://openlibrary.org/works/OL11999910W/Analyzing_atonal_music) Rochester, NY: University of Rochester Press.
+
+Schunk, Dale. 1991. [“Self-Efficacy and Academic Motivation.”](http://www.tandfonline.com/doi/abs/10.1080/00461520.1991.9653133) *Educational Psychologist* 26: 207-31.
 
 Scholarly Publishing and Academic Resources Coalition (SPARC). [“List of North American OER Policies & Projects.”](https://sparcopen.org/our-work/list-of-oer-policies-projects/) Accessed July 13, 2017.
 
