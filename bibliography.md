@@ -29,6 +29,8 @@ Armstrong, Elizabeth A. 1997. “A Hybrid Model of PBL.” In [*The Challenge of
 
 Armstrong, Patricia. ["Bloom’s Taxonomy."](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) *Vanderbilt University Center for Teaching*. Accessed July 20, 2017.
 
+[“Arnold Schoenberg.”](https://www.youtube.com/user/ascvideo) YouTube. Accessed September 20, 2017.
+
 Asklund, Ulf, and Lars Gotfred Bendix. 2003. ["Oral vs. Written Evaluation of Students."](http://vbn.aau.dk/en/publications/oral-vs-written-evaluation-of-students(1b034770-9c2e-11db-8ed6-000ea68e967b).html) *Proceedings of the Pedagogisk inspirationskonferens*, Lund, Sweden, May 27.
 
 Association for Experiential Learning. ["What is Experiential Education?"](http://www.aee.org/what-is-ee) Accessed June 29, 2017.
@@ -56,6 +58,8 @@ Baumer, Matthew. 2015. ["A Snapshot of Music History Teaching to Undergraduate M
 Benton, Carol W. 2014. [*Thinking about Thinking: Metacognition for Music Learning.*](https://books.google.ca/books/about/Thinking_about_Thinking.html?id=dT_oAgAAQBAJ&redir_esc=y) Lanham, MD: Rowman & Littlefield Education.
 
 ———. 2013. [“Promoting Metacognition in Music Classes.”](https://eric.ed.gov/?q=“Thoughts+on+Thinking%3a+Engaging+Novice+Music+Students+in+Metacognition”&id=EJ1020135) *Music Educators Journal* 100 (2): 52-59.
+
+Bernstein, Leonard. “What is Sonata Form?” In *Leonard Bernstein’s Young People’s Concerts,* edited by Jack Gottlieb, 225–43. New York: Doubleday, 1992.
 
 Bicknell-Holmes, Tracy, and Paul Seth Hoffman. 2000. [“Elicit, Engage, Experience, Explore: Discovery Learning in Library Instruction.”](http://www.emeraldinsight.com/doi/abs/10.1108/00907320010359632) *Reference Services Review* 28 (4): 313-322.
 
@@ -161,6 +165,8 @@ Forte, Allen. 1973. [*The Structure of Atonal Music.*](https://openlibrary.org/b
 
 Forney, Kristine, Andrew Dell'Antonio, and Joseph Machlis. 2016. [*The Enjoyment of Music: Essential Listening Edition.*](https://openlibrary.org/works/OL4466706W/The_Enjoyment_of_Music) Third edition. New York: W. W. Norton.
 
+[“From Bach to Xenakis.”](http://graphicwitness.org/music/index/aalinernotes.htm) Accessed September 20, 2017.
+
 Gawboy, Anna. 2014. ["The Musical Opus as Opus: Organicist Analysis and the Hermetic Tradition."](http://www.ams-net.org/abstracts/2014-Milwaukee.pdf) Paper presented at the annual meeting of the Society for Music Theory, Milwaukee, WI.
 
 Gjerdingen, Robert. 2007. [*Music in the Galant Style.*](https://openlibrary.org/books/OL18014958M/Music_in_the_galant_style) New York: Oxford University Press.
@@ -202,6 +208,8 @@ Hilton III, John. 2016. [“Open Educational Resources and College Textbook Choi
 
 Hindman, Dorothy. 2009. [“Meeting Community and Campus Needs through Service Learning and Beginning Music Theory.”](https://symposium.music.org/index.php?option=com_k2&view=item&id=9269:meeting-community-and-campus-needs-through-service-learning-and-beginning-music-theory&Itemid=124) *College Music Symposium* 49: 41-53.
 
+Huron, David. [“The Science of Sad Sounds.”](www.youtube.com/watch?v=_pwqBAS9x3U) The National YouTube Channel. June 27, 2011.
+
 Huxham, Mark, Fiona Campbell, and Jenny Westwood. 2012. ["Oral Versus Written Assessments: A Test of Student Performance and Attitudes."](http://dx.doi.org/10.1080/02602938.2010.515012) *Assessment and Evaluation in Higher Education* 37 (1): 125-136.
 
 Iannone, Paola, and Adrian Simpson. 2013. ["Students' Perceptions of Assessment in Undergraduate Mathematics."](http://dx.doi.org/10.1080/14794802.2012.756634) *Research in Mathematics Education* 15 (1): 17-33.
@@ -210,9 +218,15 @@ Iannone, Paola, and Adrian Simpson. 2013. ["Students' Perceptions of Assessment 
 
 Jaijairam, Paul. 2016. [“First-Year Seminar (FYS)—The Advantages That This Course Offers.”](http://files.eric.ed.gov/fulltext/EJ1092432.pdf) *Journal of Education and Learning* 5 (2): 15-23.
 
+Jenkins, J. Daniel, ed. 2016. "Schoenberg’s Program Notes and Musical Analyses." In *Schoenberg in Words, vol. 5,* edited by Sabine Feisst and Severine Neff. New York: Oxford University Press.
+
+———. [“Schoenberg’s ‘Advice for Beginners in Composition with Twelve Tones’.”](https://vimeo.com/220246523) *SMT-V* 3.2. 
+
 Johnson, Vicky. 2015. [“Proficiency-Based Learning with Muscle in a Music Theory Classroom.”](http://flipcamp.org/engagingstudents3/essays/johnson.html) *Engaging Students: Essays in Music Pedagogy* 3.
 
 Joughin, Gordon. 2007. ["Student Conceptions of Oral Presentations."](http://dx.doi.org/10.1080/03075070701346873) *Studies in Higher Education* 32 (3): 323-336.
+
+Kapilow, Rob. [“Why 'Over the Rainbow' Takes Us to a Magical, Musical Place.”](https://www.youtube.com/watch?v=RbKEB1v8McA) PBS NewsHour YouTube Channel. Accessed October 6, 2015.
 
 Kaplan, Matthew, Naomi Silver, Danielle LaVaque-Manty, and Deborah Meizlish. 2013. [*Using Reflection and Metacognition to Improve Student Learning.*](https://www.amazon.ca/Reflection-Metacognition-Improve-Student-Learning/dp/1579228259) Sterling, VA: Stylus.
 
@@ -220,7 +234,15 @@ Karpinski, Gary. 2000. [*Aural Skills Acquisition.*](https://openlibrary.org/boo
 
 Kasinitz, Philip. 2016. ["*Hamilton*: Diverse America and the Second Generation Advantage."](http://www.brooklyn.cuny.edu/web/academics/centers/hitchcock/publications/amr/v46-1/kasinitz.php) *American Music Review* 46 (1).
 
+Keller, Hans. 1994. “Functional Analysis no. 9a: Mozart’s Piano Sonata in A Minor, K. 310.” In *Essays on Music,* edited by Christopher Wintle, 129–38. Cambridge: Cambridge University Press.
+
+———. 1994. “The Musical Analysis of Music.” In *Essays on Music,* edited by Christopher Wintle, 126–28. Cambridge: Cambridge University Press.
+
+———. 1958. “Wordless Functional Analysis no. 1: Mozart, K. 421.” *The Score and I.M.A. Magazine* 22: 56–64.
+
 Kostka, Stefan, Dorothy Payne, and Byron Almen. 2018. [*Tonal Harmony with an Introduction to Post-Tonal Music.*](http://www.mheducation.com/highered/product/M125944709X.html) Eighth edition. New York: McGraw-Hill Education.
+
+Kozinn, Allan. 1993. [“Discovered Sonatas May Be Faked Haydn.”](http://www.nytimes.com/1993/12/28/arts/discovered-sonatas-may-be-faked-haydn.html) *The New York Times.*
 
 Krims, Adam. 2000. [*Rap Music and the Poetics of Identity.*](https://openlibrary.org/books/OL42732M/Rap_music_and_the_poetics_of_identity) New York: Cambridge University Press.
 
@@ -232,6 +254,8 @@ Lewin, David. 1990. [“Klumpenhouwer Networks and Some Isographies that Involve
 
 ———. 1986. [“Music Theory, Phenomenology, and Modes of Perception.”](http://mp.ucpress.edu/content/3/4/327) *Music Perception: An Interdisciplinary Journal* 3 (4): 327-392.
 
+[“LiveNote™--The Philadelphia Orchestra's Concert Hall Mobile App.”](https://www.youtube.com/watch?v=5qr4xTje6RA) The Philadelphia Orchestra YouTube Channel. Accessed October 2, 2014.
+
 Lowe, Melanie. 2015. [“Rethinking the Undergraduate Music History Sequence in the Information Age.”](http://www.ams-net.org/ojs/index.php/jmhp/article/view/177) *The Journal of Music History Pedagogy* 5 (2): 65-71.
 
 The Lumineers. 2012. [*Ho Hey.*](https://youtu.be/zvCBSSwgtg4) Dualtone Music Group. Accessed June 25, 2017.
@@ -239,6 +263,8 @@ The Lumineers. 2012. [*Ho Hey.*](https://youtu.be/zvCBSSwgtg4) Dualtone Music Gr
 Macan, Therese H., Comila Shahani, Robert L. Dipboye, Amanda P. Phillips. 1990. [“College Students' Time Management: Correlations with Academic Performance and Stress.”](https://eric.ed.gov/?id=EJ440473) *Journal of Educational Psychology* 82 (4): 760-68.
 
 Madsen, Clifford K. and John M. Geringer. 2001. [“A Focus of Attention Model for Meaningful Listening.”](http://www.jstor.org/stable/40319396?seq=1#page_scan_tab_contents) *Bulletin of the Council for Research in Music Education* 147: 103–108.
+
+Margulis, Elizabeth Hellmuth. 2010. [“When Program Notes Don’t Help: Music Descriptions and Enjoyment.”](http://journals.sagepub.com/doi/abs/10.1177/0305735609351921) *Psychology of Music* 38 (3): 285–302.
 
 May, Cindi. 2014. [“A Learning Secret: Don’t Take Notes with a Laptop.”](https://www.scientificamerican.com/article/a-learning-secret-don-t-take-notes-with-a-laptop/) *Scientific American.* 
 
@@ -251,6 +277,8 @@ McLeod, Kembrew. 2001. [“Genres, Subgenres, Sub-Subgenres and More: Musical an
 Mead, Rebecca. 2015. ["All About the Hamiltons."](http://www.newyorker.com/magazine/2015/02/09/hamiltons) *The New Yorker.* February 9. Accessed May 16, 2017.
 
 Michaelsen, Garrett. 2014. [“Improvising to Learn/Learning to Improvise: Designing Scaffolded Group Improvisations for the Music Theory Classroom.”](http://www.flipcamp.org/engagingstudents2/essays/michaelsen.html) *Engaging Students: Essays in Music Pedagogy* 2. 
+
+[“The ‘Millennial Whoop’ Is Taking Over Pop Music.”](https://www.youtube.com/watch?v=MN23lFKfpck) Quartz YouTube Channel. Accessed August 28, 2016.
 
 Millis, Barbara J. 2010. [*Cooperative Learning in Higher Education.*](https://openlibrary.org/works/OL15441103W/Cooperative_learning_in_higher_education) Sterling, VA: Stylus.
 
@@ -277,6 +305,8 @@ Murphy, Paul, Joel Phillips, Elizabeth West Marvin, and Jane Piper Clendinning. 
 ———. 2016. [*The Musician’s Guide to Aural Skills: Sight-Singing.*](http://books.wwnorton.com/books/webad.aspx?id=4294990441) Third edition. New York: W. W. Norton & Company.
 
 Murphy, Scott. 2007. [“Considering Network Recursion and Bartók’s ‘Fourths.’”](http://www.mtosmt.org/issues/mto.07.13.3/mto.07.13.3.murphy.html) *Music Theory Online* 13 (3).
+
+[“Music & Lyrics by Stewie Griffin, Season 7, Family Guy.”](https://www.youtube.com/watch?v=6RmO6fc-FdE) Fox YouTube Channel. Accessed February 13, 2009.
 
 Nalepinski, Kate. 2017. ["Q&A: IC professor starts a revolution with ‘Hamilton’ course."](https://theithacan.org/life-culture/qa-ic-professor-starts-a-revolution-with-hamilton-course/) February 21. *The Ithacan.* Accessed April 27, 2017.
 
@@ -308,9 +338,13 @@ Pillay, Srini. 2017. *Tinker, Dabble, Doodle, Try: Unlock the Power of the Unfoc
 
 Pogonowski, Lenore. 1989. “Metacognition: A Dimension of Musical Thinking.” In [*Dimensions of Musical Thinking,*](https://books.google.ca/books/about/Dimensions_of_Musical_Thinking.html?id=tNlxL2_VkkkC&redir_esc=y) edited by Eunice Boardman, 9–32. Reston, VA: Music Educators National Conference. 
 
+[“Program Books.” Chicgo Symphony Orchestra Sounds and Stories.](https://csosoundsandstories.org/category/program-books/) Accessed September 20, 2017.
+
 Rahn, Jay, and James R. McKay. 1988. [“The Guide-Tone Method: An Approach to Harmonic Dictation.”](https://music.appstate.edu/about/jmtp/jmtp-volume-2) *Journal of Music Theory Pedagogy* 2: 101–111.
 
 Renwick, James M., and Gary E. McPherson. 2002. [“Interest and Choice: Student-Selected Repertoire and Its Effect on Practising Behaviour.”](http://www.academia.edu/30238508/Renwick_and_McPherson_2002_BJME.pdf) *British Journal of Music Education* 19 (2): 173–88.
+
+Richards, Mark. [“Film Music Notes.”](http://www.filmmusicnotes.com) Accessed September 20, 2017.
 
 Rifkin, Deborah. 2014. [“Cultivating Creativity in the Music Theory Classroom: Telling Tales with Texture and Timbre.”](http://flipcamp.org/engagingstudents2/essays/rifkin.html) *Engaging Students: Essays in Music Pedagogy* 2.
 
@@ -338,6 +372,8 @@ Savery, John R. 2006. ["Overview of Problem-Based Learning: Definitions and Dist
 
 Schmidt-Jones, Catherine. 2013. ["Understanding Basic Music Theory."](http://cnx.org/contents/2ad74b7b-a72f-42a9-a31b-7e75542e54bd@3.74) OpenStax CNX.
 
+Schoenberg, Arnold. [“My Evolution.” VR29. Arnold Schönberg Center, Vienna.](http://www.schoenberg.at/index.php/en/?option=com_content&view=article&id=965:vr01) Accessed September 20, 2017.
+
 Schubert, Peter. 2017. “Teaching Theory Through Improvisation.” In [*Studies in Historical Improvisation from Cantare Super Librum to Partimenti,*](https://books.google.ca/books?id=maXZDQAAQBAJ&lpg=PT200&dq=teaching%20theory%20through%20improvisation&pg=PT6#v=snippet&q=contents&f=false) edited by Massimiliano Guido, 175-184. New York: Routledge.
 
 ———. 2012a. [“The Story of ‘See what an ass I am.’”](https://www.youtube.com/watch?v=YKcATH42tWU) YouTube. Accessed July 18, 2017.
@@ -364,11 +400,17 @@ Shaffer, Kris and Bryn Hughes. 2013. [“Flipping the Classroom: Three Methods.�
 
 Shaffer, Kris, Bryn Hughes, and Brian Moseley. [*Open Music Theory.*](http://openmusictheory.com/) Edited by Kris Shaffer and Robin Wharton. Hybrid Pedagogy Publishing.
 
+Siegemund-Broka, Austin. 2015. [“How Similar Is 'Blurred Lines' to a 1977 Marvin Gaye Hit?”](http://www.hollywoodreporter.com/thr-esq/how-similar-is-blurred-lines-778635) *The Hollywood Reporter.*
+
 Silverman, Marissa. 2009. [“Rethinking Music ‘Appreciation’.”](http://www-usr.rider.edu/~vrme/v13n1/Vision/aut1.pdf) *Visions of Research in Music Education* 13.
 
 Simper, Trevor. 2010. ["A Comparison of an Oral Assessment with a Traditional Paper Exam within a Final Year Nutrition Module."](http://www.academicjournals.org/article/article1379621654_Simper.pdf) *Educational Research and Reviews* 5 (8): 427-431.
 
+Sinclair, Mark. 2016. [“How the Toronto Symphony Orchestra Uses Graphic Design to Guide Audiences."](https://www.creativereview.co.uk/how-the-toronto-symphony-orchestra-uses-graphic-design-to-guide-its-audiences-though-its-music/) *Creative Review.*
+
 Singh, Penny. 2011. ["Oral Assessment: Preparing Learners for Discourse in Communities of Practice."](https://link.springer.com/article/10.1007%2Fs11213-010-9184-2) *Systemic Practice and Action Research* 24 (3): 247-259.
+
+[“Surprisingly Awesome #10 Circle of Fifths."](https://gimletmedia.com/episode/10-circle-of-fifths/) 2016. Gimlet Media. 
 
 Symonds, Heather. 2008. ["Introducing Oral Assessment within Creative Practice: ‘It’s Like Walking Against the Wind.’"](https://doi.org/10.1386/jwcp.1.3.227_1) *Journal of Writing in Creative Practice* 1 (3): 227-236.
 
@@ -384,13 +426,21 @@ Straus, Joseph N. 2005. [“Voice Leading in Set-Class Space.”](http://www.jst
 
 Thomas, Justin, Monique Raynor, and Merryn McKinnon. 2014. ["Academic Integrity and Oral Examination: An Arabian Gulf Perspective."](http://dx.doi.org/10.1080/14703297.2013.796724) *Innovations in Education and Teaching International* 51 (5): 533-543.
 
+Thompkins, Gwen. 2015. [“How ‘Accidental’ Notes Grab Our Attention."](http://www.npr.org/2015/12/20/460163750/how-accidental-notes-grab-our-attention) *NPR.*
+
+Thorau, Christian. 2009. “Guides for Wagnerites: Leitmotifs and Wagnerian Listening.” In [*Richard Wagner and His World,*](https://openlibrary.org/works/OL16148630W/Richard_Wagner_and_his_world) edited by Thomas S. Grey, 133–150. Princeton: Princeton University Press.
+
 Treitler, Leo. 1984. [“What Kind of Story is History?"](http://www.jstor.org/stable/746388?seq=1#page_scan_tab_contents) *Nineteenth-Century Music* 7 (3): 363-373.
+
+Tovey, Donald Francis. 1935. [*Essays in Musical Analysis.*](https://openlibrary.org/works/OL8009545W/Essays_in_musical_analysis) London: Oxford University Press. 
 
 UMass Amherst Libraries. ["UMass Library Open Education Initiative."](https://www.library.umass.edu/services/teaching-and-learning/oer/open-education-initiative/) Accessed May 30, 2017.
 
 United Nations General Assembly. 1948. ["Universal Declaration of Human Rights."](http://www.un.org/en/universal-declaration-human-rights/)
 
 University of Minnesota Center for Open Education. ["Open Textbook Library."](https://open.umn.edu/opentextbooks/) Accessed May 30, 2017.
+
+Waxman, Jonathan. 2012. “Prefacing Music in the Concert Hall: Program Books, Composer Commentaries, and the Conflict over Musical Meaning.” Ph.D. Diss., New York University.
 
 [“What is Community-Engaged Learning?”](https://www.binghamton.edu/cce/faculty/engaged-teaching/course-development/index.html) Center for Civic Engagement, Binghamton University, The State University of New York. Accessed June 26, 2017.
 
