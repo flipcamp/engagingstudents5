@@ -35,9 +35,15 @@ Bailyn, Bernard. 1982. ["The Challenge of Modern Historiography."](https://acade
 
 Barkley, Elizabeth F., K. Patricia Cross, and Claire Howell Major. 2005. [*Collaborative Learning Techniques: A Practical Guide to Promoting Learning in Groups.*](https://openlibrary.org/works/OL17728748W/Collaborative_learning_techniques) San Francisco, CA: Jossey Bass Publishers.
 
+Bathgate, Meghan, Judith Sims-Knight, and Christian Schunn. 2012. [“Thoughts on Thinking: Engaging Novice Music Students in Metacognition.”](http://onlinelibrary.wiley.com/doi/10.1002/acp.1842/abstract) *Applied Cognitive Psychology* 26: 403-409.
+
 Battles, Matthew. 2004. ["In Praise of Doodling."](http://www.jstor.org/stable/41221340?seq=1#page_scan_tab_contents) *The American Scholar* 73 (4): 105–108.
 
 Baumer, Matthew. 2015. ["A Snapshot of Music History Teaching to Undergraduate Music Majors, 2011-2012: Curricula, Methods, Assessment, and Objectives."](http://www.ams-net.org/ojs/index.php/jmhp/article/view/165) *The Journal of Music History Pedagogy* 5 (2): 23-47.
+
+Benton, Carol W. 2014. [*Thinking about Thinking: Metacognition for Music Learning.*](https://books.google.ca/books/about/Thinking_about_Thinking.html?id=dT_oAgAAQBAJ&redir_esc=y) Lanham, MD: Rowman & Littlefield Education.
+
+———. 2013. [“Promoting Metacognition in Music Classes.”](https://eric.ed.gov/?q=“Thoughts+on+Thinking%3a+Engaging+Novice+Music+Students+in+Metacognition”&id=EJ1020135) *Music Educators Journal* 100 (2): 52-59.
 
 Boud, David. 1985. “PBL in Perspective.” In *Problem-Based Learning in Education for the Professions.* Higher Education Research and Development Society of Australasia.
 
@@ -61,9 +67,13 @@ Campbell, Patricia Shehan, David Myers, Edward Sarath, Juan Chattah, Lee Higgins
 
 Cantley-Smith, Rowena. 2006. ["Put Down Your Pen: The Role of Oral Assessment in Undergraduate Law Studies."](http://www.austlii.edu.au/au/journals/JCULawRw/2006/3.html) *James Cook University Law Review* 13: 30-63.
 
+Caplin, William E. 2013. [Analyzing Classical Form: An Approach for the Classroom.](https://openlibrary.org/search?q=Analyzing+classical+form) New York: Oxford University Press.
+
 Chernow, Ron. 2004. [*Alexander Hamilton.*](https://openlibrary.org/works/OL2665176W/Alexander_Hamilton) New York: Penguin Books.
 
 Chion, Michel. 1994. [*Audio-Vision: Sound On Screen.*](https://openlibrary.org/works/OL12156324W/Audio-Vision) Translated by Claudia Gorbman. New York: Columbia University Press.
+
+Clendinning, Jane Piper, and Elizabeth West Marvin. 2016. [*The Musician’s Guide to Theory and Analysis.*](https://openlibrary.org/works/OL16668089W/The_musician's_guide_to_theory_and_analysis) Third edition. New York: W. W. Norton & Company.
 
 Clouder, Lynn, and Jane Toms. 2008. ["Impact of Oral Assessment on Physiotherapy Students’ Learning in Practice."](http://dx.doi.org/10.1080/09593980701378157) *Physiotherapy Theory and Practice* 24 (1): 29-42.
 
@@ -87,6 +97,8 @@ Duker, Philip, Kris Shaffer, and Daniel Stevens. 2014. ["Problem-Based Learning 
 
 Duker, Philip, and Daniel Stevens. 2017. ["Scaling to Real Music: Rebuilding Aural Skills Pedagogy from the Ground Up."](http://tinyurl.com/ScalingToRealMusicFolder).” Poster presented at the Pedagogy Into Practice Conference. Lee University, Cleveland, TN.
 
+Dunlosky, John, and Janet Metcalfe. 2009. [*Metacognition.*](https://books.google.ca/books?id=xHtJADBpp-IC&source=gbs_similarbooks) Los Angeles: Sage.
+
 Edgarton, R. 2001. ["Education White Paper."](http://www.faculty.umb.edu/john_saltmarsh/resources/Edgerton%20Higher%20Education%20White%20Paper.rtf) Accessed June 27, 2017.
 
 Eyler, Janet and Dwight E. Giles, Jr. 1999. [*Where’s the Learning in Service-Learning?*](https://openlibrary.org/books/OL24755192M/Where's_the_learning_in_service-learning) San Francisco: Jossey-Bass.
@@ -100,6 +112,8 @@ Eyler, Janet and Dwight E. Giles, Jr. 1999. [*Where’s the Learning in Service-
 [“First Year Seminars.”](http://www.highpoint.edu/firstyearprograms/firstyearseminars/) High Point University website. Accessed June 14, 2017. 
 
 [“First-Year Seminars & Experiences.”](http://www.ucdenver.edu/student-services/resources/ue/early-alert/Documents/FYS%20for%20UES.pdf) University of Colorado-Denver Student Services website. Accessed June 14, 2017. 
+
+Flavell, John H. 1976. “Metacognitive Aspects of Problem Solving.” In [*The Nature of Intelligence,*](https://books.google.ca/books?id=xfmKPQAACAAJ&dq=The+nature+of+intelligence&hl=en&sa=X&ved=0ahUKEwj5rfWN0efUAhWCND4KHfB5AHcQ6AEIRTAF) edited by Lauren B. Resnick, 231–235. Hillsdale, NJ: Lawrence Erlbaum Associates.
 
 Forman, Murray, and Mark Anthony Neal, eds. 2004. [*That’s the Joint! The Hip-Hop Studies Reader.*](https://openlibrary.org/works/OL15936899W/That's_the_joint!) New York: Routledge.
 
@@ -122,6 +136,8 @@ Grymes, James A. and John Allemeir. ["Making Students Make Music: Integrating Co
 Gullings, Kyle. ["OER for Undergraduate Music Theory."](https://drive.google.com/drive/folders/0B0laoIMCvmzxU3JZaWQ0WHo3QXc?usp=sharing) Link to a publicly-viewable Google Drive folder with 109 documents.
 
 Habeck, Holly. 2017. ["Music Professor Takes a Shot on  *Hamilton*."](http://www.ithaca.edu/news/releases/music-professor-takes-a-shot-on-hamilton-43506/#.WQH-XvkrLGg) IC News. Ithaca College (February 9). Accessed April 27, 2017.
+
+Hacker, Douglas J., John Dunlosky, and Arthur C. Graesser. 1998. [*Metacognition in Educational Theory and Practice.*](https://books.google.ca/books/about/Metacognition_in_Educational_Theory_and.html?id=OUCNcfrljhQC&redir_esc=y) Mahwah, NJ: Lawrence Erlbaum Associates.
 
 Haefeli, Sara. 2016. ["From Answers to Questions: Fostering Student Creativity and Engagement in Research and Writing."](http://www.ams-net.org/ojs/index.php/jmhp/article/view/192) *The Journal of Music History Pedagogy*, 7 (1): 1-17. 
 
@@ -146,9 +162,15 @@ Johnson, Vicky. 2015. [“Proficiency-Based Learning with Muscle in a Music Theo
 
 Joughin, Gordon. 2007. ["Student Conceptions of Oral Presentations."](http://dx.doi.org/10.1080/03075070701346873) *Studies in Higher Education* 32 (3): 323-336.
 
+Kaplan, Matthew, Naomi Silver, Danielle LaVaque-Manty, and Deborah Meizlish. 2013. [*Using Reflection and Metacognition to Improve Student Learning.*](https://www.amazon.ca/Reflection-Metacognition-Improve-Student-Learning/dp/1579228259) Sterling, VA: Stylus.
+
 Kasinitz, Philip. 2016. ["*Hamilton*: Diverse America and the Second Generation Advantage."](http://www.brooklyn.cuny.edu/web/academics/centers/hitchcock/publications/amr/v46-1/kasinitz.php) *American Music Review* 46 (1).
 
+Kostka, Stefan, Dorothy Payne, and Byron Almen. 2018. [*Tonal Harmony with an Introduction to Post-Tonal Music.*](http://www.mheducation.com/highered/product/M125944709X.html) Eighth edition. New York: McGraw-Hill Education.
+
 Krims, Adam. 2000. [*Rap Music and the Poetics of Identity.*](https://openlibrary.org/books/OL42732M/Rap_music_and_the_poetics_of_identity) New York: Cambridge University Press.
+
+Laitz, Steven G. (2016). [*The Complete Musician: An Integrated Approach to Theory, Analysis, and Listening.*](https://global.oup.com/ushe/product/the-complete-musician-9780199347094?cc=ca&lang=en&) Fourth edition. New York: Oxford University Press.
 
 Lewin, David. 1990. [“Klumpenhouwer Networks and Some Isographies that Involve Them.”](http://www.jstor.org/stable/746147?seq=1#page_scan_tab_contents) *Music Theory Spectrum* 12 (1): 83-120.
 
@@ -184,6 +206,10 @@ Mueller, Pam A., and Daniel M. Oppenheimer. 2014. [“The Pen Is Mightier Than t
 
 Muraven, Mark and Roy F. Baumeister. 2000. [“Self-regulation and depletion of limited resources: Does self-control resemble a muscle?”](http://psycnet.apa.org/fulltext/2000-03444-003.html) *Psychological Bulletin* 126: 247–59.
 
+Murphy, Paul, Joel Phillips, Elizabeth West Marvin, and Jane Piper Clendinning. 2016. [*The Musician’s Guide to Aural Skills: Ear Training.*](http://books.wwnorton.com/books/webad.aspx?id=4294990442) Third edition. New York: W. W. Norton & Company.
+
+———. 2016. [*The Musician’s Guide to Aural Skills: Sight-Singing.*](http://books.wwnorton.com/books/webad.aspx?id=4294990441) Third edition. New York: W. W. Norton & Company.
+
 Murphy, Scott. 2007. [“Considering Network Recursion and Bartók’s ‘Fourths.’”](http://www.mtosmt.org/issues/mto.07.13.3/mto.07.13.3.murphy.html) *Music Theory Online* 13 (3).
 
 Nalepinski, Kate. 2017. ["Q&A: IC professor starts a revolution with ‘Hamilton’ course."](https://theithacan.org/life-culture/qa-ic-professor-starts-a-revolution-with-hamilton-course/) February 21. *The Ithacan.* Accessed April 27, 2017.
@@ -198,11 +224,15 @@ Ottman, Robert, and Nancy Rogers. 2013. [*Music for Sight Singing.*](https://ope
 
 [Oxford Music Online.](http://www.oxfordmusiconline.com/public/;jsessionid=89504868BAAADF6DFF8C4CB1A75AF200) Accessed June 30, 2017.
 
+Parncutt, Richard, and Gary McPherson. 2002. [*The Science and Psychology of Music Performance: Creative Strategies for Teaching and Learning.*](https://books.google.ca/books/about/The_Science_and_Psychology_of_Music_Perf.html?id=l5unYHW80csC) New York: Oxford University Press.
+
 Perry, William G. 1999. [*Forms of Ethical and Intellectual Development in the College Years, A Scheme.*](https://openlibrary.org/works/OL1936527W/Forms_of_intellectual_and_ethical_development_in_the_college_years) San Francisco, CA: Jossey-Bass Publishers.
 
 Pillay, Srini. 2017. *Tinker, Dabble, Doodle, Try: Unlock the Power of the Unfocused Mind.* New York: Ballantine Books. 
 
 ———. 2016. [“The ‘Thinking’ Benefits of Doodling.”](http://www.health.harvard.edu/blog/the-thinking-benefits-of-doodling-2016121510844) December 15. *Harvard Health Blog.* Accessed May 30, 2017. 
+
+Pogonowski, Lenore. 1989. “Metacognition: A Dimension of Musical Thinking.” In [*Dimensions of Musical Thinking,*](https://books.google.ca/books/about/Dimensions_of_Musical_Thinking.html?id=tNlxL2_VkkkC&redir_esc=y) edited by Eunice Boardman, 9–32. Reston, VA: Music Educators National Conference. 
 
 Rahn, Jay, and James R. McKay. 1988. [“The Guide-Tone Method: An Approach to Harmonic Dictation.”](https://music.appstate.edu/about/jmtp/jmtp-volume-2) *Journal of Music Theory Pedagogy* 2: 101–111.
 
