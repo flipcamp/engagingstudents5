@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Engaging Everyone: Musical Analysis in the General Education
-Classroom
+title: "Engaging Everyone: Musical Analysis in the General Education
+Classroom"
 author: George Lam, York College, City University of New York
 ---
 
@@ -43,30 +43,5 @@ In a later part of this course, I ask students to further apply this concept by 
 ## Conclusions
 
 While this essay focuses on teaching musical analysis concepts to non-musician students, similar student-centered engagement techniques can be applied to courses across the curriculum for both musicians and non-musicians alike, as musicians also come to courses with varying abilities and perspectives. However, it is important that we continue to develop musical analysis skills as an integral part of courses designed for the non-musician student. Such skills allow all students to engage with deeper listening experiences, recognize their own developing and changing musical tastes, and foster a culture of active listening that includes the entire artistic work—not just the lyrics, the music video, and the artist’s brand. Further, in a music theory fundamentals course, the topics introduced are often reinforced with repeated drills (e.g., naming notes correctly on the staff). As such, the study of music in this context can quickly become synonymous with how to correctly recognize and label a musical phenomenon using notation. Hence, it is also important that we show non-musician students that these are not the ultimate goals in our study of music. Rather, these are tools that help us recognize patterns across different genres and understand how artists use these patterns to compose, thereby demystifying the creative process and expanding our students’ ideas of how music can be made. In turn, we create the conditions for all students—regardless of their musical ability—to come to their own conclusions on how musical analysis helps them more deeply engage with the music that they already love.
-
-## Works Cited
-
-Ambrose, Susan A., Michael W. Bridges, Michele DiPietro, Marsha C.
-Lovett, and Marie K. Norman. 2010. *How Learning Works: Seven
-Research-Based Principles for Smart Teaching*. San Francisco:
-Jossey-Bass.
-
-Chion, Michel. 1994. *Audio-Vision: Sound On Screen*. Translated by
-Claudia Gorbman. New York: Columbia University Press.
-
-Forney, Kristine, Andrew Dell'Antonio, and Joseph Machlis. 2016. *The
-Enjoyment of Music: Essential Listening Edition*, 3rd ed. New York: W.
-W. Norton.
-
-Johnson, Vicky. 2015. “Proficiency-Based Learning with Muscle in a Music
-Theory Classroom.” *Engaging Students: Essays in Music Pedagogy, vol.
-3*. Accessed June 20, 2017.
-
-Roust, Colin. 2013. “Creating Illusions: Practical Approaches to
-Teaching ‘Added Value’ in Audiovisual Artworks.” *Engaging Students:
-Essays in Music Pedagogy, vol. 1*. Accessed July 18, 2017.
-
-Silverman, Marissa. 2009. “Rethinking Music ‘Appreciation’.” *Visions of
-Research in Music Education* 13.
 
 This work is copyright ⓒ 2017 George Lam and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/).

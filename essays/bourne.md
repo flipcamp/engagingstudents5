@@ -10,9 +10,6 @@ author: Janet Bourne, University of California, Santa Barbara
 
 **{{ page.author }}**
 
-<a href="https://twitter.com/share" class="twitter-share-button" data-via="FlipCampMT">Tweet</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-
 What if students took music theory out of the classroom, rehearsal room and practice room and into a public space? What could that look like? Community-engaged learning (CEL)—or service learning—combines "[learning goals and community service in ways that can enhance both student growth and the common good](https://cft.vanderbilt.edu/guides-sub-pages/teaching-through-community-engagement/)." The definition of community is broad. It could be "[local, regional/state, national, global](http://www.usf.edu/engagement/community/definitions.aspx)." It is no surprise why CEL has become popular in many higher education institutions considering the many benefits to student learning. One [meta-study](http://www.compact.org/wp-content/uploads/resources/downloads/aag.pdf) found that CEL increases student personal growth through identity, spiritual growth, moral development, and personal efficacy and at the same time it builds interpersonal, leadership and communication skills. Not only that, but according to [one study](http://quod.lib.umich.edu/m/mjcsl/3239521.0009.102/1/--changes-in-college-students-attitudes-and-intentions-for?rgn=full+text;view=image), students claim greater satisfaction and report that they learned more about the field in a CEL course than similar students not in a CEL course.
 
 A community-engaged course involves [four components](https://www.binghamton.edu/cce/faculty/engaged-teaching/course-development/index.html):
@@ -33,7 +30,7 @@ The following are two examples of CEL projects that I used in the undergraduate 
 - Compose model compositions using forms and techniques learned this semester, including a Mozart-style minuet.
 - Explain components of the minuet to an audience, adjusting language as necessary for their audience.
 
-**Community**: Local
+**Community**: Local  
 **Course**: Music Theory II (could also work for I or III, depending upon institution curriculum)
 
 A galant-style minuet composition is a classic project (no pun intended) in music theory curricula. In fact, [Nancy Rogers](https://drive.google.com/file/d/0B0ZI8di-pEDvSU5vRG9nbVg3ZFk/view) mentions the ubiquitousness of this assignment when suggesting other genres might be more relevant for students today. For those committed to composing minuets, however, [Stefan
@@ -52,7 +49,7 @@ A community-engaged project should not only help the students, but also the comm
 - Create an argument (think critically) when analyzing music and critiquing analytical methods: write coherently about a position (a thesis or claim) on an analytical interpretation of a piece and use elements from piece as evidence to defend thesis or claim.
 - Explain conventions for writing about music for different audiences; in particular, conventions for writing analysis papers.
 
-**Community**: Global
+**Community**: Global  
 **Course**: Music Theory IV (could feasibly work for any theory course)
 
 Like the minuet composition, the analysis paper is a staple of a theory curriculum, especially in later courses. In my music theory IV course, students each picked their own piece from an approved list. At the core of their paper, they argued for an analytical interpretation of their piece using evidence. They also included some brief historical background of their composer to get a sense of his or her cultural context, ideology, and motivation. In addition to learning how to create an argument, students developed their writing skills: how to write clearly and persuasively about an analysis and how to alter prose for different audiences.

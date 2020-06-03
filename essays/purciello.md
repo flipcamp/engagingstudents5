@@ -19,7 +19,7 @@ But what if we were to teach music history the way that we do it? What if we wer
 
 ## Part I: Exploring Narratives of History with Problem-Based Learning
 
-In the early 1980s, music historians Carl Dahlhaus and Leo Treitler surveyed a historical landscape that was in the midst of radical change and addressed the momentous question of whether [history was on the decline](https://books.google.com/books?id=-6dsSqqISJUC&pg=PA33&lpg=PA33&dq=dahlhaus+foundations+of+music+history&source=bl&ots=W1KtuWp75-&sig=SKBIRVuiBL32Ulk5GvV3iJUcepQ&hl=en&sa=X&ved=0ahUKEwj4-tqxuOTUAhXJGj4KHZN5CVIQ6AEIRDAH#v=snippet&q=history%20on%20the%20decline&f=false), if not [the path to self-destruction](http://ncm.ucpress.edu/content/7/3/363). At the center of the issue lay the notion of narrative and, more specifically, the postmodern distrust of the type of grand narratives of music history that had, just thirty years earlier, defined the discipline. The postmodern belief that the realities of history could not be viewed objectively brought with it an understanding that the interactions of the different dimensions of the past must be examined using a variety of philosophical approaches, socially constructed contexts, and deep analyses in addition to technical problem-solving. As these approaches introduced a more nuanced understanding of specific aspects of the past, the notion of “history” itself began to broaden out into a surfeit of data, facts, and contexts that seemed to bring about confusion and chaos rather than cohesion. The more we learned about history, the greater our realization was that a single over-arching narrative could never suffice.
+In the early 1980s, music historians Carl Dahlhaus and Leo Treitler surveyed a historical landscape that was in the midst of radical change and addressed the momentous question of whether [history was on the decline](https://books.google.com/books?id=-6dsSqqISJUC&pg=PA3), if not [the path to self-destruction](http://ncm.ucpress.edu/content/7/3/363). At the center of the issue lay the notion of narrative and, more specifically, the postmodern distrust of the type of grand narratives of music history that had, just thirty years earlier, defined the discipline. The postmodern belief that the realities of history could not be viewed objectively brought with it an understanding that the interactions of the different dimensions of the past must be examined using a variety of philosophical approaches, socially constructed contexts, and deep analyses in addition to technical problem-solving. As these approaches introduced a more nuanced understanding of specific aspects of the past, the notion of “history” itself began to broaden out into a surfeit of data, facts, and contexts that seemed to bring about confusion and chaos rather than cohesion. The more we learned about history, the greater our realization was that a single over-arching narrative could never suffice.
 
 Today, historiography is dependent upon the creation of multiple and overlapping narratives that provide a glimpse into the past, while showing “how major aspects of the present world were shaped—acquired their character—in the process of their emergence” ([Bailyn, 1982](https://www.jstor.org/stable/1863306?seq=1#page_scan_tab_contents)). For music history, such interpretations have provided a rich and complex understanding of how music reflects the people of diverse places and times, their ways of life, social and political institutions, economic structures, cultural systems, and aesthetic worldviews. However, the profusion of historical accounts necessary to achieve this understanding has also complicated the telling of history to such an extent that, in the undergraduate classroom, it has become quite easy to lose the narrative thread in the interest of coverage.
 
@@ -64,76 +64,5 @@ Of all of the problems described here, the New Mexico Symphony Orchestra problem
 The examples presented within this article suggest strategies to creatively rethink the ways in which students engage with course content in order to change how they perceive music history. Without exception, my classes are part of a traditional music history curriculum that primarily exists as an ethnocentric survey of western art music privileging the interpretation of older works over new. However, over the past five years, I have found that the introduction of Problem-Based Learning exercises into my courses has helped to turn those elements of the sequence identified by some as weaknesses or deficiencies into “[learning issues](https://openlibrary.org/books/OL9728080M/The_Power_of_Problem-Based_Learning)” for my students. For example, by introducing the “What is Music?” problem towards the beginning of the sequence, I begin a multi-semester process of encouraging my students to challenge the notion of a single over-arching historical storyline. The problem’s emphasis on the fact that there is no easy universal way of categorizing the types of sounds,  genres, functions, and definitions that globally qualify as “music” brings into sharp relief the idea that the western music my students are studying is only one of countless possibilities. At the same time, “What is Music?” also introduces students to the idea of a figurative musical toolbox containing tools and approaches that can be applied to music across most genres, cultures, and time periods. Subsequent problems like “Considering Musical Style” and “The Notre Dame Singer” are presented throughout the remainder of the sequence with the intention of helping students to hone the skills and tools within their personal musical toolboxes, while familiarizing them with important works drawn from the canon. Whenever possible, I like to include short problems that require students to use these same tools for works that fall outside of the western art tradition. Finally, the introduction of a capstone problem like “Resurrecting the New Mexico Symphony Orchestra” towards the end of the sequence helps students to pull together everything that they have learned across four semesters—to see the forest through the trees, so to speak. The act of having students use limited data to construct a historical description that resonates with a specific audience reminds them that there are many historical narratives at play at any given time and that the meaning-making process is entirely in the hands of history’s teller.
 
 On a personal note, I would add that since adding Problem-Based Learning to my classes, I have found an increased student engagement with course content both during the PBL workshops and in my more traditionally formatted class meetings. More and more frequently, I have found students actively seeking connections between the topics we cover in class, their other coursework, and even current events. Moreover, over the past five years, I have found that students’ long-term retention of concepts covered in PBL problems has improved as they begin to demonstrate more personal control over the subject matter. By and far the most rewarding part of incorporating Problem-Based Learning into my classes, however, is the fact that I much less frequently hear students ask, “why do we need to know this?” Through Problem-Based Learning, students have begun to discover the answer to that timeless question for themselves.
-
-**Bibliography**
-
-American Musicological Society, Pedagogy Study Group. 2014. Round Table Discussion: *The End of the Undergraduate Music History Sequence?* Milwaukee, WI: Annual Meeting of the American Musicological Society. Available at: [https://www.youtube.com/watch?v=cf7BTLGDf0A](https://www.youtube.com/watch?v=cf7BTLGDf0A). Date accessed: 17 July 2017.
-
-\_\_\_\_\_\_\_. 2016. Round Table Discussion: *Experimenting with the Canon: New Approaches to the Music History Survey.* Vancouver, Canada: Annual Meeting of the American Musicological Society. Available at: [*https://www.youtube.com/watch?v=ksfW579LH6E*](https://www.youtube.com/watch?v=ksfW579LH6E). Date accessed: 17 July 2017.
-
-Armstrong, Elizabeth A. 1997. “A Hybrid Model of PBL” in *The Challenge of Problem Based Learning*. 2^nd^ Edition. London, England: Kogan Page. Pages 137-150.
-
-Bailyn, Bernard. 1982. “The Challenge of Modern Historiography,” *The American Historical Review* 87/1:1-24.
-
-Barkley, Elizabeth F., K. Patricia Cross, and Claire Howell Major. 2005. *Collaborative Learning Techniques: A Practical Guide to Promoting Learning in Groups.* San Francisco, CA: Jossey Bass Publishers.
-
-Baumer, Matthew. 2015. “A Snapshot of Music History Teaching to Undergraduate Music Majors, 2011-2012: Curricula, Methods, Assessment, and Objectives,” *The Journal of Music History Pedagogy* 5/2: 23-47. ISSN 2155-109X. Available at: [http://www.ams-net.org/ojs/index.php/jmhp/article/view/165](http://www.ams-net.org/ojs/index.php/jmhp/article/view/165). Date accessed: 13 July 2017.
-
-Boud, David and Grahame Felletti, eds. 1997. *The Challenge of Problem Based Learning*. 2^nd^ Edition. London, England: Kogan Page.
-
-Boud, David. 1985. “PBL in Perspective” in *Problem-Based Learning in Education for the Professions*. Higher Education Research and Development Society of Australasia.
-
-Briscoe, James R., ed. 2010. *Vitalizing Music History Teaching*. Hillsdale, NY: Pendragon Press.
-
-Bruffee, Kenneth A. 1999. *Collaborative Learning: Higher Education, Interdependence, and the *Authority of Knowledge.* Baltimore, MD: Johns Hopkins University Press.
-
-Burkholder, J. Peter. 2015. “The Value of a Music History Survey,” *The Journal of Music History Pedagogy,* 5/2: 57-63. ISSN 2155-109X. Available at: [http://www.ams-net.org/ojs/index.php/jmhp/article/view/175](http://www.ams-net.org/ojs/index.php/jmhp/article/view/175). Date accessed 13 July 2017.
-
-College Music Society Task Force on the Undergraduate Music Major. 2014. “[Transforming Music Study from its Foundations: A Manifesto for Progressive Change in the Undergraduate Preparation of Music Majors.](http://www.mtosmt.org/issues/mto.16.22.1/manifesto.pdf)” Date accessed: 27 June 2017.
-
-Crain, Timothy Mark. 2014. “Beyond Coverage: Teaching for Understanding in the Music History Classroom,” *Journal of Music History Pedagogy* 4/2: 301-318. ISSN 2155-109X. Available at: [http://www.ams-net.org/ojs/index.php/jmhp/article/view/110](http://www.ams-net.org/ojs/index.php/jmhp/article/view/110). Date accessed: 13 July 2017
-
-Dahlhaus, Carl. 1983. *Foundations of Music History*. Translated by J.B. Robinson. Cambridge and New York: Cambridge University Press.
-
-Davis, James A., ed. 2012. *The Music History Classroom.* Burlington, VT: Ashgate.
-
-Delisle, Robert. 1997. *How to Use Problem-Based Learning in the Classroom*. Alexandria VA: Association for Supervision and Curriculum Development.
-
-Duch, Barbara J., Susan E. Groh, and Deborah E. Allen, eds. 2001. *The Power of Problem-Based Learning: A Practical “How To” for Teaching Undergraduate Courses
-in any Discipline.* Sterling, VA: Stylus.
-
-Edgarton, R. 2001. [Education White Paper](http://www.faculty.umb.edu/john_saltmarsh/resources/Edgerton%20Higher%20Education%20White%20Paper.rtf). Date accessed: 27 June 2017.
-
-Grymes, James A. and John Allemeir. “Making Students Make Music: Integrating Composition and Improvisation into the Early Music Classroom,” *Journal of Music
-History Pedagogy* 4/2: 231-254. ISSN 2155-109X. Available at: [http://www.ams-net.org/ojs/index.php/jmhp/article/view/122](http://www.ams-net.org/ojs/index.php/jmhp/article/view/122). Date accessed: 13 July 2017.
-
-Haefeli, Sara. 2016. “From Answers to Questions: Fostering Student Creativity and Engagement in Research and Writing, *The Journal of Music History
-Pedagogy*, 7/1:1-17. ISSN 2155-109X. Available at: [http://www.ams-net.org/ojs/index.php/jmhp/article/view/192](http://www.ams-net.org/ojs/index.php/jmhp/article/view/192). Date accessed: 13 July 2017.
-
-Lowe, Melanie. 2015. “Rethinking the Undergraduate Music History Sequence in the Information Age,” *The Journal of Music History Pedagogy,* 5/2: 65-71. ISSN 2155-109X. Available at: [http://www.ams-net.org/ojs/index.php/jmhp/article/view/177](http://www.ams-net.org/ojs/index.php/jmhp/article/view/177). Date accessed: 13 July 2017.
-
-Millis, Barbara J. 2010. *Cooperative Learning in Higher Education*. Sterling, VA: Stylus.
-
-Natvig, Mary, ed. 2002. *Teaching Music History.* Burlington, VT: Ashgate.
-
-Perry, William G. 1999. *Forms of Ethical and Intellectual Development in the College Years, A Scheme.* San Francisco, CA: Jossey-Bass Publishers.
-
-Robin, William. 2017. “What Controversial Changes at Harvard Mean for Music in the University,” *The Log Journal*. Available at: [http://thelogjournal.com/2017/04/25/what-controversial-changes-at-harvard-means-for-music-in-the-university/](http://thelogjournal.com/2017/04/25/what-controversial-changes-at-harvard-means-for-music-in-the-university/). Date accessed: 13 July 2017.
-
-Roust, Colin. 2016. “Toward a Skills-Based Curriculum: Recent Trends in Music History Pedagogy,” *Musica Docta,* 4:105-108. ISSN 2039-9715. Available at: [http://musicadocta.unibo.it/article/view/6575/6372](http://musicadocta.unibo.it/article/%20%09view/6575/6372). Date accessed: 17 July 2017.
-
-Savery, John R. 2006. “[Overview of Problem-Based Learning: Definitions and Distinctions](http://docs.lib.purdue.edu/ijpbl/vol1/iss1/3/).” *The Interdisciplinary Journal of Problem-Based Learning* 1/1. Date accessed: 27 June 2017.
-
-Seaton, Douglass. 2012. “Core Music Curriculum Components II: History and Repertory: A Survey and Some Questions,” in *Proceedings: The 87th Annual Meeting, 2011.* Reston, VA: The National Association of Schools of Music. Pages 23-26.
-
-\_\_\_\_\_\_\_. 2015. “Reconsidering Undergraduate Music History: Some Introductory Thoughts,” *The Journal of Music History Pedagogy,* 5/2: 53-56. ISSN 2155-109X. Available at: [http://www.ams-net.org/ojs/index.php/jmhp/article/view/176](http://www.ams-net.org/ojs/index.php/jmhp/article/view/176). Date accessed: 13 July 2017.
-
-Stevens, Daniel, Philip Duker, and Kris Shaffer. 2014. “[Problem-Based Learning in Music, A Guide for Instructors.](http://flipcamp.org/engagingstudents2/essays/dukerShafferStevens.html)” *Engaging Students: Essays in Music Pedagogy*, 2. Date accessed: 27 June 2017.
-
-Treitler, Leo. 1984. “What Kind of Story is History? *19^th^-century Music* VII/3 (1984): 363-373.
-
-Vanderbilt University Center for Teaching. “[Bloom’s Taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/).” Date accessed: 27 June 2017.
-
-Wiggins, Grant and Jay McTighe. 1998. Rev. 2012. *The Understanding by Design Guide to *Refining Units and Reviewing Results*. 2^nd^ Edition. Alexandria, VA: ASCD.
 
 This work is copyright ©2017 Maria Anne Purciello and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).

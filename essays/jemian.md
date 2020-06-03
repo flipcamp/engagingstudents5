@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ho Hey, Having Some Say in Contextual Listening"
-author: Rebecca Jemain, University of Louisville
+author: Rebecca Jemian, University of Louisville
 ---
 
 {{ page.title }}
